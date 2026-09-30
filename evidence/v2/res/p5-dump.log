@@ -1,0 +1,8 @@
+/opt/libvmi-F-rel/bin/vmi-dump-memory: invalid option -- 'n'
+Usage: /opt/libvmi-F-rel/bin/vmi-dump-memory [options] domain output_file
+Available options:
+  -p, --progress        print progress when dumping
+  -s, --sparse          save dump as sparse file
+      --no-pause        don't pause the VM when dumping memory
+  -k, --kvmi-socket     use the specified kvmi socket for KVM driver
+  -h, --help            print help and exit

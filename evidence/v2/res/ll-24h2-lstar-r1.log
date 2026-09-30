@@ -1,0 +1,5 @@
+**Found PsInitialSystemProcess at 0x0
+--kpgd from JSON profile success
+RESULT rc=0 init_ms=326
+CHECK win_sysproc rc=0 val=0 | ksym PsActiveProcessHead rc=1 val=0 | pid0_dtb rc=0 val=0xf000d43ef000d43e | pid4_dtb rc=1 val=0
+USABLE=NO

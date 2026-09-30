@@ -1,0 +1,23 @@
+Saving to /root/fixtures/25h2-LSTAR.sav new xl format (info 0x3/0x0/4401)
+xc: info: Saving domain 443, type x86 HVM
+xc: progress: Frames: 108544/2162816    5%
+xc: progress: Frames: 217088/2162816   10%
+xc: progress: Frames: 324608/2162816   15%
+xc: progress: Frames: 433152/2162816   20%
+xc: progress: Frames: 541696/2162816   25%
+xc: progress: Frames: 649216/2162816   30%
+xc: progress: Frames: 757760/2162816   35%
+xc: progress: Frames: 865280/2162816   40%
+xc: progress: Frames: 973824/2162816   45%
+xc: progress: Frames: 1082368/2162816   50%
+xc: progress: Frames: 1189888/2162816   55%
+xc: progress: Frames: 1298432/2162816   60%
+xc: progress: Frames: 1405952/2162816   65%
+xc: progress: Frames: 1514496/2162816   70%
+xc: progress: Frames: 1623040/2162816   75%
+xc: progress: Frames: 1730560/2162816   80%
+xc: progress: Frames: 1839104/2162816   85%
+xc: progress: Frames: 1946624/2162816   90%
+xc: progress: Frames: 2055168/2162816   95%
+xc: progress: Frames: 2162816/2162816  100%
+xc: progress: End of stream: 0/0    0%

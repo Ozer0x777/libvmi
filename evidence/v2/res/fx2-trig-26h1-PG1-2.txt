@@ -1,0 +1,24 @@
+t=0.00 vmi_init ok (tries=0)
+STATE t=0.00 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x11 cr3=0 rip=0x10128b lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=0.05 ctx=1 PG=0 LMA=0 IDT=1 LSTAR=0 SYS=0 cr0=0x11 cr3=0 rip=0xea3ed lstar=0 idtr=0xf605e kb=0 sysproc=0
+STATE t=0.10 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0 rip=0xcc4 lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=0.15 ctx=1 PG=0 LMA=0 IDT=1 LSTAR=0 SYS=0 cr0=0x11 cr3=0 rip=0xea3ed lstar=0 idtr=0xf605e kb=0 sysproc=0
+STATE t=0.20 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0 rip=0x910 lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=8.30 ctx=1 PG=0 LMA=0 IDT=1 LSTAR=0 SYS=0 cr0=0x11 cr3=0 rip=0x410b lstar=0 idtr=0x1f080 kb=0 sysproc=0
+STATE t=8.45 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0 rip=0x858d lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=8.50 ctx=1 PG=0 LMA=0 IDT=1 LSTAR=0 SYS=0 cr0=0x10 cr3=0 rip=0x839 lstar=0 idtr=0x1f080 kb=0 sysproc=0
+STATE t=8.55 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0 rip=0xacd2 lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=9.00 ctx=1 PG=0 LMA=0 IDT=1 LSTAR=0 SYS=0 cr0=0x11 cr3=0 rip=0x4b1290 lstar=0 idtr=0x1f080 kb=0 sysproc=0
+STATE t=9.05 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0 rip=0xacbd lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=9.15 ctx=1 PG=0 LMA=0 IDT=1 LSTAR=0 SYS=0 cr0=0x11 cr3=0 rip=0x4ad579 lstar=0 idtr=0x1f080 kb=0 sysproc=0
+STATE t=9.25 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0x1aa000 rip=0xacd2 lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=10.05 ctx=1 PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0 cr0=0x80000011 cr3=0x1aa000 rip=0x96223c lstar=0 idtr=0x1a7080 kb=0 sysproc=0
+PAUSED-MISMATCH t=10.05 ctx=1 PG=0 LMA=0 IDT=1 LSTAR=0 SYS=0 cr0=0x11 cr3=0x1aa000 rip=0xa88086 lstar=0 idtr=0x1a7080 kb=0 sysproc=0
+STATE t=10.05 ctx=1 PG=0 LMA=0 IDT=1 LSTAR=0 SYS=0 cr0=0x11 cr3=0x1aa000 rip=0xa88086 lstar=0 idtr=0x1a7080 kb=0 sysproc=0
+STATE t=10.10 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0x1aa000 rip=0xacbd lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=10.46 ctx=1 PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0 cr0=0x80000011 cr3=0x1aa000 rip=0x9d4d4d lstar=0 idtr=0x1a7080 kb=0 sysproc=0
+PAUSED-MISMATCH t=10.46 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0x1aa000 rip=0xaabd lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=10.46 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0x1aa000 rip=0xaabd lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=10.56 ctx=1 PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0 cr0=0x80000011 cr3=0x1aa000 rip=0x949ed6 lstar=0 idtr=0x1a7080 kb=0 sysproc=0
+PAUSED t=10.56 ctx=1 PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0 cr0=0x80000011 cr3=0x1aa000 rip=0x962272 lstar=0 idtr=0x1a7080 kb=0 sysproc=0
+TRIGGER PG1+0ms at t=10.56 (T_CTX=0.00 T_PG=10.05 T_IDT=0.05 T_LSTAR=-1.00 T_SYS=-1.00)

@@ -1,0 +1,35 @@
+t=0.00 vmi_init ok (tries=0)
+STATE t=0.00 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x11 cr3=0 rip=0x101266 lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=0.05 ctx=1 PG=0 LMA=0 IDT=1 LSTAR=0 SYS=0 cr0=0x11 cr3=0 rip=0xea3ed lstar=0 idtr=0xf605e kb=0 sysproc=0
+STATE t=0.10 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0 rip=0xcdc lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=8.40 ctx=1 PG=0 LMA=0 IDT=1 LSTAR=0 SYS=0 cr0=0x11 cr3=0 rip=0x76e lstar=0 idtr=0x1f080 kb=0 sysproc=0
+STATE t=8.60 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0 rip=0xacd2 lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=9.10 ctx=1 PG=0 LMA=0 IDT=1 LSTAR=0 SYS=0 cr0=0x11 cr3=0 rip=0x4a8873 lstar=0 idtr=0x1f080 kb=0 sysproc=0
+STATE t=9.15 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0 rip=0xacd2 lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=10.31 ctx=1 PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0 cr0=0x80000011 cr3=0x1aa000 rip=0x9f229b lstar=0 idtr=0x1a7080 kb=0 sysproc=0
+STATE t=10.41 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0x1aa000 rip=0xacbd lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=10.51 ctx=1 PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0 cr0=0x80000011 cr3=0x1aa000 rip=0xa815ab lstar=0 idtr=0x1a7080 kb=0 sysproc=0
+STATE t=10.91 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0x1aa000 rip=0xacd2 lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=11.21 ctx=1 PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0 cr0=0x80000011 cr3=0x1aa000 rip=0x9f22b7 lstar=0 idtr=0x1a7080 kb=0 sysproc=0
+STATE t=11.36 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0x1aa000 rip=0xacd2 lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=11.76 ctx=1 PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0 cr0=0x80000011 cr3=0x1aa000 rip=0xa402d9 lstar=0 idtr=0x1a7080 kb=0 sysproc=0
+STATE t=11.81 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0x1aa000 rip=0xaac1 lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=11.86 ctx=1 PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0 cr0=0x80000011 cr3=0x1aa000 rip=0xa80428 lstar=0 idtr=0x1a7080 kb=0 sysproc=0
+STATE t=11.96 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0x1aa000 rip=0xad0e lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=12.11 ctx=1 PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0 cr0=0x80000011 cr3=0x1aa000 rip=0x9f22e1 lstar=0 idtr=0x1a7080 kb=0 sysproc=0
+STATE t=12.17 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0x1aa000 rip=0xacd2 lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=12.22 ctx=1 PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0 cr0=0x80000011 cr3=0x1aa000 rip=0x9f229b lstar=0 idtr=0x1a7080 kb=0 sysproc=0
+STATE t=12.27 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0x1aa000 rip=0xa6c8 lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=12.37 ctx=1 PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0 cr0=0x80000011 cr3=0x1aa000 rip=0xa81584 lstar=0 idtr=0x1a7080 kb=0 sysproc=0
+STATE t=12.42 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0x1aa000 rip=0xaabd lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=12.62 ctx=1 PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0 cr0=0x80000011 cr3=0x1aa000 rip=0xa8720e lstar=0 idtr=0x1a7080 kb=0 sysproc=0
+STATE t=12.77 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0x1aa000 rip=0xacd2 lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=12.97 ctx=1 PG=0 LMA=0 IDT=1 LSTAR=0 SYS=0 cr0=0x11 cr3=0x1aa000 rip=0xaa2076 lstar=0 idtr=0x1a7080 kb=0 sysproc=0
+STATE t=13.02 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0x1aa000 rip=0xa6e3 lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=13.17 ctx=1 PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0 cr0=0x80000011 cr3=0x1aa000 rip=0xa80e8a lstar=0 idtr=0x1a7080 kb=0 sysproc=0
+STATE t=13.22 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0x1aa000 rip=0xacd2 lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=13.67 ctx=1 PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0 cr0=0x80000011 cr3=0x1aa000 rip=0x9e1245 lstar=0 idtr=0x1a7080 kb=0 sysproc=0
+STATE t=14.02 ctx=1 PG=1 LMA=1 IDT=1 LSTAR=1 SYS=0 cr0=0x80050031 cr3=0x1aa002 rip=0xfffff800ef6ae8e8 lstar=0xfffff800eff7a200 idtr=0xfffff80081726000 kb=0xfffff800ef400000 sysproc=0
+STATE t=14.48 ctx=1 PG=1 LMA=1 IDT=1 LSTAR=1 SYS=1 cr0=0x80050031 cr3=0x1aa002 rip=0xfffff800ef90fea2 lstar=0xfffff800eff7a200 idtr=0xfffff80081726000 kb=0xfffff800ef400000 sysproc=0xffffaa885a6a5040
+PAUSED t=14.98 ctx=1 PG=1 LMA=1 IDT=1 LSTAR=1 SYS=1 cr0=0x80050031 cr3=0x1aa002 rip=0xfffff800ef90fde6 lstar=0xfffff800eff7a200 idtr=0xfffff80081726000 kb=0xfffff800ef400000 sysproc=0xffffaa885a6a5040
+TRIGGER SYS+500ms at t=14.98 (T_CTX=0.00 T_PG=10.31 T_IDT=0.05 T_LSTAR=14.02 T_SYS=14.48)

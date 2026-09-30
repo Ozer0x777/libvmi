@@ -1,0 +1,13 @@
+16:27:33 FX 25h2 BOOTMGR att=1 save 16s size=8607821073 restored_state=[PG=0 LSTAR=0 SYS=0 cr3=0] want=[PG=0 LSTAR=0 SYS=0 cr3=0] match=1
+16:28:24 FX 25h2 PG0W att=1 save 16s size=8607821961 restored_state=[PG=0 LSTAR=0 SYS=0 cr3=0x1aa000] want=[PG=0 LSTAR=0 SYS=0 cr3=0x1aa000] match=1
+16:29:14 FX 25h2 PG1 att=1 save 16s size=8607821961 restored_state=[PG=1 LSTAR=0 SYS=0 cr3=0x1aa000] want=[PG=1 LSTAR=0 SYS=0 cr3=0x1aa000] match=1
+16:30:09 FX 25h2 LSTAR att=1 save 15s size=8607821961 restored_state=[PG=1 LSTAR=1 SYS=0 cr3=0x1aa002] want=[PG=1 LSTAR=1 SYS=0] match=1
+16:30:49 FX 26h1 BOOTMGR att=1 save 14s size=6456122093 restored_state=[PG=0 LSTAR=0 SYS=0 cr3=0] want=[PG=0 LSTAR=0 SYS=0 cr3=0] match=1
+16:31:37 FX 26h1 PG0W att=1 save 17s size=6456122981 restored_state=[PG=0 LSTAR=0 SYS=0 cr3=0x1aa000] want=[PG=0 LSTAR=0 SYS=0 cr3=0x1aa000] match=1
+16:32:23 FX 26h1 PG1 att=1 save 16s size=6456122981 restored_state=[PG=0 LSTAR=0 SYS=0 cr3=0x1aa000] want=[PG=1 LSTAR=0 SYS=0 cr3=0x1aa000] match=0
+16:33:08 FX 26h1 PG1 att=2 save 13s size=6456122981 restored_state=[PG=0 LSTAR=0 SYS=0 cr3=0x1aa000] want=[PG=1 LSTAR=0 SYS=0 cr3=0x1aa000] match=0
+16:33:51 FX 26h1 PG1 att=3 save 13s size=6456122981 restored_state=[PG=0 LSTAR=0 SYS=0 cr3=0x1aa000] want=[PG=1 LSTAR=0 SYS=0 cr3=0x1aa000] match=0
+16:34:35 FX 26h1 PG1 att=4 save 13s size=6456122981 restored_state=[PG=0 LSTAR=0 SYS=0 cr3=0x1aa000] want=[PG=1 LSTAR=0 SYS=0 cr3=0x1aa000] match=0
+16:35:18 FX 26h1 PG1 att=5 save 12s size=6456122981 restored_state=[PG=0 LSTAR=0 SYS=0 cr3=0x1aa000] want=[PG=1 LSTAR=0 SYS=0 cr3=0x1aa000] match=0
+16:35:18 FX 26h1 PG1 GIVEUP
+16:35:21 FIXTURES2-DONE

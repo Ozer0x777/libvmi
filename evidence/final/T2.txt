@@ -1,0 +1,17 @@
+F 21h2 EARLY(5s) rc=0 wall=20350ms events=0 state_after=r----- msg=""
+F 21h2 RETRY(t=26s) rc=0 events=292 state_after=-b----
+F 22h2 EARLY(5s) rc=0 wall=20378ms events=0 state_after=r----- msg=""
+F 22h2 RETRY(t=26s) rc=0 events=8642 state_after=r-----
+F 23h2 EARLY(5s) rc=0 wall=20375ms events=0 state_after=r----- msg=""
+F 23h2 RETRY(t=26s) rc=0 events=5242 state_after=r-----
+F 24h2 EARLY(5s) rc=0 wall=20396ms events=0 state_after=r----- msg=""
+F 24h2 RETRY(t=25s) rc=0 events=18972 state_after=------
+F 25h2 EARLY(5s) rc=0 wall=20421ms events=0 state_after=r----- msg=""
+F 25h2 RETRY(t=26s) rc=0 events=26339 state_after=r-----
+F 26h1 EARLY(5s) rc=0 wall=20417ms events=0 state_after=------ msg=""
+F 26h1 RETRY(t=26s) rc=0 events=2 state_after=r-----
+N 25h2 EARLY(5s) rc=0 wall=217582ms events=0 state_after=r----- msg=""
+N 25h2 RETRY(t=223s) rc=0 events=126 state_after=r-----
+N 26h1 EARLY(5s) rc=0 wall=223914ms events=0 state_after=r----- msg=""
+N 26h1 RETRY(t=230s) rc=0 events=179 state_after=-b----
+ALLDONE

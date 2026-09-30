@@ -1,0 +1,259 @@
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=1 t_start=0.00 pm=1 os=0 err=5 took=0.35s
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=2 t_start=1.35 pm=1 os=0 err=5 took=0.19s
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=3 t_start=2.55 pm=1 os=0 err=5 took=0.18s
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=4 t_start=3.72 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=5 t_start=4.90 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=6 t_start=6.07 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=7 t_start=7.24 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=8 t_start=8.41 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=9 t_start=9.58 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=10 t_start=10.75 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=11 t_start=11.92 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=12 t_start=13.09 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=13 t_start=14.26 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=14 t_start=15.43 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=15 t_start=16.60 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=16 t_start=17.76 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=17 t_start=18.93 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=18 t_start=20.10 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=19 t_start=21.27 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=20 t_start=22.44 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=21 t_start=23.61 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=22 t_start=24.78 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=23 t_start=25.95 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=24 t_start=27.11 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=25 t_start=28.28 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=26 t_start=29.44 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=27 t_start=30.61 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=28 t_start=31.78 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=29 t_start=32.95 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=30 t_start=34.12 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=31 t_start=35.29 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=32 t_start=36.45 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=33 t_start=37.62 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=34 t_start=38.79 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=35 t_start=39.95 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=36 t_start=41.12 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=37 t_start=42.29 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=38 t_start=43.45 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=39 t_start=44.62 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=40 t_start=45.78 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=41 t_start=46.95 pm=1 os=0 err=5 took=0.16s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=42 t_start=48.11 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=43 t_start=49.28 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=44 t_start=50.45 pm=1 os=0 err=5 took=0.16s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=45 t_start=51.61 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=46 t_start=52.78 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=47 t_start=53.94 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=48 t_start=55.11 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=49 t_start=56.28 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=50 t_start=57.45 pm=1 os=0 err=5 took=0.17s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=51 t_start=58.62 pm=1 os=0 err=5 took=0.18s
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=52 t_start=59.80 pm=1 os=0 err=5 took=0.17s
+RESULT giveup mode=jsonpath attempts=52 t=60.97s longest_attempt=0.35s

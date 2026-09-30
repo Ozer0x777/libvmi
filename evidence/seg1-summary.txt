@@ -1,0 +1,5 @@
+a-clean-r1 rc=1 wall=109065ms unhandled=1 phys=1 lib=/opt/libvmi-P1/lib/libvmi.so.0 last=**All KdDebuggerDataBlock search methods failed|Failed to init LibVMI library.|
+b-mixed-r1 rc=1 wall=123736ms unhandled=1 phys=1 lib=/usr/local/lib/libvmi.so.0 last=**All KdDebuggerDataBlock search methods failed|Failed to init LibVMI library.|
+a-clean-r2 rc=1 wall=109148ms unhandled=1 phys=1 lib=/opt/libvmi-P1/lib/libvmi.so.0 last=**All KdDebuggerDataBlock search methods failed|Failed to init LibVMI library.|
+b-mixed-r2 rc=1 wall=125086ms unhandled=1 phys=1 lib=/usr/local/lib/libvmi.so.0 last=**All KdDebuggerDataBlock search methods failed|Failed to init LibVMI library.|
+ALLDONE

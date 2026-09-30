@@ -1,0 +1,2 @@
+3e3072c windows: fail fast when guest paging is disabled
+00fa821 windows: fall back to 2MB-aligned physical scan when all vCPU contexts fail (#1124)

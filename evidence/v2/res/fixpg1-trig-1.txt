@@ -1,0 +1,15 @@
+t=0.00 vmi_init ok (tries=0)
+STATE t=0.00 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x11 cr3=0 rip=0x104ae9 lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=0.05 ctx=1 PG=0 LMA=0 IDT=1 LSTAR=0 SYS=0 cr0=0x11 cr3=0 rip=0xea3ed lstar=0 idtr=0xf605e kb=0 sysproc=0
+STATE t=0.10 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0 rip=0xcdc lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=0.20 ctx=1 PG=0 LMA=0 IDT=1 LSTAR=0 SYS=0 cr0=0x11 cr3=0 rip=0xeefed41a lstar=0 idtr=0xf605e kb=0 sysproc=0
+STATE t=0.25 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0 rip=0xb758 lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=8.45 ctx=1 PG=0 LMA=0 IDT=1 LSTAR=0 SYS=0 cr0=0x11 cr3=0 rip=0x3fc8 lstar=0 idtr=0x1f080 kb=0 sysproc=0
+STATE t=8.65 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0 rip=0xacd2 lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=9.10 ctx=1 PG=0 LMA=0 IDT=1 LSTAR=0 SYS=0 cr0=0x11 cr3=0 rip=0x4aa07e lstar=0 idtr=0x1f080 kb=0 sysproc=0
+STATE t=9.15 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0 rip=0xacd2 lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=9.55 ctx=1 PG=0 LMA=0 IDT=1 LSTAR=0 SYS=0 cr0=0x10 cr3=0x1aa000 rip=0xa1d lstar=0 idtr=0x1a7080 kb=0 sysproc=0
+STATE t=9.60 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0x1aa000 rip=0xaac1 lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=9.70 ctx=1 PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0 cr0=0x80000011 cr3=0x1aa000 rip=0x9622b7 lstar=0 idtr=0x1a7080 kb=0 sysproc=0
+PAUSED t=9.70 ctx=1 PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0 cr0=0x80000011 cr3=0x1aa000 rip=0x96226f lstar=0 idtr=0x1a7080 kb=0 sysproc=0
+TRIGGER PG1+0ms at t=9.70 (T_CTX=0.00 T_PG=9.70 T_IDT=0.05 T_LSTAR=-1.00 T_SYS=-1.00)

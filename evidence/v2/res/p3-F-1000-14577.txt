@@ -1,0 +1,2117 @@
+t=0.00 vmi_init ok
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+attempt=1 t_start=0.00 pm=0 os=0 err=5 took=0.30s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=2 t_start=1.31 pm=0 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=3 t_start=2.31 pm=0 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=4 t_start=3.31 pm=0 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=5 t_start=4.31 pm=0 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=6 t_start=5.31 pm=0 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=7 t_start=6.31 pm=0 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=8 t_start=7.31 pm=0 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=9 t_start=8.31 pm=0 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=10 t_start=9.31 pm=0 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=11 t_start=10.31 pm=0 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=12 t_start=11.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=13 t_start=12.31 pm=0 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=14 t_start=13.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=15 t_start=14.31 pm=0 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=16 t_start=15.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=17 t_start=16.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=18 t_start=17.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=19 t_start=18.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=20 t_start=19.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=21 t_start=20.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=22 t_start=21.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=23 t_start=22.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=24 t_start=23.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=25 t_start=24.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=26 t_start=25.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=27 t_start=26.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=28 t_start=27.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=29 t_start=28.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=30 t_start=29.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=31 t_start=30.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=32 t_start=31.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=33 t_start=32.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=34 t_start=33.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=35 t_start=34.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=36 t_start=35.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=37 t_start=36.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=38 t_start=37.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=39 t_start=38.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=40 t_start=39.31 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=41 t_start=40.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=42 t_start=41.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=43 t_start=42.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=44 t_start=43.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=45 t_start=44.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=46 t_start=45.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=47 t_start=46.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=48 t_start=47.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=49 t_start=48.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=50 t_start=49.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=51 t_start=50.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=52 t_start=51.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=53 t_start=52.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=54 t_start=53.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=55 t_start=54.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=56 t_start=55.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=57 t_start=56.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=58 t_start=57.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=59 t_start=58.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=60 t_start=59.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=61 t_start=60.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=62 t_start=61.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=63 t_start=62.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=64 t_start=63.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=65 t_start=64.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=66 t_start=65.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=67 t_start=66.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=68 t_start=67.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=69 t_start=68.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=70 t_start=69.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=71 t_start=70.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=72 t_start=71.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=73 t_start=72.32 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=74 t_start=73.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=75 t_start=74.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=76 t_start=75.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=77 t_start=76.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=78 t_start=77.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=79 t_start=78.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=80 t_start=79.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=81 t_start=80.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=82 t_start=81.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=83 t_start=82.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=84 t_start=83.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=85 t_start=84.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=86 t_start=85.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=87 t_start=86.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=88 t_start=87.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=89 t_start=88.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=90 t_start=89.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=91 t_start=90.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=92 t_start=91.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=93 t_start=92.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=94 t_start=93.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=95 t_start=94.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=96 t_start=95.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=97 t_start=96.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=98 t_start=97.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=99 t_start=98.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=100 t_start=99.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=101 t_start=100.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=102 t_start=101.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=103 t_start=102.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=104 t_start=103.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=105 t_start=104.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=106 t_start=105.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=107 t_start=106.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=108 t_start=107.33 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=109 t_start=108.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=110 t_start=109.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=111 t_start=110.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=112 t_start=111.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=113 t_start=112.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=114 t_start=113.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=115 t_start=114.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=116 t_start=115.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=117 t_start=116.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=118 t_start=117.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=119 t_start=118.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=120 t_start=119.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=121 t_start=120.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=122 t_start=121.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=123 t_start=122.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=124 t_start=123.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=125 t_start=124.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=126 t_start=125.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=127 t_start=126.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=128 t_start=127.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=129 t_start=128.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=130 t_start=129.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=131 t_start=130.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=132 t_start=131.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=133 t_start=132.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=134 t_start=133.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=135 t_start=134.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=136 t_start=135.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=137 t_start=136.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=138 t_start=137.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=139 t_start=138.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=140 t_start=139.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=141 t_start=140.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=142 t_start=141.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=143 t_start=142.34 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=144 t_start=143.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=145 t_start=144.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=146 t_start=145.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=147 t_start=146.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=148 t_start=147.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=149 t_start=148.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=150 t_start=149.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=151 t_start=150.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=152 t_start=151.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=153 t_start=152.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=154 t_start=153.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=155 t_start=154.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=156 t_start=155.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=157 t_start=156.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=158 t_start=157.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=159 t_start=158.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=160 t_start=159.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=161 t_start=160.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=162 t_start=161.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=163 t_start=162.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=164 t_start=163.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=165 t_start=164.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=166 t_start=165.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=167 t_start=166.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=168 t_start=167.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=169 t_start=168.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=170 t_start=169.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=171 t_start=170.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=172 t_start=171.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=173 t_start=172.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=174 t_start=173.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=175 t_start=174.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=176 t_start=175.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=177 t_start=176.35 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=178 t_start=177.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=179 t_start=178.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=180 t_start=179.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=181 t_start=180.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=182 t_start=181.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=183 t_start=182.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=184 t_start=183.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=185 t_start=184.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=186 t_start=185.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=187 t_start=186.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=188 t_start=187.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=189 t_start=188.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=190 t_start=189.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=191 t_start=190.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=192 t_start=191.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=193 t_start=192.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=194 t_start=193.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=195 t_start=194.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=196 t_start=195.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=197 t_start=196.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=198 t_start=197.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=199 t_start=198.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=200 t_start=199.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=201 t_start=200.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=202 t_start=201.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=203 t_start=202.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=204 t_start=203.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=205 t_start=204.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=206 t_start=205.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=207 t_start=206.36 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=208 t_start=207.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=209 t_start=208.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=210 t_start=209.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=211 t_start=210.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=212 t_start=211.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=213 t_start=212.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=214 t_start=213.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=215 t_start=214.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=216 t_start=215.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=217 t_start=216.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=218 t_start=217.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=219 t_start=218.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=220 t_start=219.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=221 t_start=220.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=222 t_start=221.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=223 t_start=222.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=224 t_start=223.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=225 t_start=224.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=226 t_start=225.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=227 t_start=226.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=228 t_start=227.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=229 t_start=228.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=230 t_start=229.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=231 t_start=230.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=232 t_start=231.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=233 t_start=232.37 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=234 t_start=233.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=235 t_start=234.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=236 t_start=235.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=237 t_start=236.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=238 t_start=237.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=239 t_start=238.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=240 t_start=239.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=241 t_start=240.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=242 t_start=241.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=243 t_start=242.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=244 t_start=243.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=245 t_start=244.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=246 t_start=245.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=247 t_start=246.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=248 t_start=247.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=249 t_start=248.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=250 t_start=249.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=251 t_start=250.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=252 t_start=251.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=253 t_start=252.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=254 t_start=253.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=255 t_start=254.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=256 t_start=255.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=257 t_start=256.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=258 t_start=257.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=259 t_start=258.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=260 t_start=259.38 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=261 t_start=260.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=262 t_start=261.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=263 t_start=262.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=264 t_start=263.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=265 t_start=264.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=266 t_start=265.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=267 t_start=266.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=268 t_start=267.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=269 t_start=268.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=270 t_start=269.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=271 t_start=270.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=272 t_start=271.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=273 t_start=272.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=274 t_start=273.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=275 t_start=274.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=276 t_start=275.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=277 t_start=276.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=278 t_start=277.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=279 t_start=278.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=280 t_start=279.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=281 t_start=280.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=282 t_start=281.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=283 t_start=282.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=284 t_start=283.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=285 t_start=284.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=286 t_start=285.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=287 t_start=286.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=288 t_start=287.39 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=289 t_start=288.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=290 t_start=289.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=291 t_start=290.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=292 t_start=291.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=293 t_start=292.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=294 t_start=293.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=295 t_start=294.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=296 t_start=295.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=297 t_start=296.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=298 t_start=297.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=299 t_start=298.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=300 t_start=299.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=301 t_start=300.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=302 t_start=301.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=303 t_start=302.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=304 t_start=303.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=305 t_start=304.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=306 t_start=305.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=307 t_start=306.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=308 t_start=307.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=309 t_start=308.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=310 t_start=309.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=311 t_start=310.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=312 t_start=311.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=313 t_start=312.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=314 t_start=313.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=315 t_start=314.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=316 t_start=315.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=317 t_start=316.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=318 t_start=317.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=319 t_start=318.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=320 t_start=319.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=321 t_start=320.40 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=322 t_start=321.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=323 t_start=322.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=324 t_start=323.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=325 t_start=324.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=326 t_start=325.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=327 t_start=326.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=328 t_start=327.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=329 t_start=328.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=330 t_start=329.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=331 t_start=330.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=332 t_start=331.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=333 t_start=332.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=334 t_start=333.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=335 t_start=334.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=336 t_start=335.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=337 t_start=336.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=338 t_start=337.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=339 t_start=338.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=340 t_start=339.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=341 t_start=340.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=342 t_start=341.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=343 t_start=342.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=344 t_start=343.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=345 t_start=344.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=346 t_start=345.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=347 t_start=346.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=348 t_start=347.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=349 t_start=348.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=350 t_start=349.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=351 t_start=350.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=352 t_start=351.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=353 t_start=352.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=354 t_start=353.41 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=355 t_start=354.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=356 t_start=355.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=357 t_start=356.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=358 t_start=357.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=359 t_start=358.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=360 t_start=359.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=361 t_start=360.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=362 t_start=361.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=363 t_start=362.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=364 t_start=363.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=365 t_start=364.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=366 t_start=365.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=367 t_start=366.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=368 t_start=367.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=369 t_start=368.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=370 t_start=369.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=371 t_start=370.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=372 t_start=371.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=373 t_start=372.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=374 t_start=373.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=375 t_start=374.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=376 t_start=375.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=377 t_start=376.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=378 t_start=377.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=379 t_start=378.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=380 t_start=379.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=381 t_start=380.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=382 t_start=381.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=383 t_start=382.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=384 t_start=383.42 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=385 t_start=384.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=386 t_start=385.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=387 t_start=386.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=388 t_start=387.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=389 t_start=388.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=390 t_start=389.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=391 t_start=390.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=392 t_start=391.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=393 t_start=392.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=394 t_start=393.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=395 t_start=394.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=396 t_start=395.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=397 t_start=396.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=398 t_start=397.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=399 t_start=398.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=400 t_start=399.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=401 t_start=400.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=402 t_start=401.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=403 t_start=402.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=404 t_start=403.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=405 t_start=404.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=406 t_start=405.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=407 t_start=406.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=408 t_start=407.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=409 t_start=408.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=410 t_start=409.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=411 t_start=410.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=412 t_start=411.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=413 t_start=412.43 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=414 t_start=413.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=415 t_start=414.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=416 t_start=415.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=417 t_start=416.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=418 t_start=417.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=419 t_start=418.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=420 t_start=419.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=421 t_start=420.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=422 t_start=421.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=423 t_start=422.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=424 t_start=423.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=425 t_start=424.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=426 t_start=425.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=427 t_start=426.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=428 t_start=427.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=429 t_start=428.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=430 t_start=429.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=431 t_start=430.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=432 t_start=431.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=433 t_start=432.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=434 t_start=433.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=435 t_start=434.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=436 t_start=435.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=437 t_start=436.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=438 t_start=437.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=439 t_start=438.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=440 t_start=439.44 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=441 t_start=440.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=442 t_start=441.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=443 t_start=442.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=444 t_start=443.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=445 t_start=444.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=446 t_start=445.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=447 t_start=446.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=448 t_start=447.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=449 t_start=448.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=450 t_start=449.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=451 t_start=450.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=452 t_start=451.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=453 t_start=452.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=454 t_start=453.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=455 t_start=454.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=456 t_start=455.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=457 t_start=456.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=458 t_start=457.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=459 t_start=458.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=460 t_start=459.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=461 t_start=460.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=462 t_start=461.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=463 t_start=462.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=464 t_start=463.45 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=465 t_start=464.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=466 t_start=465.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=467 t_start=466.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=468 t_start=467.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=469 t_start=468.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=470 t_start=469.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=471 t_start=470.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=472 t_start=471.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=473 t_start=472.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=474 t_start=473.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=475 t_start=474.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=476 t_start=475.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=477 t_start=476.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=478 t_start=477.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=479 t_start=478.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=480 t_start=479.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=481 t_start=480.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=482 t_start=481.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=483 t_start=482.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=484 t_start=483.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=485 t_start=484.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=486 t_start=485.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=487 t_start=486.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=488 t_start=487.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=489 t_start=488.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=490 t_start=489.46 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=491 t_start=490.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=492 t_start=491.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=493 t_start=492.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=494 t_start=493.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=495 t_start=494.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=496 t_start=495.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=497 t_start=496.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=498 t_start=497.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=499 t_start=498.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=500 t_start=499.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=501 t_start=500.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=502 t_start=501.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=503 t_start=502.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=504 t_start=503.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=505 t_start=504.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=506 t_start=505.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=507 t_start=506.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=508 t_start=507.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=509 t_start=508.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=510 t_start=509.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=511 t_start=510.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=512 t_start=511.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=513 t_start=512.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=514 t_start=513.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=515 t_start=514.47 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=516 t_start=515.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=517 t_start=516.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=518 t_start=517.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=519 t_start=518.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=520 t_start=519.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=521 t_start=520.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=522 t_start=521.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=523 t_start=522.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=524 t_start=523.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=525 t_start=524.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=526 t_start=525.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=527 t_start=526.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=528 t_start=527.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=529 t_start=528.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=530 t_start=529.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=531 t_start=530.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=532 t_start=531.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=533 t_start=532.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=534 t_start=533.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=535 t_start=534.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=536 t_start=535.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=537 t_start=536.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=538 t_start=537.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=539 t_start=538.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=540 t_start=539.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=541 t_start=540.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=542 t_start=541.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=543 t_start=542.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=544 t_start=543.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=545 t_start=544.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=546 t_start=545.48 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=547 t_start=546.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=548 t_start=547.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=549 t_start=548.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=550 t_start=549.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=551 t_start=550.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=552 t_start=551.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=553 t_start=552.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=554 t_start=553.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=555 t_start=554.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=556 t_start=555.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=557 t_start=556.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=558 t_start=557.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=559 t_start=558.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=560 t_start=559.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=561 t_start=560.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=562 t_start=561.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=563 t_start=562.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=564 t_start=563.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=565 t_start=564.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=566 t_start=565.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=567 t_start=566.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=568 t_start=567.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=569 t_start=568.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=570 t_start=569.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=571 t_start=570.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=572 t_start=571.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=573 t_start=572.49 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=574 t_start=573.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=575 t_start=574.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=576 t_start=575.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=577 t_start=576.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=578 t_start=577.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=579 t_start=578.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=580 t_start=579.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=581 t_start=580.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=582 t_start=581.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=583 t_start=582.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=584 t_start=583.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=585 t_start=584.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=586 t_start=585.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=587 t_start=586.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=588 t_start=587.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=589 t_start=588.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=590 t_start=589.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=591 t_start=590.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=592 t_start=591.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=593 t_start=592.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=594 t_start=593.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=595 t_start=594.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=596 t_start=595.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=597 t_start=596.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=598 t_start=597.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=599 t_start=598.50 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=600 t_start=599.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=601 t_start=600.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=602 t_start=601.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=603 t_start=602.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=604 t_start=603.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=605 t_start=604.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=606 t_start=605.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=607 t_start=606.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=608 t_start=607.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=609 t_start=608.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=610 t_start=609.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=611 t_start=610.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=612 t_start=611.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=613 t_start=612.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=614 t_start=613.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=615 t_start=614.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=616 t_start=615.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=617 t_start=616.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=618 t_start=617.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=619 t_start=618.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=620 t_start=619.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=621 t_start=620.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=622 t_start=621.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=623 t_start=622.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=624 t_start=623.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=625 t_start=624.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=626 t_start=625.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=627 t_start=626.51 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=628 t_start=627.52 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=629 t_start=628.52 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=630 t_start=629.52 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=631 t_start=630.52 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=632 t_start=631.52 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=633 t_start=632.52 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=634 t_start=633.52 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=635 t_start=634.52 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=636 t_start=635.52 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=637 t_start=636.52 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=638 t_start=637.54 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=639 t_start=638.54 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=640 t_start=639.54 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=641 t_start=640.54 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=642 t_start=641.54 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=643 t_start=642.54 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=644 t_start=643.54 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=645 t_start=644.54 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=646 t_start=645.54 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=647 t_start=646.54 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=648 t_start=647.54 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=649 t_start=648.54 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=650 t_start=649.54 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=651 t_start=650.54 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=652 t_start=651.54 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=653 t_start=652.54 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=654 t_start=653.54 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=655 t_start=654.54 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=656 t_start=655.54 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=657 t_start=656.54 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=658 t_start=657.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=659 t_start=658.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=660 t_start=659.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=661 t_start=660.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=662 t_start=661.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=663 t_start=662.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=664 t_start=663.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=665 t_start=664.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=666 t_start=665.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=667 t_start=666.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=668 t_start=667.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=669 t_start=668.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=670 t_start=669.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=671 t_start=670.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=672 t_start=671.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=673 t_start=672.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=674 t_start=673.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=675 t_start=674.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=676 t_start=675.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=677 t_start=676.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=678 t_start=677.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=679 t_start=678.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=680 t_start=679.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=681 t_start=680.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=682 t_start=681.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=683 t_start=682.55 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=684 t_start=683.56 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=685 t_start=684.56 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=686 t_start=685.56 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=687 t_start=686.56 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=688 t_start=687.56 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=689 t_start=688.56 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=690 t_start=689.56 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=691 t_start=690.56 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=692 t_start=691.56 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=693 t_start=692.56 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=694 t_start=693.56 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=695 t_start=694.56 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=696 t_start=695.56 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=697 t_start=696.56 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=698 t_start=697.56 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=699 t_start=698.56 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=700 t_start=699.56 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=701 t_start=700.56 pm=4 os=0 err=8 took=0.00s
+VMI_ERROR: Duplicate JSON profile detected: /root/profile/w11/win11-25h2-test.json
+VMI_ERROR: Undefined OS type!
+attempt=702 t_start=701.56 pm=4 os=0 err=8 took=0.00s

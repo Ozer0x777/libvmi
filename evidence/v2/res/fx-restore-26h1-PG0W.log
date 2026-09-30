@@ -1,0 +1,13 @@
+Loading new save file /root/fixtures/26h1-PG0W.sav (new xl fmt info 0x3/0x0/3541)
+ Savefile contains xl domain config in JSON format
+Parsing config from <saved>
+xc: info: Found x86 HVM domain from Xen 4.21
+xc: info: Restoring domain
+xc: error: Failed to read Record Header from stream (0 = Success): Internal error
+xc: error: Restore failed (0 = Success): Internal error
+libxl: error: libxl_stream_read.c:850:libxl__xc_domain_restore_done: restoring domain: Success
+libxl: error: libxl_create.c:1651:domcreate_rebuild_done: Domain 408:cannot (re-)build domain: -3
+libxl: error: libxl_domain.c:356:libxl_domain_info: Domain 408:Getting domain info: No such process
+libxl: error: libxl_domain.c:1181:libxl__destroy_domid: Domain 408:Non-existant domain
+libxl: error: libxl_domain.c:1135:domain_destroy_callback: Domain 408:Unable to destroy guest
+libxl: error: libxl_domain.c:1062:domain_destroy_cb: Domain 408:Destruction of domain failed

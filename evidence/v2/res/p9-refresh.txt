@@ -1,0 +1,3 @@
+t=0.00 vmi_init ok
+attempt=1 t_start=0.00 pm=4 os=2 err=0 took=0.30s
+RESULT success attempts=1 t_success=0.30s longest_attempt=0.30s

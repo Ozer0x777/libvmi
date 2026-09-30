@@ -1,0 +1,2 @@
+VMI_ERROR: Could not get kpgd, will not be able to determine page mode
+Failed to init LibVMI library.

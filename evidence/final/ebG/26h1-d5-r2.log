@@ -1,0 +1,5 @@
+Paging disabled for this VM, only physical addresses supported.
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Guest paging is disabled, the Windows kernel is not running yet; retry once the guest has booted
+RESULT rc=1 init_ms=380

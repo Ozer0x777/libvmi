@@ -1,0 +1,29 @@
+**IA-32e paging
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+VMI_ERROR: Failed to get context information (HVM domain).
+** Trying kpcr_find1
+** Trying kpcr_find2
+Error calculating NT base address
+** Trying kpcr_find3
+--searching for process by name: System
+--failed to find System process.
+** Trying kpcr_find1
+** Trying kpcr_find2
+Error calculating NT base address
+** Trying kpcr_find3
+--searching for process by name: System
+--failed to find System process.
+** Trying kpcr_find1
+** Trying kpcr_find2
+Error calculating NT base address
+** Trying kpcr_find3
+--searching for process by name: System
+--failed to find System process.
+**Attempting KdDebuggerDataBlock search methods
+**Trying find_kdbg_address_instant
+**Trying find_kdbg_address_faster
+**Trying find_kdbg_address_fast
+**Trying find_kdbg_address
+**All KdDebuggerDataBlock search methods failed
+RESULT rc=1 init_ms=264777

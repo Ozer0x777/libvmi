@@ -1,0 +1,25 @@
+cfg=old lib=stock run=1 rc=0 wall=395ms RESULT rc=0 init_ms=315
+cfg=old lib=stock run=2 rc=0 wall=389ms RESULT rc=0 init_ms=310
+cfg=old lib=stock run=3 rc=0 wall=403ms RESULT rc=0 init_ms=321
+cfg=old lib=stock run=4 rc=0 wall=386ms RESULT rc=0 init_ms=309
+cfg=old lib=stock run=5 rc=0 wall=389ms RESULT rc=0 init_ms=312
+cfg=old lib=stock run=6 rc=0 wall=397ms RESULT rc=0 init_ms=316
+cfg=old lib=master run=1 rc=0 wall=391ms RESULT rc=0 init_ms=311
+cfg=old lib=master run=2 rc=0 wall=385ms RESULT rc=0 init_ms=309
+cfg=old lib=master run=3 rc=0 wall=394ms RESULT rc=0 init_ms=318
+cfg=old lib=master run=4 rc=0 wall=393ms RESULT rc=0 init_ms=315
+cfg=old lib=master run=5 rc=0 wall=427ms RESULT rc=0 init_ms=351
+cfg=old lib=master run=6 rc=0 wall=388ms RESULT rc=0 init_ms=311
+cfg=new lib=stock run=1 rc=0 wall=423ms RESULT rc=0 init_ms=340
+cfg=new lib=stock run=2 rc=0 wall=391ms RESULT rc=0 init_ms=314
+cfg=new lib=stock run=3 rc=0 wall=387ms RESULT rc=0 init_ms=309
+cfg=new lib=stock run=4 rc=0 wall=383ms RESULT rc=0 init_ms=307
+cfg=new lib=stock run=5 rc=0 wall=394ms RESULT rc=0 init_ms=316
+cfg=new lib=stock run=6 rc=0 wall=395ms RESULT rc=0 init_ms=318
+cfg=new lib=master run=1 rc=0 wall=390ms RESULT rc=0 init_ms=312
+cfg=new lib=master run=2 rc=0 wall=396ms RESULT rc=0 init_ms=315
+cfg=new lib=master run=3 rc=0 wall=392ms RESULT rc=0 init_ms=314
+cfg=new lib=master run=4 rc=0 wall=386ms RESULT rc=0 init_ms=308
+cfg=new lib=master run=5 rc=0 wall=393ms RESULT rc=0 init_ms=312
+cfg=new lib=master run=6 rc=0 wall=440ms RESULT rc=0 init_ms=351
+ALLDONE

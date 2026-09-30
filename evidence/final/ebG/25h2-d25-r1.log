@@ -1,0 +1,8 @@
+**sanity checking cr3 = 0x00000000001aa000
+** Trying kpcr_find1
+** Trying kpcr_find2
+**KernBase PA=0x100400000
+**KernBase VA=0xfffff804c3e00000
+**init from JSON profile success
+--kpgd from JSON profile success
+RESULT rc=0 init_ms=317

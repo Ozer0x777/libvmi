@@ -1,0 +1,37 @@
+16:20:45 ===== POST1 live LSTAR proof
+16:21:04 LL 21h2 LSTAR+0 state=[PG=1 LSTAR=1 SYS=0] run1: sysproc= 0x0 RESULT rc=0 init_ms=264 win_sysproc rc=0 val=0 | ksym PsActiveProcessHead rc=1 val=0 | pid0_dtb rc=0 val=0xf000d43ef000d43e | pid4_dtb rc=1 val=0 USABLE=NO
+16:21:04 LL 21h2 LSTAR+0 state=[PG=1 LSTAR=1 SYS=0] run2: sysproc= 0x0 RESULT rc=0 init_ms=270 win_sysproc rc=0 val=0 | ksym PsActiveProcessHead rc=1 val=0 | pid0_dtb rc=0 val=0xf000d43ef000d43e | pid4_dtb rc=1 val=0 USABLE=NO
+16:21:26 LL 21h2 SYS+500 state=[PG=1 LSTAR=1 SYS=1] ctrl: sysproc= 0xffffc581762ca040 RESULT rc=0 init_ms=262 win_sysproc rc=0 val=0xffffc581762ca040 | ksym PsActiveProcessHead rc=0 val=0xffffc581762ca488 | pid0_dtb rc=0 val=0x1aa002 | pid4_dtb rc=0 val=0x1aa0 USABLE=yes
+16:21:48 LL 22h2 LSTAR+0 state=[PG=1 LSTAR=1 SYS=0] run1: sysproc= 0x0 RESULT rc=0 init_ms=302 win_sysproc rc=0 val=0 | ksym PsActiveProcessHead rc=1 val=0 | pid0_dtb rc=0 val=0xf000d43ef000d43e | pid4_dtb rc=1 val=0 USABLE=NO
+16:21:48 LL 22h2 LSTAR+0 state=[PG=1 LSTAR=1 SYS=0] run2: sysproc= 0x0 RESULT rc=0 init_ms=287 win_sysproc rc=0 val=0 | ksym PsActiveProcessHead rc=1 val=0 | pid0_dtb rc=0 val=0xf000d43ef000d43e | pid4_dtb rc=1 val=0 USABLE=NO
+16:22:11 LL 22h2 SYS+500 state=[PG=1 LSTAR=1 SYS=1] ctrl: sysproc= 0xffff950fe9eb1040 RESULT rc=0 init_ms=288 win_sysproc rc=0 val=0xffff950fe9eb1040 | ksym PsActiveProcessHead rc=0 val=0xffff950fe9eb1488 | pid0_dtb rc=0 val=0x1aa002 | pid4_dtb rc=0 val=0x1aa0 USABLE=yes
+16:22:33 LL 23h2 LSTAR+0 state=[PG=1 LSTAR=1 SYS=0] run1: sysproc= 0x0 RESULT rc=0 init_ms=298 win_sysproc rc=0 val=0 | ksym PsActiveProcessHead rc=1 val=0 | pid0_dtb rc=0 val=0xf000d43ef000d43e | pid4_dtb rc=1 val=0 USABLE=NO
+16:22:33 LL 23h2 LSTAR+0 state=[PG=1 LSTAR=1 SYS=0] run2: sysproc= 0x0 RESULT rc=0 init_ms=287 win_sysproc rc=0 val=0 | ksym PsActiveProcessHead rc=1 val=0 | pid0_dtb rc=0 val=0xf000d43ef000d43e | pid4_dtb rc=1 val=0 USABLE=NO
+16:22:56 LL 23h2 SYS+500 state=[PG=1 LSTAR=1 SYS=1] ctrl: sysproc= 0xffffda8442cdf040 RESULT rc=0 init_ms=285 win_sysproc rc=0 val=0xffffda8442cdf040 | ksym PsActiveProcessHead rc=0 val=0xffffda8442cdf488 | pid0_dtb rc=0 val=0x1aa002 | pid4_dtb rc=0 val=0x1aa0 USABLE=yes
+16:23:18 LL 24h2 LSTAR+0 state=[PG=1 LSTAR=1 SYS=0] run1: sysproc= 0x0 RESULT rc=0 init_ms=326 win_sysproc rc=0 val=0 | ksym PsActiveProcessHead rc=1 val=0 | pid0_dtb rc=0 val=0xf000d43ef000d43e | pid4_dtb rc=1 val=0 USABLE=NO
+16:23:18 LL 24h2 LSTAR+0 state=[PG=1 LSTAR=1 SYS=0] run2: sysproc= 0x0 RESULT rc=0 init_ms=312 win_sysproc rc=0 val=0 | ksym PsActiveProcessHead rc=1 val=0 | pid0_dtb rc=0 val=0xf000d43ef000d43e | pid4_dtb rc=1 val=0 USABLE=NO
+16:23:41 LL 24h2 SYS+500 state=[PG=1 LSTAR=1 SYS=1] ctrl: sysproc= 0xffffdf05df6b3040 RESULT rc=0 init_ms=314 win_sysproc rc=0 val=0xffffdf05df6b3040 | ksym PsActiveProcessHead rc=0 val=0xffffdf05df6b3218 | pid0_dtb rc=0 val=0x1aa002 | pid4_dtb rc=0 val=0x1aa0 USABLE=yes
+16:24:03 LL 25h2 LSTAR+0 state=[PG=1 LSTAR=1 SYS=0] run1: sysproc= 0x0 RESULT rc=0 init_ms=322 win_sysproc rc=0 val=0 | ksym PsActiveProcessHead rc=1 val=0 | pid0_dtb rc=0 val=0xf000d43ef000d43e | pid4_dtb rc=1 val=0 USABLE=NO
+16:24:03 LL 25h2 LSTAR+0 state=[PG=1 LSTAR=1 SYS=0] run2: sysproc= 0x0 RESULT rc=0 init_ms=311 win_sysproc rc=0 val=0 | ksym PsActiveProcessHead rc=1 val=0 | pid0_dtb rc=0 val=0xf000d43ef000d43e | pid4_dtb rc=1 val=0 USABLE=NO
+16:24:27 LL 25h2 SYS+500 state=[PG=1 LSTAR=1 SYS=1] ctrl: sysproc= 0xffffa608c16a7040 RESULT rc=0 init_ms=310 win_sysproc rc=0 val=0xffffa608c16a7040 | ksym PsActiveProcessHead rc=0 val=0xffffa608c16a7218 | pid0_dtb rc=0 val=0x1aa002 | pid4_dtb rc=0 val=0x1aa0 USABLE=yes
+16:24:50 LL 26h1 LSTAR+0 state=[PG=1 LSTAR=1 SYS=0] run1: sysproc= 0x0 RESULT rc=0 init_ms=329 win_sysproc rc=0 val=0 | ksym PsActiveProcessHead rc=1 val=0 | pid0_dtb rc=0 val=0xf000d43ef000d43e | pid4_dtb rc=1 val=0 USABLE=NO
+16:24:50 LL 26h1 LSTAR+0 state=[PG=1 LSTAR=1 SYS=0] run2: sysproc= 0x0 RESULT rc=0 init_ms=321 win_sysproc rc=0 val=0 | ksym PsActiveProcessHead rc=1 val=0 | pid0_dtb rc=0 val=0xf000d43ef000d43e | pid4_dtb rc=1 val=0 USABLE=NO
+16:25:14 LL 26h1 SYS+500 state=[PG=1 LSTAR=1 SYS=1] ctrl: sysproc= 0xffff8085d56a7040 RESULT rc=0 init_ms=330 win_sysproc rc=0 val=0xffff8085d56a7040 | ksym PsActiveProcessHead rc=0 val=0xffff8085d56a7218 | pid0_dtb rc=0 val=0x1aa002 | pid4_dtb rc=0 val=0x1aa0 USABLE=yes
+16:25:22 LIVE-LSTAR-DONE
+16:25:22 ===== POST2 Linux N vs F, paused
+16:26:18 POST2 linux(paused) procs_N=85 procs_F=85 rc=0 rc=0 diff_lines=0
+16:26:50 ===== POST3 fixtures retry
+16:27:33 FX 25h2 BOOTMGR att=1 save 16s size=8607821073 restored_state=[PG=0 LSTAR=0 SYS=0 cr3=0] want=[PG=0 LSTAR=0 SYS=0 cr3=0] match=1
+16:28:24 FX 25h2 PG0W att=1 save 16s size=8607821961 restored_state=[PG=0 LSTAR=0 SYS=0 cr3=0x1aa000] want=[PG=0 LSTAR=0 SYS=0 cr3=0x1aa000] match=1
+16:29:14 FX 25h2 PG1 att=1 save 16s size=8607821961 restored_state=[PG=1 LSTAR=0 SYS=0 cr3=0x1aa000] want=[PG=1 LSTAR=0 SYS=0 cr3=0x1aa000] match=1
+16:30:09 FX 25h2 LSTAR att=1 save 15s size=8607821961 restored_state=[PG=1 LSTAR=1 SYS=0 cr3=0x1aa002] want=[PG=1 LSTAR=1 SYS=0] match=1
+16:30:49 FX 26h1 BOOTMGR att=1 save 14s size=6456122093 restored_state=[PG=0 LSTAR=0 SYS=0 cr3=0] want=[PG=0 LSTAR=0 SYS=0 cr3=0] match=1
+16:31:37 FX 26h1 PG0W att=1 save 17s size=6456122981 restored_state=[PG=0 LSTAR=0 SYS=0 cr3=0x1aa000] want=[PG=0 LSTAR=0 SYS=0 cr3=0x1aa000] match=1
+16:32:23 FX 26h1 PG1 att=1 save 16s size=6456122981 restored_state=[PG=0 LSTAR=0 SYS=0 cr3=0x1aa000] want=[PG=1 LSTAR=0 SYS=0 cr3=0x1aa000] match=0
+16:33:08 FX 26h1 PG1 att=2 save 13s size=6456122981 restored_state=[PG=0 LSTAR=0 SYS=0 cr3=0x1aa000] want=[PG=1 LSTAR=0 SYS=0 cr3=0x1aa000] match=0
+16:33:51 FX 26h1 PG1 att=3 save 13s size=6456122981 restored_state=[PG=0 LSTAR=0 SYS=0 cr3=0x1aa000] want=[PG=1 LSTAR=0 SYS=0 cr3=0x1aa000] match=0
+16:34:35 FX 26h1 PG1 att=4 save 13s size=6456122981 restored_state=[PG=0 LSTAR=0 SYS=0 cr3=0x1aa000] want=[PG=1 LSTAR=0 SYS=0 cr3=0x1aa000] match=0
+16:35:18 FX 26h1 PG1 att=5 save 12s size=6456122981 restored_state=[PG=0 LSTAR=0 SYS=0 cr3=0x1aa000] want=[PG=1 LSTAR=0 SYS=0 cr3=0x1aa000] match=0
+16:35:18 FX 26h1 PG1 GIVEUP
+16:35:21 FIXTURES2-DONE
+16:35:21 ===== POST DONE

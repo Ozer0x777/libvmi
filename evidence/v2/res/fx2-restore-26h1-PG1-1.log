@@ -1,0 +1,8 @@
+Loading new save file /root/fixtures/26h1-PG1.sav (new xl fmt info 0x3/0x0/3541)
+ Savefile contains xl domain config in JSON format
+Parsing config from <saved>
+xc: info: Found x86 HVM domain from Xen 4.21
+xc: info: Restoring domain
+xc: info: Restore successful
+xc: info: XenStore: mfn 0xfeffc, dom 0, evt 1
+xc: info: Console: mfn 0xfefff, dom 0, evt 2

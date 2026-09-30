@@ -1,0 +1,8 @@
+t=0.00 vmi_init ok (tries=0)
+STATE t=0.00 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x11 cr3=0 rip=0x104b91 lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=0.05 ctx=1 PG=0 LMA=0 IDT=1 LSTAR=0 SYS=0 cr0=0x11 cr3=0 rip=0xeefed41a lstar=0 idtr=0xf605e kb=0 sysproc=0
+STATE t=0.10 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0 rip=0x88b lstar=0 idtr=0 kb=0 sysproc=0
+STATE t=0.15 ctx=1 PG=0 LMA=0 IDT=1 LSTAR=0 SYS=0 cr0=0x10 cr3=0 rip=0xcf5b lstar=0 idtr=0xf605e kb=0 sysproc=0
+STATE t=0.20 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0 rip=0xb758 lstar=0 idtr=0 kb=0 sysproc=0
+PAUSED t=3.02 ctx=1 PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0 cr0=0x10 cr3=0 rip=0xe82e lstar=0 idtr=0 kb=0 sysproc=0
+TRIGGER CTX+3000ms at t=3.02 (T_CTX=0.00 T_PG=-1.00 T_IDT=0.05 T_LSTAR=-1.00 T_SYS=-1.00)

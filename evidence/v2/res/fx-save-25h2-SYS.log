@@ -1,0 +1,11 @@
+Saving to /root/fixtures/25h2-SYS.sav new xl format (info 0x3/0x0/4401)
+xc: info: Saving domain 403, type x86 HVM
+libxl: error: libxl_dom_suspend.c:360:suspend_common_wait_guest_timeout: Domain 403:guest did not suspend, timed out
+xc: error: save callback suspend() failed: 0: Internal error
+xc: error: Save failed (0 = Success): Internal error
+libxl: error: libxl_stream_write.c:343:libxl__xc_domain_save_done: Domain 403:saving domain: domain responded to suspend request: Success
+Failed to save domain, resuming domain
+xc: error: Dom 403 not suspended: (shutdown 0, reason 2): Internal error
+libxl: error: libxl_dom_suspend.c:596:domain_resume_done: Domain 403:xc_domain_resume failed: Invalid argument
+qemu-img: Could not open '/var/lib/xen/images/win11-25h2-test.qcow2': Failed to get "write" lock
+Is another process using the image [/var/lib/xen/images/win11-25h2-test.qcow2]?

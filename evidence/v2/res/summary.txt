@@ -1,0 +1,78 @@
+14:37:42 ===== P0 boot-phase map, 6 Win11 builds (16 GB/12 vCPU)
+14:38:06 P0 21h2 SUMMARY T_CTX=0.00 T_PG=10.00 T_IDT=0.05 T_LSTAR=13.77 T_SYS=14.12 flips=36
+14:38:32 P0 22h2 SUMMARY T_CTX=0.00 T_PG=10.71 T_IDT=0.05 T_LSTAR=14.17 T_SYS=14.52 flips=36
+14:39:00 P0 23h2 SUMMARY T_CTX=0.00 T_PG=10.56 T_IDT=0.05 T_LSTAR=14.12 T_SYS=14.48 flips=42
+14:39:27 P0 24h2 SUMMARY T_CTX=0.00 T_PG=9.40 T_IDT=0.05 T_LSTAR=14.17 T_SYS=14.57 flips=36
+14:39:54 P0 25h2 SUMMARY T_CTX=0.00 T_PG=9.85 T_IDT=8.25 T_LSTAR=14.27 T_SYS=14.72 flips=30
+14:40:22 P0 26h1 SUMMARY T_CTX=0.00 T_PG=10.51 T_IDT=0.05 T_LSTAR=14.92 T_SYS=15.38 flips=48
+14:40:22 ===== P2 state-targeted attaches, paused guest, fixed libvmi (F-dbg)
+14:40:33 P2 21h2 target=CTX+3000ms trig_rc=0 t=3.02 state=[PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0] xl=--p--- | rc=1 wall=327ms class=FAILFAST
+14:40:51 P2 21h2 target=PG0W+0ms trig_rc=0 t=10.16 state=[PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0] xl=--p--- | rc=1 wall=331ms class=FAILFAST
+14:44:28 P2 21h2 target=PG1+0ms trig_rc=0 t=9.10 state=[PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0] xl=--p--- | rc=124 wall=200018ms class=NOJSON+SYSSCAN
+14:44:49 P2 21h2 target=LSTAR+0ms trig_rc=0 t=13.72 state=[PG=1 LMA=1 IDT=1 LSTAR=1 SYS=0] xl=--p--- | rc=0 wall=334ms class=json
+14:45:12 P2 21h2 target=SYS+500ms trig_rc=0 t=14.47 state=[PG=1 LMA=1 IDT=1 LSTAR=1 SYS=1] xl=--p--- | rc=0 wall=334ms class=json
+14:45:23 P2 22h2 target=CTX+3000ms trig_rc=0 t=3.02 state=[PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0] xl=--p--- | rc=1 wall=368ms class=FAILFAST
+14:45:42 P2 22h2 target=PG0W+0ms trig_rc=0 t=10.91 state=[PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0] xl=--p--- | rc=1 wall=366ms class=FAILFAST
+14:49:20 P2 22h2 target=PG1+0ms trig_rc=0 t=10.20 state=[PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0] xl=--p--- | rc=124 wall=200019ms class=NOJSON+SYSSCAN
+14:49:41 P2 22h2 target=LSTAR+0ms trig_rc=0 t=13.87 state=[PG=1 LMA=1 IDT=1 LSTAR=1 SYS=0] xl=--p--- | rc=0 wall=359ms class=json
+14:50:04 P2 22h2 target=SYS+500ms trig_rc=0 t=14.72 state=[PG=1 LMA=1 IDT=1 LSTAR=1 SYS=1] xl=--p--- | rc=0 wall=360ms class=json
+14:50:15 P2 23h2 target=CTX+3000ms trig_rc=0 t=3.02 state=[PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0] xl=--p--- | rc=1 wall=389ms class=FAILFAST
+14:50:33 P2 23h2 target=PG0W+0ms trig_rc=0 t=10.46 state=[PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0] xl=--p--- | rc=1 wall=356ms class=FAILFAST
+14:54:10 P2 23h2 target=PG1+0ms trig_rc=0 t=9.65 state=[PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0] xl=--p--- | rc=124 wall=200019ms class=NOJSON+SYSSCAN
+14:54:32 P2 23h2 target=LSTAR+0ms trig_rc=0 t=13.72 state=[PG=1 LMA=1 IDT=1 LSTAR=1 SYS=0] xl=--p--- | rc=0 wall=356ms class=json
+14:54:54 P2 23h2 target=SYS+500ms trig_rc=0 t=14.52 state=[PG=1 LMA=1 IDT=1 LSTAR=1 SYS=1] xl=--p--- | rc=0 wall=358ms class=json
+14:55:05 P2 24h2 target=CTX+3000ms trig_rc=0 t=3.02 state=[PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0] xl=--p--- | rc=1 wall=388ms class=FAILFAST
+14:55:22 P2 24h2 target=PG0W+0ms trig_rc=0 t=9.25 state=[PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0] xl=--p--- | rc=1 wall=384ms class=FAILFAST
+14:59:00 P2 24h2 target=PG1+0ms trig_rc=0 t=9.85 state=[PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0] xl=--p--- | rc=124 wall=200020ms class=NOJSON+SYSSCAN
+14:59:22 P2 24h2 target=LSTAR+0ms trig_rc=0 t=13.97 state=[PG=1 LMA=1 IDT=1 LSTAR=1 SYS=0] xl=--p--- | rc=0 wall=380ms class=json
+14:59:45 P2 24h2 target=SYS+500ms trig_rc=0 t=14.98 state=[PG=1 LMA=1 IDT=1 LSTAR=1 SYS=1] xl=--p--- | rc=0 wall=389ms class=json
+14:59:56 P2 25h2 target=CTX+3000ms trig_rc=0 t=3.02 state=[PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0] xl=--p--- | rc=1 wall=390ms class=FAILFAST
+15:00:13 P2 25h2 target=PG0W+0ms trig_rc=0 t=9.60 state=[PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0] xl=--p--- | rc=1 wall=390ms class=FAILFAST
+15:12:03 P2 25h2 target=PG1+0ms trig_rc=0 t=10.61 state=[PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0] xl=--p--- | rc=1 wall=691916ms class=KDBG+SYSSCAN
+15:12:25 P2 25h2 target=LSTAR+0ms trig_rc=0 t=13.92 state=[PG=1 LMA=1 IDT=1 LSTAR=1 SYS=0] xl=--p--- | rc=0 wall=393ms class=json
+15:12:49 P2 25h2 target=SYS+500ms trig_rc=0 t=15.12 state=[PG=1 LMA=1 IDT=1 LSTAR=1 SYS=1] xl=--p--- | rc=0 wall=394ms class=json
+15:12:59 P2 26h1 target=CTX+3000ms trig_rc=0 t=3.02 state=[PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0] xl=--p--- | rc=1 wall=418ms class=FAILFAST
+15:13:18 P2 26h1 target=PG0W+0ms trig_rc=0 t=10.61 state=[PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0] xl=--p--- | rc=1 wall=417ms class=FAILFAST
+15:25:08 P2 26h1 target=PG1+0ms trig_rc=0 t=10.56 state=[PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0] xl=--p--- | rc=1 wall=691717ms class=KDBG+SYSSCAN
+15:25:31 P2 26h1 target=LSTAR+0ms trig_rc=0 t=14.73 state=[PG=1 LMA=1 IDT=1 LSTAR=1 SYS=0] xl=--p--- | rc=0 wall=408ms class=json
+15:25:55 P2 26h1 target=SYS+500ms trig_rc=0 t=15.85 state=[PG=1 LMA=1 IDT=1 LSTAR=1 SYS=1] xl=--p--- | rc=0 wall=420ms class=json
+15:25:55 ===== P2b DRAKVUF main + upstream libvmi (N-rel), attached in winload PG=1, 25H2
+15:38:14 P2b drakvuf trig_rc=0 t=10.10 state=[PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0] xl=--p--- | rc=0 wall=721949ms events=0 xl_after=r-----
+15:38:14 ===== P4 fixtures (8 GB cfg) 25H2 + 26H1: save at PG0W/PG1/LSTAR/SYS+500, then replay + probe
+15:39:31 P4 save 25h2 PG0W trig_rc=0 t=9.95 state=[PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0] xl=--p--- | save_rc=1 60s size=5313 disksnap_rc=1
+15:40:49 P4 save 25h2 PG1 trig_rc=0 t=10.65 state=[PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0] xl=--p--- | save_rc=1 60s size=5313 disksnap_rc=1
+15:41:26 P4 save 25h2 LSTAR trig_rc=0 t=14.32 state=[PG=1 LMA=1 IDT=1 LSTAR=1 SYS=0] xl=--p--- | save_rc=0 16s size=8607821961 disksnap_rc=0
+15:42:45 P4 save 25h2 SYS trig_rc=0 t=15.23 state=[PG=1 LMA=1 IDT=1 LSTAR=1 SYS=1] xl=--p--- | save_rc=1 60s size= disksnap_rc=1
+15:44:01 P4 save 26h1 PG0W trig_rc=0 t=9.65 state=[PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0] xl=--p--- | save_rc=1 60s size=4453 disksnap_rc=1
+15:44:30 P4 save 26h1 PG1 trig_rc=0 t=9.80 state=[PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0] xl=--p--- | save_rc=0 12s size=6456122981 disksnap_rc=0
+15:44:57 P4 save 26h1 LSTAR trig_rc=0 t=11.01 state=[PG=1 LMA=1 IDT=1 LSTAR=1 SYS=1] xl=--p--- | save_rc=0 12s size=6456122981 disksnap_rc=0
+15:45:25 P4 save 26h1 SYS trig_rc=0 t=11.51 state=[PG=1 LMA=1 IDT=1 LSTAR=1 SYS=1] xl=--p--- | save_rc=0 13s size=6456128693 disksnap_rc=0
+15:45:27 P4 replay 25h2 PG0W restore_rc=1 0s xl= | rc=1 wall=18ms class=NOJSON
+15:45:32 P4 replay 25h2 PG1 restore_rc=1 0s xl= | rc=1 wall=18ms class=NOJSON
+15:45:37 P4 replay 25h2 LSTAR restore_rc=1 0s xl= | rc=1 wall=17ms class=NOJSON
+15:45:41 P4 replay 25h2 SYS restore_rc=1 0s xl= | rc=1 wall=18ms class=NOJSON
+15:45:46 P4 replay 26h1 PG0W restore_rc=1 0s xl= | rc=1 wall=17ms class=NOJSON
+15:50:26 P4 replay 26h1 PG1 restore_rc=0 11s xl=--p--- | rc=1 wall=264800ms class=KDBG+SYSSCAN
+15:50:45 P4 replay 26h1 LSTAR restore_rc=0 10s xl=--p--- | rc=0 wall=404ms class=json
+15:51:03 P4 replay 26h1 SYS restore_rc=0 11s xl=--p--- | rc=0 wall=406ms class=json
+15:51:08 ===== P9 stale page_mode demo (retry without vmi_init_paging), 25H2
+15:51:58 P9 no-refresh: RESULT giveup attempts=45 t=45.32s longest_attempt=0.31s attempts_after_20s_failing=25
+15:51:58 P9 with-refresh right after: RESULT success attempts=1 t_success=0.30s longest_attempt=0.30s
+15:51:59 ===== P8 ASan (fixed libvmi built with -fsanitize=address), 25H2
+15:52:10 P8 caseA trig_rc=0 t=3.02 state=[PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0] xl=--p--- | rc=1 asan_errors=0 RESULT rc=1 init_ms=886
+15:52:34 P8 ok trig_rc=0 t=15.03 state=[PG=1 LMA=1 IDT=1 LSTAR=1 SYS=1] xl=--p--- | rc=0 asan_errors=0 RESULT rc=0 init_ms=734
+15:52:35 P8 process-list rc=0 procs=1 asan_errors=0
+15:52:36 P8 leaks(info) rc=0 leak_bytes=
+15:52:36 ===== P7 Linux non-regression (linux-test, N vs F)
+15:53:30 P7 linux procs_N=85 procs_F=85 rc=0 rc=0 diff_lines=7
+15:54:02 ===== P5 file mode non-regression (25H2 8 GB dump, N vs F)
+15:56:57 P5 dump rc=0 96s size=8858894336
+15:57:49 P5 filemode procs_N=0 procs_F=0 N:rc=1 23s F:rc=1 24s diff_lines=0 failfast_msg_in_F=/root/kdbg-study/v2/res/p5-F.err:0 /root/kdbg-study/v2/res/p5-F.txt:0 
+15:57:49 ===== P6 Windows 10 1809 (4 GB/2 vCPU): map + state-targeted attaches (F-dbg)
+15:58:08 P6 map SUMMARY T_CTX=0.00 T_PG=8.95 T_IDT=0.05 T_LSTAR=10.10 T_SYS=10.10 flips=22
+15:58:17 P6 w10-1809 target=CTX+3000ms trig_rc=0 t=3.02 state=[PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0] xl=--p--- | rc=1 wall=306ms class=FAILFAST
+15:58:33 P6 w10-1809 target=PG0W+0ms trig_rc=0 t=9.60 state=[PG=0 LMA=0 IDT=0 LSTAR=0 SYS=0] xl=--p--- | rc=1 wall=273ms class=FAILFAST
+16:01:49 P6 w10-1809 target=PG1+0ms trig_rc=0 t=9.50 state=[PG=1 LMA=1 IDT=1 LSTAR=0 SYS=0] xl=--p--- | rc=1 wall=181251ms class=KDBG+SYSSCAN
+16:02:06 P6 w10-1809 target=LSTAR+0ms trig_rc=0 t=10.20 state=[PG=1 LMA=1 IDT=1 LSTAR=1 SYS=1] xl=--p--- | rc=0 wall=304ms class=json
+16:02:22 P6 w10-1809 target=SYS+500ms trig_rc=0 t=10.71 state=[PG=1 LMA=1 IDT=1 LSTAR=1 SYS=1] xl=--p--- | rc=0 wall=277ms class=json
+16:02:27 ===== P3 retry-loop caller (one instance, pause around each attempt), 25H2

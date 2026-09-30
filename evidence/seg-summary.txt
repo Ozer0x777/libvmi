@@ -1,0 +1,8 @@
+d=12 rc=1 wall=108537ms phys=1 procs=0 last=--Found KdDebuggerDataBlock at PA 0000000000000000|**All KdDebuggerDataBlock search methods failed|Failed to init LibVMI library.|
+d=14 rc=1 wall=83620ms phys=0 procs=0 last=--failed to find System process.|VMI_ERROR: Failed to find kernel page directory.|Failed to init LibVMI library.|
+d=16 rc=0 wall=391ms phys=0 procs=2 last=--SYM cache set PsActiveProcessHead -- 0xfffff802f07054d0|--start to read string from 0xffff90876f6b0378, page offset 0x378, read: 3208|--start to read string from 0xffff90876faeb378, page offset 0x378, read: 3208|
+d=18 rc=0 wall=450ms phys=0 procs=2 last=--SYM cache set PsActiveProcessHead -- 0xfffff807f13054d0|--start to read string from 0xffffe3074f6b0378, page offset 0x378, read: 3208|--start to read string from 0xffffe3074faec378, page offset 0x378, read: 3208|
+d=20 rc=0 wall=424ms phys=0 procs=2 last=--SYM cache set PsActiveProcessHead -- 0xfffff806f23054d0|--start to read string from 0xffff850a656b7378, page offset 0x378, read: 3208|--start to read string from 0xffff850a65ae8378, page offset 0x378, read: 3208|
+d=22 rc=0 wall=459ms phys=0 procs=3 last=--start to read string from 0xffffa30dd56b6378, page offset 0x378, read: 3208|--start to read string from 0xffffa30dd59c53b8, page offset 0x3b8, read: 3144|--start to read string from 0xffffa30dd9010378, page offset 0x378, read: 3208|
+d=24 rc=0 wall=456ms phys=0 procs=3 last=--start to read string from 0xffff9c01b46b0378, page offset 0x378, read: 3208|--start to read string from 0xffff9c01b4ae9378, page offset 0x378, read: 3208|--start to read string from 0xffff9c01b5f7c378, page offset 0x378, read: 3208|
+ALLDONE
