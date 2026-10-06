@@ -1,0 +1,152 @@
+# original: 316141917 bytes, sha256 238b660bf647e6094d94d92a911b8476240f0ad3356dedd1133e0ba9e90f99b5, 9184862 lines
+**The running Xen version is 4.21
+--found Xen
+Running Bareflank CPUID signature: 0 0 0 0
+LibVMI Version 0.15.0
+LibVMI Driver Mode 0
+**The running Xen version is 4.21
+--completed driver init.
+--got id from name (win10-1607-test --> 86)
+**set image_type = win10-1607-test
+**set vm_type HVM
+--xen: setup live mode
+**set allocated_ram_size = 10004c000, max_physical_address = 0x110080000
+**set pae = 1
+**set pse = 1
+**set lme = 1
+**IA-32e paging
+**sanity checking cr3 = 0x00000000001aa000
+**set os_type to Windows.
+** (vmi->page_mode == VMI_PM_IA32E) Entering KPCR register selection loop...
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=GS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying GS_BASE failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=SHADOW_GS.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying SHADOW_GS failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=MSR_SHADOW_GS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** driver_get_vcpureg(..) failed.
+** kpcr_get(..) failed.
+** Trying MSR_SHADOW_GS_BASE failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=FS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying FS_BASE failed.
+** KPCR register selection loop ended.
+**Attempting KdDebuggerDataBlock search methods
+**Trying find_kdbg_address_instant
+**Trying find_kdbg_address_faster
+--V2P cache miss (no address space) 0x00000000001aa000 0x0000000000000000
+--PTLookup: lookup addr = 0xfffff803689d6000
+--PTLookup: npt = 0x0000000000000000 npm = 0
+--PTLookup: pt = 0x00000000001aa000
+--Reading pfn 0x1aa
+--MEMORY cache set 0x1aa000
+--xen_get_memory_pfn success on pfn=0x1aa
+--PTLookup: pml4e_location = 0x00000000001aaf80
+--PTLookup: pml4e_value = 0x0000000000f04063
+--Reading pfn 0xf04
+--MEMORY cache set 0xf04000
+--xen_get_memory_pfn success on pfn=0xf04
+--PTLookup: pdpte_location = 0x0000000000f04068
+--PTLookup: pdpte_value = 0x0000000000f05063
+--Reading pfn 0xf05
+--MEMORY cache set 0xf05000
+--xen_get_memory_pfn success on pfn=0xf05
+--PTLookup: pde_location = 0x0000000000f05a20
+--PTLookup: pde_value = 0x0000000109a009e3
+--PTLookup: 2MB page
+--PTLookup: paddr = 0x0000000109bd6000
+--V2P cache set for page 0xfffff803689d6000 -- 0x0000000109bd6000
+--Reading pfn 0x109bd6
+--MEMORY cache set 0x109bd6000
+--xen_get_memory_pfn success on pfn=0x109bd6
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--Reading pfn 0x109bd5
+--MEMORY cache set 0x109bd5000
+--xen_get_memory_pfn success on pfn=0x109bd5
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--Reading pfn 0x109bd4
+--MEMORY cache set 0x109bd4000
+--xen_get_memory_pfn success on pfn=0x109bd4
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--Reading pfn 0x109bd3
+--MEMORY cache set 0x109bd3000
+--xen_get_memory_pfn success on pfn=0x109bd3
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--Reading pfn 0x109bd2
+--MEMORY cache set 0x109bd2000
+--xen_get_memory_pfn success on pfn=0x109bd2
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--Reading pfn 0x109bd1
+--MEMORY cache set 0x109bd1000
+--xen_get_memory_pfn success on pfn=0x109bd1
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--Reading pfn 0x109bd0
+--MEMORY cache set 0x109bd0000
+--xen_get_memory_pfn success on pfn=0x109bd0
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--Reading pfn 0x109bcf
+--MEMORY cache set 0x109bcf000
+--xen_get_memory_pfn success on pfn=0x109bcf
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--Reading pfn 0x109bce
+--MEMORY cache set 0x109bce000
+--xen_get_memory_pfn success on pfn=0x109bce
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+# ---- last 30
+--Reading pfn 0x110077
+--MEMORY cache set 0x110077000
+--xen_get_memory_pfn success on pfn=0x110077
+--Reading pfn 0x110078
+--MEMORY cache set 0x110078000
+--xen_get_memory_pfn success on pfn=0x110078
+--Reading pfn 0x110079
+--MEMORY cache set 0x110079000
+--xen_get_memory_pfn success on pfn=0x110079
+--Reading pfn 0x11007a
+--MEMORY cache set 0x11007a000
+--xen_get_memory_pfn success on pfn=0x11007a
+--Reading pfn 0x11007b
+--MEMORY cache set 0x11007b000
+--xen_get_memory_pfn success on pfn=0x11007b
+--Reading pfn 0x11007c
+--MEMORY cache set 0x11007c000
+--xen_get_memory_pfn success on pfn=0x11007c
+--Reading pfn 0x11007d
+--MEMORY cache set 0x11007d000
+--xen_get_memory_pfn success on pfn=0x11007d
+--Reading pfn 0x11007e
+--MEMORY cache set 0x11007e000
+--xen_get_memory_pfn success on pfn=0x11007e
+--Reading pfn 0x11007f
+--MEMORY cache set 0x11007f000
+--xen_get_memory_pfn success on pfn=0x11007f
+--Found KdDebuggerDataBlock at PA 0000000000000000
+**All KdDebuggerDataBlock search methods failed
+INITFAIL

@@ -1,0 +1,15 @@
+2026-10-04 02:41:57 === win10-21H1-test mac=00:14:22:6f:71:97
+2026-10-04 02:41:59 win10-21H1-test install started
+2026-10-04 02:46:59 win10-21H1-test t=300s cpu=112.7s delta=20s img=2704MB
+2026-10-04 02:51:59 win10-21H1-test t=600s cpu=174.6s delta=12s img=5635MB
+2026-10-04 02:56:59 win10-21H1-test t=900s cpu=230.9s delta=5s img=8327MB
+2026-10-04 03:01:59 win10-21H1-test t=1200s cpu=90.0s delta=44s img=8832MB
+2026-10-04 03:06:59 win10-21H1-test t=1500s cpu=54.0s delta=27s img=9103MB
+2026-10-04 03:11:59 win10-21H1-test t=1800s cpu=340.3s delta=115s img=9229MB
+2026-10-04 03:17:00 win10-21H1-test t=2100s cpu=527.1s delta=5s img=9248MB
+2026-10-04 03:22:00 win10-21H1-test t=2400s cpu=552.6s delta=2s img=9249MB
+2026-10-04 03:27:00 win10-21H1-test t=2700s cpu=685.4s delta=18s img=9374MB
+2026-10-04 03:31:00 win10-21H1-test idle after 2940s (img 9923MB)
+2026-10-04 03:31:05 win10-21H1-test snapshot after-install-cold created
+2026-10-04 03:32:43 win10-21H1-test VERIFY: procs=79 explorer=1 system=1 encoded (rot=26) 
+2026-10-04 03:32:43 ALLDONE

@@ -1,0 +1,46 @@
+2026-10-05 12:33:26 === win10-1507-test mac=00:14:22:6f:71:8c
+2026-10-05 12:33:27 win10-1507-test install started
+2026-10-05 12:38:27 win10-1507-test t=300s cpu=99.4s delta=17s img=3238MB
+2026-10-05 12:43:27 win10-1507-test t=600s cpu=146.8s delta=7s img=6368MB
+2026-10-05 12:48:28 win10-1507-test t=900s cpu=185.8s delta=5s img=7711MB
+2026-10-05 12:53:28 win10-1507-test t=1200s cpu=128.1s delta=32s img=8077MB
+2026-10-05 12:58:28 win10-1507-test t=1500s cpu=139.3s delta=45s img=8121MB
+2026-10-05 13:03:28 win10-1507-test t=1800s cpu=234.7s delta=0s img=8122MB
+2026-10-05 13:05:28 win10-1507-test idle after 1920s (img 8122MB)
+2026-10-05 13:05:34 win10-1507-test snapshot after-install-cold created
+2026-10-05 13:08:48 win10-1507-test VERIFY: procs=0 explorer=0 system=0  INITFAIL
+2026-10-05 13:08:48 === win10-1511-test mac=00:14:22:6f:71:8d
+2026-10-05 13:08:49 win10-1511-test install started
+2026-10-05 13:13:49 win10-1511-test t=300s cpu=92.4s delta=16s img=3408MB
+2026-10-05 13:18:50 win10-1511-test t=600s cpu=136.6s delta=7s img=6347MB
+2026-10-05 13:23:50 win10-1511-test t=900s cpu=182.6s delta=15s img=7704MB
+2026-10-05 13:28:50 win10-1511-test t=1200s cpu=83.9s delta=21s img=7886MB
+2026-10-05 13:33:50 win10-1511-test t=1500s cpu=121.3s delta=22s img=8212MB
+2026-10-05 13:38:50 win10-1511-test t=1800s cpu=278.3s delta=2s img=8343MB
+2026-10-05 13:43:50 win10-1511-test t=2100s cpu=292.6s delta=0s img=8344MB
+2026-10-05 13:45:51 win10-1511-test idle after 2220s (img 8344MB)
+2026-10-05 13:45:56 win10-1511-test snapshot after-install-cold created
+2026-10-05 13:49:08 win10-1511-test VERIFY: procs=0 explorer=0 system=0  INITFAIL
+2026-10-05 13:49:08 === win10-1607-test mac=00:14:22:6f:71:8e
+2026-10-05 13:49:09 win10-1607-test install started
+2026-10-05 13:54:09 win10-1607-test t=300s cpu=98.8s delta=21s img=3868MB
+2026-10-05 13:59:09 win10-1607-test t=600s cpu=147.3s delta=7s img=7048MB
+2026-10-05 14:04:09 win10-1607-test t=900s cpu=198.0s delta=15s img=8345MB
+2026-10-05 14:09:09 win10-1607-test t=1200s cpu=119.2s delta=24s img=8769MB
+2026-10-05 14:14:10 win10-1607-test t=1500s cpu=162.6s delta=50s img=8913MB
+2026-10-05 14:19:10 win10-1607-test t=1800s cpu=249.4s delta=1s img=8957MB
+2026-10-05 14:20:10 win10-1607-test idle after 1860s (img 8957MB)
+2026-10-05 14:20:15 win10-1607-test snapshot after-install-cold created
+2026-10-05 14:23:29 win10-1607-test VERIFY: procs=0 explorer=0 system=0  INITFAIL
+2026-10-05 14:23:29 === win10-1703-test mac=00:14:22:6f:71:8f
+2026-10-05 14:23:31 win10-1703-test install started
+2026-10-05 14:28:31 win10-1703-test t=300s cpu=93.8s delta=15s img=3047MB
+2026-10-05 14:33:31 win10-1703-test t=600s cpu=144.4s delta=10s img=6023MB
+2026-10-05 14:38:31 win10-1703-test t=900s cpu=183.0s delta=12s img=7848MB
+2026-10-05 14:43:31 win10-1703-test t=1200s cpu=70.0s delta=33s img=8469MB
+2026-10-05 14:48:31 win10-1703-test t=1500s cpu=58.7s delta=26s img=8636MB
+2026-10-05 14:53:32 win10-1703-test t=1800s cpu=271.1s delta=5s img=8870MB
+2026-10-05 14:56:32 win10-1703-test idle after 1980s (img 8870MB)
+2026-10-05 14:56:37 win10-1703-test snapshot after-install-cold created
+2026-10-05 14:58:53 win10-1703-test VERIFY: procs=96 explorer=1 system=1 encoded (rot=48) 
+2026-10-05 14:58:53 ALLDONE

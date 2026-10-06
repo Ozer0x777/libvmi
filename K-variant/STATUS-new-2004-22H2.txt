@@ -1,0 +1,67 @@
+2026-10-03 15:25:54 === win10-2004-test mac=00:14:22:6f:71:95
+2026-10-03 15:25:55 win10-2004-test install started
+2026-10-03 15:30:56 win10-2004-test t=300s cpu=111.2s delta=22s img=2454MB
+2026-10-03 15:35:56 win10-2004-test t=600s cpu=178.2s delta=12s img=5555MB
+2026-10-03 15:40:56 win10-2004-test t=900s cpu=235.3s delta=11s img=8047MB
+2026-10-03 15:45:56 win10-2004-test t=1200s cpu=70.2s delta=45s img=8821MB
+2026-10-03 15:50:56 win10-2004-test t=1500s cpu=49.1s delta=32s img=8993MB
+2026-10-03 15:55:56 win10-2004-test t=1800s cpu=298.9s delta=90s img=9156MB
+2026-10-03 16:00:57 win10-2004-test t=2100s cpu=529.6s delta=1s img=9207MB
+2026-10-03 16:05:57 win10-2004-test t=2400s cpu=558.7s delta=2s img=9208MB
+2026-10-03 16:05:57 win10-2004-test idle after 2400s (img 9208MB)
+2026-10-03 16:06:02 win10-2004-test snapshot after-install-cold created
+2026-10-03 16:07:40 win10-2004-test VERIFY: procs=96 explorer=1 system=1 encoded (rot=32) 
+2026-10-03 16:07:40 === win10-20H2-test mac=00:14:22:6f:71:96
+2026-10-03 16:07:41 win10-20H2-test install started
+2026-10-03 16:12:41 win10-20H2-test t=300s cpu=112.8s delta=21s img=2691MB
+2026-10-03 16:17:41 win10-20H2-test t=600s cpu=175.9s delta=11s img=5670MB
+2026-10-03 16:22:41 win10-20H2-test t=900s cpu=233.3s delta=7s img=8368MB
+2026-10-03 16:27:41 win10-20H2-test t=1200s cpu=94.3s delta=39s img=8834MB
+2026-10-03 16:32:42 win10-20H2-test t=1500s cpu=57.1s delta=24s img=9096MB
+2026-10-03 16:37:42 win10-20H2-test t=1800s cpu=359.6s delta=115s img=9241MB
+2026-10-03 16:42:42 win10-20H2-test t=2100s cpu=538.1s delta=7s img=9243MB
+2026-10-03 16:47:42 win10-20H2-test t=2400s cpu=561.7s delta=2s img=9243MB
+2026-10-03 16:47:42 win10-20H2-test idle after 2400s (img 9243MB)
+2026-10-03 16:47:47 win10-20H2-test snapshot after-install-cold created
+2026-10-03 16:49:25 win10-20H2-test VERIFY: procs=96 explorer=1 system=1 encoded (rot=26) 
+2026-10-03 16:49:25 === win10-21H1-test mac=00:14:22:6f:71:97
+2026-10-03 16:49:26 win10-21H1-test install started
+2026-10-03 16:54:26 win10-21H1-test t=300s cpu=114.2s delta=20s img=2721MB
+2026-10-03 16:59:26 win10-21H1-test t=600s cpu=177.7s delta=13s img=5697MB
+2026-10-03 17:04:27 win10-21H1-test t=900s cpu=234.5s delta=6s img=8335MB
+2026-10-03 17:09:27 win10-21H1-test t=1200s cpu=92.8s delta=39s img=8819MB
+2026-10-03 17:14:27 win10-21H1-test t=1500s cpu=55.6s delta=23s img=9061MB
+2026-10-03 17:19:27 win10-21H1-test t=1800s cpu=75.9s delta=2s img=9090MB
+2026-10-03 17:19:27 win10-21H1-test idle after 1800s (img 9090MB)
+2026-10-03 17:19:32 win10-21H1-test snapshot after-install-cold created
+2026-10-03 17:21:53 win10-21H1-test VERIFY: procs=0 explorer=0 system=0 encoded (rot=40) INITFAIL
+2026-10-03 17:21:53 === win10-21H2-test mac=00:14:22:6f:71:98
+2026-10-03 17:21:54 win10-21H2-test install started
+2026-10-03 17:26:55 win10-21H2-test t=300s cpu=114.8s delta=19s img=2757MB
+2026-10-03 17:31:55 win10-21H2-test t=600s cpu=177.6s delta=13s img=5664MB
+2026-10-03 17:36:55 win10-21H2-test t=900s cpu=234.1s delta=8s img=8256MB
+2026-10-03 17:41:55 win10-21H2-test t=1200s cpu=85.4s delta=43s img=8816MB
+2026-10-03 17:46:55 win10-21H2-test t=1500s cpu=53.0s delta=27s img=9043MB
+2026-10-03 17:51:55 win10-21H2-test t=1800s cpu=109.6s delta=33s img=9071MB
+2026-10-03 17:56:55 win10-21H2-test t=2100s cpu=467.6s delta=105s img=9099MB
+2026-10-03 18:01:56 win10-21H2-test t=2400s cpu=558.2s delta=2s img=9141MB
+2026-10-03 18:06:56 win10-21H2-test t=2700s cpu=616.1s delta=6s img=9213MB
+2026-10-03 18:11:56 win10-21H2-test t=3000s cpu=709.2s delta=2s img=9829MB
+2026-10-03 18:14:56 win10-21H2-test idle after 3180s (img 9832MB)
+2026-10-03 18:15:01 win10-21H2-test snapshot after-install-cold created
+2026-10-03 18:16:39 win10-21H2-test VERIFY: procs=90 explorer=1 system=1 encoded (rot=54) 
+2026-10-03 18:16:39 === win10-22H2-test mac=00:14:22:6f:71:99
+2026-10-03 18:16:40 win10-22H2-test install started
+2026-10-03 18:21:40 win10-22H2-test t=300s cpu=113.7s delta=17s img=2765MB
+2026-10-03 18:26:40 win10-22H2-test t=600s cpu=175.4s delta=12s img=5707MB
+2026-10-03 18:31:40 win10-22H2-test t=900s cpu=232.8s delta=6s img=8419MB
+2026-10-03 18:36:41 win10-22H2-test t=1200s cpu=104.4s delta=39s img=8823MB
+2026-10-03 18:41:41 win10-22H2-test t=1500s cpu=68.7s delta=23s img=9096MB
+2026-10-03 18:46:41 win10-22H2-test t=1800s cpu=395.5s delta=117s img=9165MB
+2026-10-03 18:51:41 win10-22H2-test t=2100s cpu=540.7s delta=11s img=9200MB
+2026-10-03 18:56:41 win10-22H2-test t=2400s cpu=573.4s delta=15s img=9200MB
+2026-10-03 19:01:41 win10-22H2-test t=2700s cpu=693.0s delta=11s img=9769MB
+2026-10-03 19:05:41 win10-22H2-test idle after 2940s (img 9921MB)
+2026-10-03 19:05:47 win10-22H2-test snapshot after-install-cold created
+2026-10-03 19:07:24 win10-22H2-test VERIFY: procs=79 explorer=1 system=1 encoded (rot=17) 
+2026-10-03 19:07:24 ALLDONE

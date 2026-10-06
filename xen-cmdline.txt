@@ -1,0 +1,3 @@
+(XEN) Command line: placeholder dom0_mem=4096M,max:4096M dom0_max_vcpus=8 dom0_vcpus_pin=1 altp2m=1 hap_1gb=0 hap_2mb=0 ept=ad=0 no-real-mode edd=off
+(XEN) VMX: Supported advanced features:
+xen_commandline        : placeholder dom0_mem=4096M,max:4096M dom0_max_vcpus=8 dom0_vcpus_pin=1 altp2m=1 hap_1gb=0 hap_2mb=0 ept=ad=0 no-real-mode edd=off

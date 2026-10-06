@@ -1,0 +1,14 @@
+win10-1507-test.json ActiveProcessLinks=0x2f0 UniqueProcessId=0x2e8 ImageFileName=0x448 DirectoryTableBase=0x28
+win10-1511-test.json ActiveProcessLinks=0x2f0 UniqueProcessId=0x2e8 ImageFileName=0x450 DirectoryTableBase=0x28
+win10-1607-test.json ActiveProcessLinks=0x2f0 UniqueProcessId=0x2e8 ImageFileName=0x450 DirectoryTableBase=0x28
+win10-1703-test.json ActiveProcessLinks=0x2e8 UniqueProcessId=0x2e0 ImageFileName=0x450 DirectoryTableBase=0x28
+win10-1709-test.json ActiveProcessLinks=0x2e8 UniqueProcessId=0x2e0 ImageFileName=0x450 DirectoryTableBase=0x28
+win10-1803-test.json ActiveProcessLinks=0x2e8 UniqueProcessId=0x2e0 ImageFileName=0x450 DirectoryTableBase=0x28
+win10-1809-test.json ActiveProcessLinks=0x2e8 UniqueProcessId=0x2e0 ImageFileName=0x450 DirectoryTableBase=0x28
+win10-1903-test.json ActiveProcessLinks=0x2f0 UniqueProcessId=0x2e8 ImageFileName=0x450 DirectoryTableBase=0x28
+win10-1909-test.json ActiveProcessLinks=0x2f0 UniqueProcessId=0x2e8 ImageFileName=0x450 DirectoryTableBase=0x28
+win10-2004-test.json ActiveProcessLinks=0x448 UniqueProcessId=0x440 ImageFileName=0x5a8 DirectoryTableBase=0x28
+win10-20H2-test.json ActiveProcessLinks=0x448 UniqueProcessId=0x440 ImageFileName=0x5a8 DirectoryTableBase=0x28
+win10-21H1-test.json ActiveProcessLinks=0x448 UniqueProcessId=0x440 ImageFileName=0x5a8 DirectoryTableBase=0x28
+win10-21H2-test.json ActiveProcessLinks=0x448 UniqueProcessId=0x440 ImageFileName=0x5a8 DirectoryTableBase=0x28
+win10-22H2-test.json ActiveProcessLinks=0x448 UniqueProcessId=0x440 ImageFileName=0x5a8 DirectoryTableBase=0x28

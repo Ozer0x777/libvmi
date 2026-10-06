@@ -1,0 +1,3 @@
+--KdDebuggerDataBlock is encoded (rot=40)
+--Found encoded KdDebuggerDataBlock at PA 0000000003800b70
+INITFAIL

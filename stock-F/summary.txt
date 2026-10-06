@@ -1,0 +1,30 @@
+02:22:20 ===== nojson attach, libvmi=F-dbg (/root/kdbg-study/nojson-F-dbg) builds: 1507 1511 1607 1703 1709 1803 1809 1903 1909 2004 20H2 21H1 21H2 22H2
+02:25:29 1507 offs=[2f0 2e8 448 28] rc=2 t=98s procs=0 INITFAIL 
+02:25:48 1507 stop=clean
+02:29:02 1511 offs=[2f0 2e8 450 28] rc=2 t=101s procs=0 INITFAIL 
+02:29:22 1511 stop=clean
+02:32:35 1607 offs=[2f0 2e8 450 28] rc=2 t=98s procs=0 INITFAIL 
+02:32:51 1607 stop=clean
+02:36:01 1703 offs=[2e8 2e0 450 28] rc=2 t=96s procs=0 INITFAIL 
+02:39:34 1703 stop=destroyed
+02:42:48 1709 offs=[2e8 2e0 450 28] rc=2 t=99s procs=0 INITFAIL 
+02:43:24 1709 stop=clean
+02:46:32 1803 offs=[2e8 2e0 450 28] rc=2 t=93s procs=0 INITFAIL 
+02:47:10 1803 stop=clean
+02:50:17 1809 offs=[2e8 2e0 450 28] rc=2 t=92s procs=0 INITFAIL 
+02:50:57 1809 stop=clean
+02:54:07 1903 offs=[2f0 2e8 450 28] rc=2 t=96s procs=0 INITFAIL 
+02:54:48 1903 stop=clean
+02:58:02 1909 offs=[2f0 2e8 450 28] rc=2 t=100s procs=0 INITFAIL 
+02:58:46 1909 stop=clean
+03:01:58 2004 offs=[448 440 5a8 28] rc=2 t=98s procs=0 INITFAIL 
+03:02:20 2004 stop=clean
+03:05:27 20H2 offs=[448 440 5a8 28] rc=2 t=92s procs=0 INITFAIL 
+03:05:48 20H2 stop=clean
+03:09:00 21H1 offs=[448 440 5a8 28] rc=2 t=97s procs=0 INITFAIL 
+03:09:22 21H1 stop=clean
+03:12:34 21H2 offs=[448 440 5a8 28] rc=2 t=98s procs=0 INITFAIL 
+03:12:56 21H2 stop=clean
+03:16:05 22H2 offs=[448 440 5a8 28] rc=2 t=94s procs=0 INITFAIL 
+03:16:28 22H2 stop=clean
+03:16:30 ===== done

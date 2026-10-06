@@ -1,0 +1,8 @@
+03:16:31 ===== nojson attach, libvmi=master-stock (/root/kdbg-study/nojson-master-stock) builds: 1507 1607 1809
+03:19:35 1507 offs=[2f0 2e8 448 28] rc=2 t=93s procs=0 INITFAIL 
+03:19:59 1507 stop=clean
+03:23:06 1607 offs=[2f0 2e8 450 28] rc=2 t=93s procs=0 INITFAIL 
+03:23:22 1607 stop=clean
+03:25:48 1809 offs=[2e8 2e0 450 28] rc=2 t=52s procs=0 INITFAIL 
+03:26:24 1809 stop=clean
+03:26:26 ===== done

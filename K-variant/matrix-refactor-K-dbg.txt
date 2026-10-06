@@ -1,0 +1,3 @@
+win11-25h2-test t=39s head=0xfffff800867054d0 json=0xfffff800867054d0 MATCH --KdDebuggerDataBlock is encoded (rot=59) --Found encoded KdDebuggerDataBlock at PA 0000000101201040 PROCS=107 
+win10-1809-test t=1s head=0xfffff80713c22680 json=0xfffff80713c22680 MATCH --KdDebuggerDataBlock is encoded (rot=12) --Found encoded KdDebuggerDataBlock at PA 00000000022125e0 PROCS=115 
+MATRIXDONE

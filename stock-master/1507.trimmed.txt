@@ -1,0 +1,8 @@
+# original: 9 bytes, sha256 3b65b2d76c642f73234e2ee87fe14687bde78d4cf1b3a306c48308b7fab60fa3, 1 lines
+# lines matching pfn read failures: 0
+# ---- first 150 lines
+INITFAIL
+# ---- non-pfn-noise lines (deduplicated, first 150)
+INITFAIL
+# ---- last 40 lines
+INITFAIL

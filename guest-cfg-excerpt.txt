@@ -1,0 +1,8 @@
+/root/kdbg-study/cfg/win10-1507-test.cfg:memory = 4096
+/root/kdbg-study/cfg/win10-1507-test.cfg:vcpus = 2
+/root/kdbg-study/cfg/win10-1507-test.cfg:altp2m = "external"
+/root/kdbg-study/cfg/win10-1507-test.cfg:viridian = 0
+/root/kdbg-study/cfg/win10-1809-test.cfg:memory = 4096
+/root/kdbg-study/cfg/win10-1809-test.cfg:vcpus = 2
+/root/kdbg-study/cfg/win10-1809-test.cfg:altp2m = "external"
+/root/kdbg-study/cfg/win10-1809-test.cfg:viridian = 0
