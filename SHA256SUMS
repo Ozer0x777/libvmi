@@ -21,7 +21,6 @@ d90e5af618272ec2f7aaffa570f10f46d4d5495bc442e8c32cbe68728d7ceff2  ./K-variant/ne
 744c90a2d7ff6b5fd9bc24985aac9c824aa6ca48003da0fb82a6187793b259cf  ./scripts/nojson.c
 67f039aece4496c5fb85d7737b65d1d308e21d1a6ddfdc00e30f98fe14f7a06c  ./scripts/nojson-matrix2.sh
 07928a606d314e15df824476ba350001db6823b87ad980a6d5d9cce87b8595fb  ./scripts/ntbuild-offsets.txt
-35355c30dcbaf4d8d15ffbafcca89fcd109a27dab08346f920e1eae1af04265c  ./SHA256SUMS
 e72169db69889174d3d10f9dee6a5e5dd1c08b40f4db1a6de4fad255c2414f9a  ./stock-F/1507.trimmed.txt
 789e6971f18bd75030b7bd14a95c0e70c2a1ac2b4302d734e1637e2ff4ea5c67  ./stock-F/1511.trimmed.txt
 2652cf8a7c1fb2f4f713f598c8eb6294b9615505e00c1722f4d80b8aab74eb1a  ./stock-F/1607.trimmed.txt
