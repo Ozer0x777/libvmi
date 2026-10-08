@@ -1,0 +1,11 @@
+15:13:04 tools built; libvmi tree: 3a74d10 windows: decode the encoded KdDebuggerDataBlock
+15:15:16 w11-21h2-r1 nojson-dbg rc=0 t=38s procs=124 head=0xfffff8014be1bec0 INIT OK encoded (rot=10) Found encoded KdDebuggerDataBlock at PA
+15:15:16 w11-21h2-r1 json rc=0 t=0s head=0xfffff8014be1bec0 MATCH-nojson 
+15:16:03 w11-21h2-r1 stop=clean
+15:18:15 w11-21h2-r2 nojson-dbg rc=0 t=37s procs=126 head=0xfffff8045a61bec0 INIT OK encoded (rot=3) Found encoded KdDebuggerDataBlock at PA
+15:18:16 w11-21h2-r2 json rc=0 t=1s head=0xfffff8045a61bec0 MATCH-nojson 
+15:19:04 w11-21h2-r2 stop=clean
+15:21:20 w11-21h2-r3 nojson-dbg rc=0 t=40s procs=124 head=0xfffff8010d21bec0 INIT OK encoded (rot=52) Found encoded KdDebuggerDataBlock at PA
+15:21:20 w11-21h2-r3 json rc=0 t=0s head=0xfffff8010d21bec0 MATCH-nojson 
+15:22:07 w11-21h2-r3 stop=clean
+15:22:09 ALLDONE

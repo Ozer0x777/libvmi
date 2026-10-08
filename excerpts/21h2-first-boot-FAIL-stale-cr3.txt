@@ -1,0 +1,166 @@
+# excerpt of nc-w11/w11-21h2-dbg.full (full log kept by the author). Parts: [1] start, [2] first 70 lines after the block is found (all debug lines), [3] last 25 lines. Lines 'Reading pfn', 'MEMORY cache', 'xen_get_memory_pfn' removed everywhere.
+## [1] start
+**The running Xen version is 4.21
+--found Xen
+Running Bareflank CPUID signature: 0 0 0 0
+LibVMI Version 0.15.0
+LibVMI Driver Mode 0
+**The running Xen version is 4.21
+--completed driver init.
+--got id from name (win11-21h2-test --> 150)
+**set image_type = win11-21h2-test
+**set vm_type HVM
+--xen: setup live mode
+**set allocated_ram_size = 40004c000, max_physical_address = 0x410080000
+**set pae = 1
+**set pse = 1
+**set lme = 1
+**IA-32e paging
+**sanity checking cr3 = 0x00000003e2155000
+**set os_type to Windows.
+** (vmi->page_mode == VMI_PM_IA32E) Entering KPCR register selection loop...
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=GS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying GS_BASE failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=SHADOW_GS.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying SHADOW_GS failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=MSR_SHADOW_GS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** driver_get_vcpureg(..) failed.
+** kpcr_get(..) failed.
+** Trying MSR_SHADOW_GS_BASE failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=FS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying FS_BASE failed.
+** KPCR register selection loop ended.
+**Attempting KdDebuggerDataBlock search methods
+**Trying find_kdbg_address_instant
+**Trying find_kdbg_address_faster
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+
+## [2] after the block is found
+--Found encoded KdDebuggerDataBlock at PA 0000000101002190
+**set KernBase VA=0xfffff80556a00000
+LibVMI Suggestion: set win_ntoskrnl=0x100400000 in libvmi.conf for faster startup.
+LibVMI Suggestion: set win_kdbg=0xc02190 in libvmi.conf for faster startup.
+LibVMI Suggestion: set win_kdvb=0xfffff80557602190 in libvmi.conf for faster startup.
+--V2P cache miss (no page) 0xfffff80557602000
+--PTLookup: lookup addr = 0xfffff80557602190
+--PTLookup: npt = 0x0000000000000000 npm = 0
+--PTLookup: pt = 0x00000003e2155002
+--PTLookup: pml4e_location = 0x00000003e2155f80
+--PTLookup: pml4e_value = 0x007200630069004d
+--requested PA [0x2006300690000-0x2006300691000] is outside valid physical memory
+create_new_entry failed
+--PTLookup: failed to read pdpte_location = 0x00020063006900a8
+--PTLookup: paddr = 0x0000000000000000
+VMI_ERROR: Unsupported Windows version or incorrect configuration
+--PTEResolve: unable to get "_MMPTE_SOFTWARE::Protection" info
+--windows symbol lookup (PsActiveProcessHead)
+--V2P cache miss (no page) 0xfffff80557602000
+--PTLookup: lookup addr = 0xfffff805576021e0
+--PTLookup: npt = 0x0000000000000000 npm = 0
+--PTLookup: pt = 0x00000003e2155002
+--PTLookup: pml4e_location = 0x00000003e2155f80
+--PTLookup: pml4e_value = 0x007200630069004d
+--requested PA [0x2006300690000-0x2006300691000] is outside valid physical memory
+create_new_entry failed
+--PTLookup: failed to read pdpte_location = 0x00020063006900a8
+--PTLookup: paddr = 0x0000000000000000
+--kdbg lookup failed
+--trying kernel PE export table
+--V2P cache miss (no page) 0xfffff80556a00000
+--PTLookup: lookup addr = 0xfffff80556a00000
+--PTLookup: npt = 0x0000000000000000 npm = 0
+--PTLookup: pt = 0x00000003e2155002
+--PTLookup: pml4e_location = 0x00000003e2155f80
+--PTLookup: pml4e_value = 0x007200630069004d
+--requested PA [0x2006300690000-0x2006300691000] is outside valid physical memory
+create_new_entry failed
+--PTLookup: failed to read pdpte_location = 0x00020063006900a8
+--PTLookup: paddr = 0x0000000000000000
+--PEPARSE: failed to read PE header
+--PEParse: failed to get export table
+--kernel PE export table failed
+--failed to resolve PsActiveProcessHead
+--windows symbol lookup (PsInitialSystemProcess)
+--kdbg lookup failed
+--trying kernel PE export table
+--V2P cache miss (no page) 0xfffff80556a00000
+--PTLookup: lookup addr = 0xfffff80556a00000
+--PTLookup: npt = 0x0000000000000000 npm = 0
+--PTLookup: pt = 0x00000003e2155002
+--PTLookup: pml4e_location = 0x00000003e2155f80
+--PTLookup: pml4e_value = 0x007200630069004d
+--requested PA [0x2006300690000-0x2006300691000] is outside valid physical memory
+create_new_entry failed
+--PTLookup: failed to read pdpte_location = 0x00020063006900a8
+--PTLookup: paddr = 0x0000000000000000
+--PEPARSE: failed to read PE header
+--PEParse: failed to get export table
+--kernel PE export table failed
+--failed to read pointer for system process
+--searching for process by name: System
+--failed to find System process.
+VMI_ERROR: Failed to find kernel page directory.
+INITFAIL
+
+## [3] end
+--PTEResolve: unable to get "_MMPTE_SOFTWARE::Protection" info
+--windows symbol lookup (PsActiveProcessHead)
+--requested PA [0x2006300690000-0x2006300691000] is outside valid physical memory
+create_new_entry failed
+--kdbg lookup failed
+--trying kernel PE export table
+--requested PA [0x2006300690000-0x2006300691000] is outside valid physical memory
+create_new_entry failed
+--PEPARSE: failed to read PE header
+--PEParse: failed to get export table
+--kernel PE export table failed
+--failed to resolve PsActiveProcessHead
+--windows symbol lookup (PsInitialSystemProcess)
+--kdbg lookup failed
+--trying kernel PE export table
+--requested PA [0x2006300690000-0x2006300691000] is outside valid physical memory
+create_new_entry failed
+--PEPARSE: failed to read PE header
+--PEParse: failed to get export table
+--kernel PE export table failed
+--failed to read pointer for system process
+--searching for process by name: System
+--failed to find System process.
+VMI_ERROR: Failed to find kernel page directory.
+INITFAIL

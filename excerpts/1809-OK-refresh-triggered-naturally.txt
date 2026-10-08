@@ -1,0 +1,171 @@
+# excerpt of final-spot/w10-1809-dbg.full (full log kept by the author). Parts: [1] start, [2] first 70 lines after the block is found (all debug lines), [3] last 25 lines. Lines 'Reading pfn', 'MEMORY cache', 'xen_get_memory_pfn' removed everywhere.
+## [1] start
+**The running Xen version is 4.21
+--found Xen
+Running Bareflank CPUID signature: 0 0 0 0
+LibVMI Version 0.15.0
+LibVMI Driver Mode 0
+**The running Xen version is 4.21
+--completed driver init.
+--got id from name (win10-1809-test --> 190)
+**set image_type = win10-1809-test
+**set vm_type HVM
+--xen: setup live mode
+**set allocated_ram_size = 10004c000, max_physical_address = 0x110080000
+**set pae = 1
+**set pse = 1
+**set lme = 1
+**IA-32e paging
+**sanity checking cr3 = 0x0000000055a00000
+**set os_type to Windows.
+** (vmi->page_mode == VMI_PM_IA32E) Entering KPCR register selection loop...
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=GS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying GS_BASE failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=SHADOW_GS.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying SHADOW_GS failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=MSR_SHADOW_GS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** driver_get_vcpureg(..) failed.
+** kpcr_get(..) failed.
+** Trying MSR_SHADOW_GS_BASE failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=FS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying FS_BASE failed.
+** KPCR register selection loop ended.
+**Attempting KdDebuggerDataBlock search methods
+**Trying find_kdbg_address_instant
+**Trying find_kdbg_address_faster
+**find_kdbg_address_faster: using vCPU 1
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+
+## [2] after the block is found
+--Found encoded KdDebuggerDataBlock at PA 00000000022125e0
+--V2P cache miss (no address space) 0x0000000055a00001 0x0000000000000000
+--PTLookup: lookup addr = 0xfffff8071380f000
+--PTLookup: npt = 0x0000000000000000 npm = 0
+--PTLookup: pt = 0x0000000055a00001
+--PTLookup: pml4e_location = 0x0000000055a00f80
+--PTLookup: pml4e_value = 0x0a00000003b26863
+--PTLookup: pdpte_location = 0x0000000003b260e0
+--PTLookup: pdpte_value = 0x0a00000003c25863
+--PTLookup: pde_location = 0x0000000003c254e0
+--PTLookup: pde_value = 0x0000000000000000
+--PTLookup: paddr = 0x0000000000000000
+--V2P cache miss (no page) 0xfffff8071380f000
+--PTLookup: lookup addr = 0xfffff8071380f000
+--PTLookup: npt = 0x0000000000000000 npm = 0
+--PTLookup: pt = 0x0000000025c00002
+--PTLookup: pml4e_location = 0x0000000025c00f80
+--PTLookup: pml4e_value = 0x0000000003a08063
+--PTLookup: pdpte_location = 0x0000000003a080e0
+--PTLookup: pdpte_value = 0x0000000003a09063
+--PTLookup: pde_location = 0x0000000003a094e0
+--PTLookup: pde_value = 0x0000000001e008e3
+--PTLookup: 2MB page
+--PTLookup: paddr = 0x0000000001e0f000
+--V2P cache set for page 0xfffff8071380f000 -- 0x0000000001e0f000
+--init CR3 0x55a00001 is stale, using the CR3 of vCPU 0 (0x25c00002)
+**set KernBase VA=0xfffff8071380f000
+LibVMI Suggestion: set win_ntoskrnl=0x1e0f000 in libvmi.conf for faster startup.
+LibVMI Suggestion: set win_kdbg=0x4035e0 in libvmi.conf for faster startup.
+LibVMI Suggestion: set win_kdvb=0xfffff80713c125e0 in libvmi.conf for faster startup.
+--V2P cache miss (no page) 0xfffff80713c12000
+--PTLookup: lookup addr = 0xfffff80713c125e0
+--PTLookup: npt = 0x0000000000000000 npm = 0
+--PTLookup: pt = 0x0000000025c00002
+--PTLookup: pml4e_location = 0x0000000025c00f80
+--PTLookup: pml4e_value = 0x0000000003a08063
+--PTLookup: pdpte_location = 0x0000000003a080e0
+--PTLookup: pdpte_value = 0x0000000003a09063
+--PTLookup: pde_location = 0x0000000003a094f0
+--PTLookup: pde_value = 0x00000000022008e3
+--PTLookup: 2MB page
+--PTLookup: paddr = 0x00000000022125e0
+--V2P cache set for page 0xfffff80713c12000 -- 0x0000000002212000
+VMI_ERROR: Unsupported Windows version or incorrect configuration
+--PTEResolve: unable to get "_MMPTE_SOFTWARE::Protection" info
+--windows symbol lookup (PsActiveProcessHead)
+--V2P cache hit 0xfffff80713c12630 -- 0x0000000002212630
+--got symbol from kdbg (PsActiveProcessHead --> 0xfffff80713c22680).
+--SYM cache set PsActiveProcessHead -- 0xfffff80713c22680
+--V2P cache miss (no page) 0xfffff80713c22000
+--PTLookup: lookup addr = 0xfffff80713c22680
+--PTLookup: npt = 0x0000000000000000 npm = 0
+--PTLookup: pt = 0x0000000025c00002
+--PTLookup: pml4e_location = 0x0000000025c00f80
+--PTLookup: pml4e_value = 0x0000000003a08063
+--PTLookup: pdpte_location = 0x0000000003a080e0
+--PTLookup: pdpte_value = 0x0000000003a09063
+--PTLookup: pde_location = 0x0000000003a094f0
+--PTLookup: pde_value = 0x00000000022008e3
+--PTLookup: 2MB page
+--PTLookup: paddr = 0x0000000002222680
+--V2P cache set for page 0xfffff80713c22000 -- 0x0000000002222000
+--starting search from PsActiveProcessHead (0xffffa90c34486368) using kpgd (0x0000000025c00002).
+--V2P cache miss (no page) 0xffffa90c34486000
+--PTLookup: lookup addr = 0xffffa90c34486368
+--PTLookup: npt = 0x0000000000000000 npm = 0
+--PTLookup: pt = 0x0000000025c00002
+--PTLookup: pml4e_location = 0x0000000025c00a90
+--PTLookup: pml4e_value = 0x0a00000003a2f863
+--PTLookup: pdpte_location = 0x0000000003a2f180
+
+## [3] end
+--start to read string from 0xffffa90c3a4464d0, page offset 0x4d0, read: 2864
+  pid=5672  MicrosoftEdge.
+--start to read string from 0xffffa90c3a5204d0, page offset 0x4d0, read: 2864
+  pid=848   dllhost.exe
+--start to read string from 0xffffa90c3ae684d0, page offset 0x4d0, read: 2864
+  pid=6076  Windows.WARP.J
+--start to read string from 0xffffa90c3b05b710, page offset 0x710, read: 2288
+  pid=4628  browser_broker
+--start to read string from 0xffffa90c3ac1b950, page offset 0x950, read: 1712
+  pid=5684  backgroundTask
+--start to read string from 0xffffa90c3af6a4d0, page offset 0x4d0, read: 2864
+  pid=400   RuntimeBroker.
+--start to read string from 0xffffa90c3ae2c4d0, page offset 0x4d0, read: 2864
+  pid=6172  MicrosoftEdgeC
+--start to read string from 0xffffa90c3a4b14d0, page offset 0x4d0, read: 2864
+  pid=6212  MicrosoftEdgeS
+--start to read string from 0xffffa90c3a8e1950, page offset 0x950, read: 1712
+  pid=6456  SearchProtocol
+--start to read string from 0xffffa90c3a3d54d0, page offset 0x4d0, read: 2864
+  pid=6464  mobsync.exe
+--start to read string from 0xffffa90c3afae990, page offset 0x990, read: 1648
+  pid=6548  RuntimeBroker.
+--start to read string from 0xffffa90c3a5064d0, page offset 0x4d0, read: 2864
+  pid=6660  rundll32.exe
+PROCS=117

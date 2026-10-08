@@ -1,0 +1,5 @@
+03:13:29 poison=0x3000 PK-ci rc=2 t=201s procs=0 INITFAIL stale_msg=0
+03:14:07 poison=0x3000 PCR3 rc=0 t=37s procs=112 INIT OK stale_msg=1
+03:17:40 poison=0x1000000 PK-ci rc=2 t=212s procs=0 INITFAIL stale_msg=0
+03:18:19 poison=0x1000000 PCR3 rc=0 t=39s procs=105 INIT OK stale_msg=1
+03:19:03 ALLDONE

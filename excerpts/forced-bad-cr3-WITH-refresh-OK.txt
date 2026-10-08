@@ -1,0 +1,171 @@
+# excerpt of poison-run/PCR3-3000.full (full log kept by the author). Parts: [1] start, [2] first 70 lines after the block is found (all debug lines), [3] last 25 lines. Lines 'Reading pfn', 'MEMORY cache', 'xen_get_memory_pfn' removed everywhere.
+## [1] start
+**The running Xen version is 4.21
+--found Xen
+Running Bareflank CPUID signature: 0 0 0 0
+LibVMI Version 0.15.0
+LibVMI Driver Mode 0
+**The running Xen version is 4.21
+--completed driver init.
+--got id from name (win11-21h2-test --> 185)
+**set image_type = win11-21h2-test
+**set vm_type HVM
+--xen: setup live mode
+**set allocated_ram_size = 40004c000, max_physical_address = 0x410080000
+**set pae = 1
+**set pse = 1
+**set lme = 1
+**IA-32e paging
+**sanity checking cr3 = 0x00000000001aa000
+**set os_type to Windows.
+** (vmi->page_mode == VMI_PM_IA32E) Entering KPCR register selection loop...
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=GS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying GS_BASE failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=SHADOW_GS.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying SHADOW_GS failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=MSR_SHADOW_GS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** driver_get_vcpureg(..) failed.
+** kpcr_get(..) failed.
+** Trying MSR_SHADOW_GS_BASE failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=FS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying FS_BASE failed.
+** KPCR register selection loop ended.
+**Attempting KdDebuggerDataBlock search methods
+**Trying find_kdbg_address_instant
+**Trying find_kdbg_address_faster
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+--PEPARSE: failed to validate PE header(s)
+--PEPARSE: DOS header signature not found
+
+## [2] after the block is found
+--Found encoded KdDebuggerDataBlock at PA 0000000101002190
+--V2P cache miss (no address space) 0x0000000000003000 0x0000000000000000
+--PTLookup: lookup addr = 0xfffff8061ba00000
+--PTLookup: npt = 0x0000000000000000 npm = 0
+--PTLookup: pt = 0x0000000000003000
+--PTLookup: pml4e_location = 0x0000000000003f80
+--PTLookup: pml4e_value = 0x0000000000000000
+--PTLookup: paddr = 0x0000000000000000
+--V2P cache miss (no page) 0xfffff8061ba00000
+--PTLookup: lookup addr = 0xfffff8061ba00000
+--PTLookup: npt = 0x0000000000000000 npm = 0
+--PTLookup: pt = 0x00000000001aa002
+--PTLookup: pml4e_location = 0x00000000001aaf80
+--PTLookup: pml4e_value = 0x0000000003e0b063
+--PTLookup: pdpte_location = 0x0000000003e0b0c0
+--PTLookup: pdpte_value = 0x0000000003e0c063
+--PTLookup: pde_location = 0x0000000003e0c6e8
+--PTLookup: pde_value = 0x8a000001004000a1
+--PTLookup: 2MB page
+--PTLookup: paddr = 0x0000000100400000
+--V2P cache set for page 0xfffff8061ba00000 -- 0x0000000100400000
+--init CR3 0x3000 is stale, using the CR3 of vCPU 0 (0x1aa002)
+**set KernBase VA=0xfffff8061ba00000
+LibVMI Suggestion: set win_ntoskrnl=0x100400000 in libvmi.conf for faster startup.
+LibVMI Suggestion: set win_kdbg=0xc02190 in libvmi.conf for faster startup.
+LibVMI Suggestion: set win_kdvb=0xfffff8061c602190 in libvmi.conf for faster startup.
+--V2P cache miss (no page) 0xfffff8061c602000
+--PTLookup: lookup addr = 0xfffff8061c602190
+--PTLookup: npt = 0x0000000000000000 npm = 0
+--PTLookup: pt = 0x00000000001aa002
+--PTLookup: pml4e_location = 0x00000000001aaf80
+--PTLookup: pml4e_value = 0x0000000003e0b063
+--PTLookup: pdpte_location = 0x0000000003e0b0c0
+--PTLookup: pdpte_value = 0x0000000003e0c063
+--PTLookup: pde_location = 0x0000000003e0c718
+--PTLookup: pde_value = 0x8a000001010008e3
+--PTLookup: 2MB page
+--PTLookup: paddr = 0x0000000101002190
+--V2P cache set for page 0xfffff8061c602000 -- 0x0000000101002000
+VMI_ERROR: Unsupported Windows version or incorrect configuration
+--PTEResolve: unable to get "_MMPTE_SOFTWARE::Protection" info
+--windows symbol lookup (PsActiveProcessHead)
+--V2P cache hit 0xfffff8061c6021e0 -- 0x00000001010021e0
+--got symbol from kdbg (PsActiveProcessHead --> 0xfffff8061c61bec0).
+--SYM cache set PsActiveProcessHead -- 0xfffff8061c61bec0
+--V2P cache miss (no page) 0xfffff8061c61b000
+--PTLookup: lookup addr = 0xfffff8061c61bec0
+--PTLookup: npt = 0x0000000000000000 npm = 0
+--PTLookup: pt = 0x00000000001aa002
+--PTLookup: pml4e_location = 0x00000000001aaf80
+--PTLookup: pml4e_value = 0x0000000003e0b063
+--PTLookup: pdpte_location = 0x0000000003e0b0c0
+--PTLookup: pdpte_value = 0x0000000003e0c063
+--PTLookup: pde_location = 0x0000000003e0c718
+--PTLookup: pde_value = 0x8a000001010008e3
+--PTLookup: 2MB page
+--PTLookup: paddr = 0x000000010101bec0
+--V2P cache set for page 0xfffff8061c61b000 -- 0x000000010101b000
+--starting search from PsActiveProcessHead (0xffffdb096e6da488) using kpgd (0x00000000001aa002).
+--V2P cache miss (no page) 0xffffdb096e6da000
+--PTLookup: lookup addr = 0xffffdb096e6da488
+--PTLookup: npt = 0x0000000000000000 npm = 0
+--PTLookup: pt = 0x00000000001aa002
+--PTLookup: pml4e_location = 0x00000000001aadb0
+--PTLookup: pml4e_value = 0x0a00000003e41863
+--PTLookup: pdpte_location = 0x0000000003e41128
+--PTLookup: pdpte_value = 0x0a00000003e44863
+--PTLookup: pde_location = 0x0000000003e44b98
+--PTLookup: pde_value = 0x8a000004066008e3
+--PTLookup: 2MB page
+
+## [3] end
+--start to read string from 0xffffdb096fe68668, page offset 0x668, read: 2456
+  pid=8016  svchost.exe
+--start to read string from 0xffffdb097671a628, page offset 0x628, read: 2520
+  pid=3740  svchost.exe
+--start to read string from 0xffffdb0976e3b628, page offset 0x628, read: 2520
+  pid=6644  svchost.exe
+--start to read string from 0xffffdb0976e9a668, page offset 0x668, read: 2456
+  pid=2384  svchost.exe
+--start to read string from 0xffffdb0975e49628, page offset 0x628, read: 2520
+  pid=1156  SgrmBroker.exe
+--start to read string from 0xffffdb0975cf4628, page offset 0x628, read: 2520
+  pid=3736  svchost.exe
+--start to read string from 0xffffdb09766ed628, page offset 0x628, read: 2520
+  pid=3832  SearchIndexer.
+--start to read string from 0xffffdb0976746668, page offset 0x668, read: 2456
+  pid=5940  ApplicationFra
+--start to read string from 0xffffdb0976757668, page offset 0x668, read: 2456
+  pid=6100  WinStore.App.e
+--start to read string from 0xffffdb0975955668, page offset 0x668, read: 2456
+  pid=2664  RuntimeBroker.
+--start to read string from 0xffffdb0976b97668, page offset 0x668, read: 2456
+  pid=8168  SearchProtocol
+--start to read string from 0xffffdb09763b6668, page offset 0x668, read: 2456
+  pid=2044  WmiPrvSE.exe
+PROCS=112

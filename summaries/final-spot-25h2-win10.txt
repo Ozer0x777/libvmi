@@ -1,0 +1,17 @@
+05:42:23 tools built; libvmi tree: 5ed6e4f windows: decode the encoded KdDebuggerDataBlock
+05:44:34 w11-25h2 nojson-CR3 stale=0 rc=0 t=37s procs=116 head=0xfffff800c03054d0 INIT OK encoded (rot=15) Found encoded KdDebuggerDataBlock at PA
+05:44:35 w11-25h2 json rc=0 t=1s head=0xfffff800c03054d0 MATCH-nojson 
+05:45:31 w11-25h2 stop=clean
+05:47:43 w10-1507 nojson-CR3 stale=0 rc=0 t=37s procs=36 head=0xfffff801025952e0 INIT OK encoded (rot=59) Found KdDebuggerDataBlock at RVA
+05:47:44 w10-1507 json rc=0 t=1s head=0xfffff801025952e0 MATCH-nojson 
+05:48:02 w10-1507 stop=clean
+05:50:18 w10-1607 nojson-CR3 stale=0 rc=0 t=41s procs=44 head=0xfffff8011d38e490 INIT OK encoded (rot=60) Found KdDebuggerDataBlock at RVA
+05:50:18 w10-1607 json rc=0 t=0s head=0xfffff8011d38e490 MATCH-nojson 
+05:50:36 w10-1607 stop=clean
+05:52:10 w10-1809 nojson-CR3 stale=1 rc=0 t=0s procs=117 head=0xfffff80713c22680 INIT OK encoded (rot=12) Found encoded KdDebuggerDataBlock at PA
+05:52:10 w10-1809 json rc=0 t=0s head=0xfffff80713c22680 MATCH-nojson 
+05:52:50 w10-1809 stop=clean
+05:54:24 w10-22H2 nojson-CR3 stale=0 rc=0 t=1s procs=82 head=0xfffff80528e1e0c0 INIT OK encoded (rot=0) Found encoded KdDebuggerDataBlock at PA
+05:54:24 w10-22H2 json rc=0 t=0s head=0xfffff80528e1e0c0 MATCH-nojson 
+05:54:47 w10-22H2 stop=clean
+05:54:49 ALLDONE

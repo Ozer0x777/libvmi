@@ -1,0 +1,22 @@
+16:40:41 tools built; libvmi tree: 3a74d10 windows: decode the encoded KdDebuggerDataBlock
+16:42:52 w11-21h2-p1 nojson-dbg rc=0 t=37s procs=126 head=0xfffff8007b41bec0 INIT OK encoded (rot=33) Found encoded KdDebuggerDataBlock at PA
+16:43:39 w11-21h2-p1 stop=clean
+16:45:51 w11-21h2-p2 nojson-dbg rc=0 t=37s procs=126 head=0xfffff8064e81bec0 INIT OK encoded (rot=53) Found encoded KdDebuggerDataBlock at PA
+16:46:39 w11-21h2-p2 stop=clean
+16:48:53 w11-21h2-p3 nojson-dbg rc=0 t=38s procs=126 head=0xfffff8033f41bec0 INIT OK encoded (rot=6) Found encoded KdDebuggerDataBlock at PA
+16:49:42 w11-21h2-p3 stop=clean
+16:51:56 w11-21h2-p4 nojson-dbg rc=0 t=39s procs=126 head=0xfffff8046821bec0 INIT OK encoded (rot=31) Found encoded KdDebuggerDataBlock at PA
+16:52:43 w11-21h2-p4 stop=clean
+16:54:56 w11-21h2-p5 nojson-dbg rc=0 t=38s procs=125 head=0xfffff80019c1bec0 INIT OK encoded (rot=31) Found encoded KdDebuggerDataBlock at PA
+16:55:44 w11-21h2-p5 stop=clean
+17:00:49 w11-21h2-p6 nojson-dbg rc=2 t=208s procs=0 head= INITFAIL encoded (rot=28) Found encoded KdDebuggerDataBlock at PA
+17:01:39 w11-21h2-p6 stop=clean
+17:03:54 w11-21h2-p7 nojson-dbg rc=0 t=39s procs=122 head=0xfffff8056aa1bec0 INIT OK encoded (rot=30) Found encoded KdDebuggerDataBlock at PA
+17:04:41 w11-21h2-p7 stop=clean
+17:06:56 w11-21h2-p8 nojson-dbg rc=0 t=39s procs=124 head=0xfffff8067741bec0 INIT OK encoded (rot=36) Found encoded KdDebuggerDataBlock at PA
+17:07:44 w11-21h2-p8 stop=clean
+17:09:58 w11-21h2-p9 nojson-dbg rc=0 t=38s procs=124 head=0xfffff8073361bec0 INIT OK encoded (rot=63) Found encoded KdDebuggerDataBlock at PA
+17:10:45 w11-21h2-p9 stop=clean
+17:13:01 w11-21h2-p10 nojson-dbg rc=0 t=40s procs=123 head=0xfffff80630e1bec0 INIT OK encoded (rot=39) Found encoded KdDebuggerDataBlock at PA
+17:13:47 w11-21h2-p10 stop=clean
+17:13:49 ALLDONE

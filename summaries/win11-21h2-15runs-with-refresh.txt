@@ -1,0 +1,32 @@
+02:18:24 tools built; libvmi tree: 3a74d10 windows: decode the encoded KdDebuggerDataBlock
+02:20:35 w11-21h2-c1 nojson-CR3 stale=0 rc=0 t=38s procs=124 head=0xfffff8043521bec0 INIT OK encoded (rot=6) Found encoded KdDebuggerDataBlock at PA
+02:21:23 w11-21h2-c1 stop=clean
+02:23:38 w11-21h2-c2 nojson-CR3 stale=0 rc=0 t=40s procs=124 head=0xfffff8023ca1bec0 INIT OK encoded (rot=25) Found encoded KdDebuggerDataBlock at PA
+02:24:23 w11-21h2-c2 stop=clean
+02:26:37 w11-21h2-c3 nojson-CR3 stale=0 rc=0 t=38s procs=125 head=0xfffff80732c1bec0 INIT OK encoded (rot=15) Found encoded KdDebuggerDataBlock at PA
+02:27:26 w11-21h2-c3 stop=clean
+02:29:41 w11-21h2-c4 nojson-CR3 stale=0 rc=0 t=39s procs=125 head=0xfffff8037961bec0 INIT OK encoded (rot=49) Found encoded KdDebuggerDataBlock at PA
+02:30:29 w11-21h2-c4 stop=clean
+02:32:44 w11-21h2-c5 nojson-CR3 stale=0 rc=0 t=39s procs=123 head=0xfffff8061e01bec0 INIT OK encoded (rot=29) Found encoded KdDebuggerDataBlock at PA
+02:33:29 w11-21h2-c5 stop=clean
+02:35:43 w11-21h2-c6 nojson-CR3 stale=0 rc=0 t=38s procs=124 head=0xfffff8006b41bec0 INIT OK encoded (rot=53) Found encoded KdDebuggerDataBlock at PA
+02:36:30 w11-21h2-c6 stop=clean
+02:38:43 w11-21h2-c7 nojson-CR3 stale=0 rc=0 t=37s procs=124 head=0xfffff8057621bec0 INIT OK encoded (rot=37) Found encoded KdDebuggerDataBlock at PA
+02:39:30 w11-21h2-c7 stop=clean
+02:41:44 w11-21h2-c8 nojson-CR3 stale=0 rc=0 t=38s procs=124 head=0xfffff8072901bec0 INIT OK encoded (rot=2) Found encoded KdDebuggerDataBlock at PA
+02:42:32 w11-21h2-c8 stop=clean
+02:44:46 w11-21h2-c9 nojson-CR3 stale=0 rc=0 t=38s procs=124 head=0xfffff8000281bec0 INIT OK encoded (rot=10) Found encoded KdDebuggerDataBlock at PA
+02:45:32 w11-21h2-c9 stop=clean
+02:47:47 w11-21h2-c10 nojson-CR3 stale=0 rc=0 t=40s procs=124 head=0xfffff8046361bec0 INIT OK encoded (rot=5) Found encoded KdDebuggerDataBlock at PA
+02:48:32 w11-21h2-c10 stop=clean
+02:50:45 w11-21h2-c11 nojson-CR3 stale=0 rc=0 t=37s procs=129 head=0xfffff80558e1bec0 INIT OK encoded (rot=63) Found encoded KdDebuggerDataBlock at PA
+02:51:31 w11-21h2-c11 stop=clean
+02:53:45 w11-21h2-c12 nojson-CR3 stale=0 rc=0 t=39s procs=124 head=0xfffff80421c1bec0 INIT OK encoded (rot=36) Found encoded KdDebuggerDataBlock at PA
+02:54:31 w11-21h2-c12 stop=clean
+02:56:46 w11-21h2-c13 nojson-CR3 stale=0 rc=0 t=39s procs=123 head=0xfffff80520c1bec0 INIT OK encoded (rot=61) Found encoded KdDebuggerDataBlock at PA
+02:57:32 w11-21h2-c13 stop=clean
+02:59:47 w11-21h2-c14 nojson-CR3 stale=0 rc=0 t=39s procs=124 head=0xfffff80121c1bec0 INIT OK encoded (rot=6) Found encoded KdDebuggerDataBlock at PA
+03:00:32 w11-21h2-c14 stop=clean
+03:02:46 w11-21h2-c15 nojson-CR3 stale=0 rc=0 t=38s procs=127 head=0xfffff8061281bec0 INIT OK encoded (rot=58) Found encoded KdDebuggerDataBlock at PA
+03:03:33 w11-21h2-c15 stop=clean
+03:03:35 ALLDONE
