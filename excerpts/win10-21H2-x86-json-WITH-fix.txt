@@ -1,0 +1,60 @@
+**The running Xen version is 4.21
+--found Xen
+Running Bareflank CPUID signature: 0 0 0 0
+LibVMI Version 0.15.0
+LibVMI Driver Mode 0
+**The running Xen version is 4.21
+--completed driver init.
+--got id from name (win10-21H2-x86-test --> 286)
+**set image_type = win10-21H2-x86-test
+**set vm_type HVM
+--xen: setup live mode
+**set allocated_ram_size = 10004c000, max_physical_address = 0x110080000
+**set pae = 1
+**set pse = 0
+**set lme = 0
+**PAE paging
+**sanity checking cr3 = 0x00000000efffde80
+**set os_type to Windows.
+** vmi->page_mode in {VMI_PM_LEGACY, VMI_PM_PAE} => Trying FS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_get_x86 to get KPCR.
+** Trying kpcr_find1
+Volatility IST: symbol 'KiInitialPCR' not found in symbols
+** Trying kpcr_find2
+Volatility IST: symbol 'KiSystemCall64Shadow' not found in symbols
+** Trying kpcr_find3
+Volatility IST: symbol 'KiDivideErrorFault' not found in symbols
+Volatility IST: symbol 'KiDivideErrorFaultShadow' not found in symbols
+**KernBase PA=0x3600000
+**KernBase VA=0x83e00000
+**init from JSON profile success
+--windows symbol lookup (NtBuildNumber)
+--got symbol from JSON profile (NtBuildNumber --> 0x00000000840b1178).
+--PEParse: magic is 0x10b
+Volatility profile lookup _MMPTE_SOFTWARE Protection: offset 0x0, start bit 5, end bit 10
+--PTEResolve: "_MMPTE_SOFTWARE::Protection" bitfield mask = 0x00000000000003e0
+Volatility profile lookup _MMPTE_SOFTWARE PageFileHigh: offset 0x0, start bit 32, end bit 64
+--PTEResolve: "_MMPTE_SOFTWARE::PageFileHigh" bitfield mask = 0xffffffff00000000
+Volatility profile lookup _MMPTE_PROTOTYPE ProtoAddress: offset 0x0, start bit 32, end bit 64
+--PTEResolve: "_MMPTE_PROTOTYPE::ProtoAddress" bitfield mask = 0xffffffff00000000
+Volatility profile lookup _MMPTE_HARDWARE PageFrameNumber: offset 0x0, start bit 12, end bit 37
+Volatility profile lookup _MMPTE_TRANSITION PageFrameNumber: offset 0x0, start bit 12, end bit 38
+Volatility profile lookup _MMPTE_PROTOTYPE SwizzleBit: offset 0x0, start bit 4, end bit 5
+--PTEResolve: "_MMPTE_PROTOTYPE::SwizzleBit" bitfield mask = 0x0000000000000010
+--windows symbol lookup (MiState)
+--got symbol from JSON profile (MiState --> 0x00000000840ca280).
+--PTEResolve: "InvalidPteMask" value = 0x0000200000000000
+**Getting kernel page directory from JSON profile
+**Found PsInitialSystemProcess at 0x8896f880
+--PTEResolve: PTE value = 0x8000000003da6863, is_inside_proto = 0
+--PTEResolve: Valid PTE pfn = 0x0000000000003da6, paddr = 0x0000000003da6898
+--kpgd from JSON profile success
+--windows symbol lookup (PsActiveProcessHead)
+--got symbol from JSON profile (PsActiveProcessHead --> 0x00000000840b9e10).
+**set pae = 1
+**set pse = 0
+**set lme = 0
+**PAE paging
+**sanity checking cr3 = 0x00000000efffd3a0
+JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x840b9e10

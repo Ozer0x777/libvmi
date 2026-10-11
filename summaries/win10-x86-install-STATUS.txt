@@ -1,0 +1,176 @@
+2026-10-09 11:45:58 === win10-1507-x86-test mac=00:14:22:6f:72:11 unattend=autounattend-w10-x86.iso
+2026-10-09 11:45:59 win10-1507-x86-test install started
+2026-10-09 11:50:59 win10-1507-x86-test t=300s cpu=110.9s delta=21s img=4242MB
+2026-10-09 11:55:59 win10-1507-x86-test t=600s cpu=57.2s delta=32s img=5386MB
+2026-10-09 12:00:59 win10-1507-x86-test t=900s cpu=44.7s delta=20s img=5514MB
+2026-10-09 12:06:00 win10-1507-x86-test t=1200s cpu=204.2s delta=37s img=5574MB
+2026-10-09 12:11:00 win10-1507-x86-test t=1500s cpu=229.5s delta=1s img=5574MB
+2026-10-09 12:11:00 win10-1507-x86-test idle after 1500s (img 5574MB)
+2026-10-09 12:11:05 win10-1507-x86-test snapshot after-install-cold created
+2026-10-09 12:13:27 win10-1507-x86-test ATTACH: procs=0 
+2026-10-09 12:13:27 === win10-1511-x86-test mac=00:14:22:6f:72:12 unattend=autounattend-w10-x86.iso
+2026-10-09 12:13:29 win10-1511-x86-test install started
+2026-10-09 12:18:29 win10-1511-x86-test t=300s cpu=142.9s delta=33s img=3677MB
+2026-10-09 12:23:29 win10-1511-x86-test t=600s cpu=48.5s delta=27s img=5108MB
+2026-10-09 12:28:29 win10-1511-x86-test t=900s cpu=90.3s delta=23s img=5463MB
+2026-10-09 12:33:29 win10-1511-x86-test t=1200s cpu=240.3s delta=2s img=5611MB
+2026-10-09 12:36:29 win10-1511-x86-test idle after 1380s (img 5612MB)
+2026-10-09 12:36:35 win10-1511-x86-test snapshot after-install-cold created
+2026-10-09 12:38:56 win10-1511-x86-test ATTACH: procs=0 
+2026-10-09 12:38:56 === win10-1607-x86-test mac=00:14:22:6f:72:13 unattend=autounattend-w10-x86.iso
+2026-10-09 12:38:57 win10-1607-x86-test install started
+2026-10-09 12:43:57 win10-1607-x86-test t=300s cpu=116.0s delta=20s img=4628MB
+2026-10-09 12:45:57 win10-1607-x86-test domain gone at 420s (installer powered off?)
+2026-10-09 12:46:00 win10-1607-x86-test SNAPSHOT FAILED
+2026-10-09 12:48:19 win10-1607-x86-test ATTACH: procs=0 
+2026-10-09 12:48:19 === win10-1703-x86-test mac=00:14:22:6f:72:14 unattend=autounattend-w10-x86.iso
+2026-10-09 12:48:20 win10-1703-x86-test install started
+2026-10-09 12:52:50 === win10-1607-x86-test mac=00:14:22:6f:72:13 unattend=autounattend-w10-x86.iso
+2026-10-09 12:52:51 win10-1607-x86-test install started
+2026-10-09 12:57:51 win10-1607-x86-test t=300s cpu=114.4s delta=18s img=4611MB
+2026-10-09 13:02:51 win10-1607-x86-test t=600s cpu=84.3s delta=32s img=5495MB
+2026-10-09 13:07:51 win10-1607-x86-test t=900s cpu=102.5s delta=58s img=5613MB
+2026-10-09 13:12:51 win10-1607-x86-test t=1200s cpu=238.3s delta=1s img=5737MB
+2026-10-09 13:14:52 win10-1607-x86-test idle after 1320s (img 5737MB)
+2026-10-09 13:14:57 win10-1607-x86-test snapshot after-install-cold created
+2026-10-09 13:17:19 win10-1607-x86-test ATTACH: procs=0 
+2026-10-09 13:17:19 === win10-1703-x86-test mac=00:14:22:6f:72:14 unattend=autounattend-w10-x86.iso
+2026-10-09 13:17:20 win10-1703-x86-test install started
+2026-10-09 13:22:20 win10-1703-x86-test t=300s cpu=102.5s delta=20s img=3397MB
+2026-10-09 13:27:20 win10-1703-x86-test t=600s cpu=7.6s delta=-154s img=5866MB
+2026-10-09 13:32:21 win10-1703-x86-test t=900s cpu=164.9s delta=25s img=6268MB
+2026-10-09 13:37:21 win10-1703-x86-test t=1200s cpu=177.8s delta=43s img=6390MB
+2026-10-09 13:42:21 win10-1703-x86-test t=1500s cpu=288.7s delta=1s img=6527MB
+2026-10-09 13:43:21 win10-1703-x86-test idle after 1560s (img 6527MB)
+2026-10-09 13:43:26 win10-1703-x86-test snapshot after-install-cold created
+2026-10-09 13:45:49 win10-1703-x86-test ATTACH: procs=0 
+2026-10-09 13:45:49 === win10-1709-x86-test mac=00:14:22:6f:72:15 unattend=autounattend-w10-x86.iso
+2026-10-09 13:45:50 win10-1709-x86-test install started
+2026-10-09 13:50:50 win10-1709-x86-test t=300s cpu=106.0s delta=26s img=3399MB
+2026-10-09 13:55:50 win10-1709-x86-test t=600s cpu=174.8s delta=5s img=6086MB
+2026-10-09 14:00:50 win10-1709-x86-test t=900s cpu=116.2s delta=23s img=6407MB
+2026-10-09 14:05:50 win10-1709-x86-test t=1200s cpu=98.4s delta=47s img=6542MB
+2026-10-09 14:10:51 win10-1709-x86-test t=1500s cpu=255.7s delta=1s img=6732MB
+2026-10-09 14:12:51 win10-1709-x86-test idle after 1620s (img 6732MB)
+2026-10-09 14:12:56 win10-1709-x86-test snapshot after-install-cold created
+2026-10-09 14:15:15 win10-1709-x86-test ATTACH: procs=0 
+2026-10-09 14:15:15 === win10-1803-x86-test mac=00:14:22:6f:72:16 unattend=autounattend-w10-x86-da.iso
+2026-10-09 14:15:16 win10-1803-x86-test install started
+2026-10-09 14:20:16 win10-1803-x86-test t=300s cpu=120.6s delta=23s img=3694MB
+2026-10-09 14:25:16 win10-1803-x86-test t=600s cpu=34.0s delta=27s img=5488MB
+2026-10-09 14:30:16 win10-1803-x86-test t=900s cpu=150.7s delta=16s img=5734MB
+2026-10-09 14:35:17 win10-1803-x86-test t=1200s cpu=191.1s delta=29s img=5832MB
+2026-10-09 14:40:17 win10-1803-x86-test t=1500s cpu=318.1s delta=1s img=5956MB
+2026-10-09 14:41:17 win10-1803-x86-test idle after 1560s (img 5957MB)
+2026-10-09 14:41:22 win10-1803-x86-test snapshot after-install-cold created
+2026-10-09 14:43:42 win10-1803-x86-test ATTACH: procs=0 
+2026-10-09 14:43:42 === win10-1809-x86-test mac=00:14:22:6f:72:17 unattend=autounattend-w10-x86.iso
+2026-10-09 14:43:43 win10-1809-x86-test install started
+2026-10-09 14:48:43 win10-1809-x86-test t=300s cpu=35.5s delta=1s img=1MB
+2026-10-09 14:53:44 win10-1809-x86-test t=600s cpu=40.4s delta=1s img=1MB
+2026-10-09 14:57:05 1809 stuck on language page (EN-GB media vs en-US unattend): killed, relaunch with language detection (inst-x86c.sh)
+2026-10-09 14:57:05 win10-1809-x86-test media language en-GB
+2026-10-09 14:57:05 === win10-1809-x86-test mac=00:14:22:6f:72:17 unattend=autounattend-w10-x86-gb.iso
+2026-10-09 14:57:06 win10-1809-x86-test install started
+2026-10-09 15:02:06 win10-1809-x86-test t=300s cpu=110.7s delta=25s img=3315MB
+2026-10-09 15:07:06 win10-1809-x86-test t=600s cpu=21.1s delta=-163s img=5605MB
+2026-10-09 15:12:06 win10-1809-x86-test t=900s cpu=159.3s delta=17s img=5949MB
+2026-10-09 15:17:06 win10-1809-x86-test t=1200s cpu=100.2s delta=29s img=6039MB
+2026-10-09 15:22:07 win10-1809-x86-test t=1500s cpu=464.1s delta=86s img=6193MB
+2026-10-09 15:26:07 win10-1809-x86-test idle after 1740s (img 6194MB)
+2026-10-09 15:26:12 win10-1809-x86-test snapshot after-install-cold created
+2026-10-09 15:28:32 win10-1809-x86-test ATTACH: procs=0 
+2026-10-09 15:28:32 win10-1903-x86-test media language en-GB
+2026-10-09 15:28:32 === win10-1903-x86-test mac=00:14:22:6f:72:18 unattend=autounattend-w10-x86-gb.iso
+2026-10-09 15:28:33 win10-1903-x86-test install started
+2026-10-09 15:33:33 win10-1903-x86-test t=300s cpu=113.7s delta=24s img=3453MB
+2026-10-09 15:38:33 win10-1903-x86-test t=600s cpu=29.5s delta=27s img=5525MB
+2026-10-09 15:43:33 win10-1903-x86-test t=900s cpu=4.0s delta=-161s img=5759MB
+2026-10-09 15:48:33 win10-1903-x86-test t=1200s cpu=216.5s delta=26s img=5879MB
+2026-10-09 15:53:34 win10-1903-x86-test t=1500s cpu=534.6s delta=2s img=6030MB
+2026-10-09 15:58:34 win10-1903-x86-test t=1800s cpu=591.0s delta=1s img=6056MB
+2026-10-09 16:00:34 win10-1903-x86-test idle after 1920s (img 6056MB)
+2026-10-09 16:00:40 win10-1903-x86-test snapshot after-install-cold created
+2026-10-09 16:03:00 win10-1903-x86-test ATTACH: procs=0 
+2026-10-09 16:03:00 win10-1909-x86-test media language en-US
+2026-10-09 16:03:00 === win10-1909-x86-test mac=00:14:22:6f:72:19 unattend=autounattend-w10-x86.iso
+2026-10-09 16:03:01 win10-1909-x86-test install started
+2026-10-09 16:08:01 win10-1909-x86-test t=300s cpu=106.7s delta=26s img=2695MB
+2026-10-09 16:13:01 win10-1909-x86-test t=600s cpu=217.4s delta=19s img=5916MB
+2026-10-09 16:18:01 win10-1909-x86-test t=900s cpu=163.3s delta=32s img=6158MB
+2026-10-09 16:23:02 win10-1909-x86-test t=1200s cpu=158.0s delta=78s img=6307MB
+2026-10-09 16:28:02 win10-1909-x86-test t=1500s cpu=522.4s delta=40s img=6467MB
+2026-10-09 16:33:02 win10-1909-x86-test t=1800s cpu=626.2s delta=54s img=6587MB
+2026-10-09 16:38:02 win10-1909-x86-test t=2100s cpu=658.1s delta=1s img=6587MB
+2026-10-09 16:43:02 win10-1909-x86-test t=2400s cpu=756.6s delta=2s img=6847MB
+2026-10-09 16:45:03 win10-1909-x86-test idle after 2520s (img 7072MB)
+2026-10-09 16:45:08 win10-1909-x86-test snapshot after-install-cold created
+2026-10-09 16:47:26 win10-1909-x86-test ATTACH: procs=0 
+2026-10-09 16:47:26 win10-2004-x86-test media language en-US
+2026-10-09 16:47:26 === win10-2004-x86-test mac=00:14:22:6f:72:1a unattend=autounattend-w10-x86.iso
+2026-10-09 16:47:27 win10-2004-x86-test install started
+2026-10-09 16:52:27 win10-2004-x86-test t=300s cpu=116.8s delta=28s img=3001MB
+2026-10-09 16:57:27 win10-2004-x86-test t=600s cpu=11.2s delta=-203s img=5686MB
+2026-10-09 17:02:27 win10-2004-x86-test t=900s cpu=173.2s delta=26s img=5960MB
+2026-10-09 17:07:28 win10-2004-x86-test t=1200s cpu=178.6s delta=64s img=6084MB
+2026-10-09 17:12:28 win10-2004-x86-test t=1500s cpu=534.2s delta=26s img=6263MB
+2026-10-09 17:17:28 win10-2004-x86-test t=1800s cpu=642.5s delta=37s img=6338MB
+2026-10-09 17:22:28 win10-2004-x86-test t=2100s cpu=673.6s delta=1s img=6339MB
+2026-10-09 17:27:28 win10-2004-x86-test t=2400s cpu=771.7s delta=1s img=6719MB
+2026-10-09 17:29:28 win10-2004-x86-test idle after 2520s (img 6973MB)
+2026-10-09 17:29:34 win10-2004-x86-test snapshot after-install-cold created
+2026-10-09 17:31:54 win10-2004-x86-test ATTACH: procs=0 
+2026-10-09 17:31:54 win10-20H2-x86-test media language en-US
+2026-10-09 17:31:54 === win10-20H2-x86-test mac=00:14:22:6f:72:1b unattend=autounattend-w10-x86.iso
+2026-10-09 17:31:55 win10-20H2-x86-test install started
+2026-10-09 17:36:55 win10-20H2-x86-test t=300s cpu=117.9s delta=31s img=3257MB
+2026-10-09 17:41:55 win10-20H2-x86-test t=600s cpu=236.7s delta=10s img=6771MB
+2026-10-09 17:46:55 win10-20H2-x86-test t=900s cpu=167.7s delta=38s img=6906MB
+2026-10-09 17:51:55 win10-20H2-x86-test t=1200s cpu=248.1s delta=79s img=6940MB
+2026-10-09 17:56:56 win10-20H2-x86-test t=1500s cpu=635.4s delta=22s img=7126MB
+2026-10-09 18:00:56 win10-20H2-x86-test idle after 1740s (img 7126MB)
+2026-10-09 18:01:01 win10-20H2-x86-test snapshot after-install-cold created
+2026-10-09 18:03:21 win10-20H2-x86-test ATTACH: procs=0 
+2026-10-09 18:03:21 win10-21H1-x86-test media language en-US
+2026-10-09 18:03:21 === win10-21H1-x86-test mac=00:14:22:6f:72:1c unattend=autounattend-w10-x86.iso
+2026-10-09 18:03:22 win10-21H1-x86-test install started
+2026-10-09 18:08:22 win10-21H1-x86-test t=300s cpu=115.1s delta=31s img=3153MB
+2026-10-09 18:13:23 win10-21H1-x86-test t=600s cpu=258.4s delta=28s img=6203MB
+2026-10-09 18:18:23 win10-21H1-x86-test t=900s cpu=168.5s delta=30s img=6508MB
+2026-10-09 18:23:23 win10-21H1-x86-test t=1200s cpu=131.6s delta=57s img=6609MB
+2026-10-09 18:28:23 win10-21H1-x86-test t=1500s cpu=526.2s delta=100s img=6798MB
+2026-10-09 18:33:23 win10-21H1-x86-test t=1800s cpu=633.1s delta=53s img=6858MB
+2026-10-09 18:38:24 win10-21H1-x86-test t=2100s cpu=689.2s delta=2s img=6877MB
+2026-10-09 18:43:24 win10-21H1-x86-test t=2400s cpu=786.2s delta=2s img=7126MB
+2026-10-09 18:46:24 win10-21H1-x86-test idle after 2580s (img 7527MB)
+2026-10-09 18:46:29 win10-21H1-x86-test snapshot after-install-cold created
+2026-10-09 18:48:48 win10-21H1-x86-test ATTACH: procs=0 
+2026-10-09 18:48:48 win10-21H2-x86-test media language en-US
+2026-10-09 18:48:48 === win10-21H2-x86-test mac=00:14:22:6f:72:1d unattend=autounattend-w10-x86.iso
+2026-10-09 18:48:50 win10-21H2-x86-test install started
+2026-10-09 18:53:50 win10-21H2-x86-test t=300s cpu=118.7s delta=34s img=3070MB
+2026-10-09 18:58:50 win10-21H2-x86-test t=600s cpu=257.7s delta=28s img=6237MB
+2026-10-09 19:03:50 win10-21H2-x86-test t=900s cpu=170.0s delta=33s img=6547MB
+2026-10-09 19:08:50 win10-21H2-x86-test t=1200s cpu=139.7s delta=57s img=6663MB
+2026-10-09 19:13:50 win10-21H2-x86-test t=1500s cpu=533.5s delta=97s img=6839MB
+2026-10-09 19:18:51 win10-21H2-x86-test t=1800s cpu=646.5s delta=51s img=6917MB
+2026-10-09 19:23:51 win10-21H2-x86-test t=2100s cpu=698.8s delta=1s img=6917MB
+2026-10-09 19:28:51 win10-21H2-x86-test t=2400s cpu=833.1s delta=2s img=7190MB
+2026-10-09 19:31:51 win10-21H2-x86-test idle after 2580s (img 7585MB)
+2026-10-09 19:31:57 win10-21H2-x86-test snapshot after-install-cold created
+2026-10-09 19:34:14 win10-21H2-x86-test ATTACH: procs=0 
+2026-10-09 19:34:15 win10-22H2-x86-test media language en-US
+2026-10-09 19:34:15 === win10-22H2-x86-test mac=00:14:22:6f:72:1e unattend=autounattend-w10-x86.iso
+2026-10-09 19:34:16 win10-22H2-x86-test install started
+2026-10-09 19:39:16 win10-22H2-x86-test t=300s cpu=110.9s delta=29s img=2897MB
+2026-10-09 19:44:16 win10-22H2-x86-test t=600s cpu=242.8s delta=20s img=6384MB
+2026-10-09 19:49:16 win10-22H2-x86-test t=900s cpu=165.6s delta=28s img=6667MB
+2026-10-09 19:54:16 win10-22H2-x86-test t=1200s cpu=136.6s delta=60s img=6784MB
+2026-10-09 19:59:17 win10-22H2-x86-test t=1500s cpu=550.0s delta=119s img=6936MB
+2026-10-09 20:04:17 win10-22H2-x86-test t=1800s cpu=658.4s delta=29s img=7014MB
+2026-10-09 20:09:17 win10-22H2-x86-test t=2100s cpu=693.4s delta=1s img=7014MB
+2026-10-09 20:14:17 win10-22H2-x86-test t=2400s cpu=769.3s delta=2s img=7317MB
+2026-10-09 20:17:17 win10-22H2-x86-test idle after 2580s (img 7681MB)
+2026-10-09 20:17:23 win10-22H2-x86-test snapshot after-install-cold created
+2026-10-09 20:19:42 win10-22H2-x86-test ATTACH: procs=0 
+2026-10-09 20:19:42 ALLDONE

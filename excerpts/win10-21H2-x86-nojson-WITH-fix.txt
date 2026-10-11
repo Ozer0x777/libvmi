@@ -1,0 +1,307 @@
+**The running Xen version is 4.21
+--found Xen
+Running Bareflank CPUID signature: 0 0 0 0
+LibVMI Version 0.15.0
+LibVMI Driver Mode 0
+**The running Xen version is 4.21
+--completed driver init.
+--got id from name (win10-21H2-x86-test --> 286)
+**set image_type = win10-21H2-x86-test
+**set vm_type HVM
+--xen: setup live mode
+**set allocated_ram_size = 10004c000, max_physical_address = 0x110080000
+**set pae = 1
+**set pse = 0
+**set lme = 0
+**PAE paging
+**sanity checking cr3 = 0x00000000efffde80
+**set os_type to Windows.
+** vmi->page_mode in {VMI_PM_LEGACY, VMI_PM_PAE} => Trying FS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_get_x86 to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+**Attempting KdDebuggerDataBlock search methods
+**Trying find_kdbg_address_instant
+**Trying find_kdbg_address_faster
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--WARNING: KernBase in KdDebuggerDataBlock at PA 00000000038ac830 doesn't point back to this page.
+--Found KdDebuggerDataBlock at RVA 0x2ac830 of the kernel mapped at VA 0x83e00000
+**set KernBase VA=0x83e00000
+LibVMI Suggestion: set win_ntoskrnl=0x3600000 in libvmi.conf for faster startup.
+LibVMI Suggestion: set win_kdbg=0x2ac830 in libvmi.conf for faster startup.
+LibVMI Suggestion: set win_kdvb=0x840ac830 in libvmi.conf for faster startup.
+VMI_ERROR: Unsupported Windows version or incorrect configuration
+--PTEResolve: unable to get "_MMPTE_SOFTWARE::Protection" info
+--windows symbol lookup (PsActiveProcessHead)
+--got symbol from kdbg (PsActiveProcessHead --> 0x840b9e10).
+--starting search from PsActiveProcessHead (0x000000008896f968) using kpgd (0x00000000efffde80).
+--Found System process at 8896f880
+--Found System process physical address at 3da6880
+**set kpgd (0x00000000001a8000).
+**set init_task (0x000000008896f880).
+--kpgd method0 success
+**set pae = 1
+**set pse = 0
+**set lme = 0
+**PAE paging
+**sanity checking cr3 = 0x00000000001a8000
+INIT OK winver=1 pm=3 addrwidth=4
+PsActiveProcessHead=0x840b9e10
+  pid=4     System
+  pid=88    Registry
+  pid=340   smss.exe
+  pid=432   csrss.exe
+  pid=508   wininit.exe
+  pid=524   csrss.exe
+  pid=572   services.exe
+  pid=580   lsass.exe
+  pid=664   fontdrvhost.ex
+  pid=684   svchost.exe
+  pid=776   svchost.exe
+  pid=828   svchost.exe
+  pid=884   winlogon.exe
+  pid=936   fontdrvhost.ex
+  pid=992   dwm.exe
+  pid=1056  svchost.exe
+  pid=1064  svchost.exe
+  pid=1072  svchost.exe
+  pid=1156  svchost.exe
+  pid=1200  svchost.exe
+  pid=1280  svchost.exe
+  pid=1292  svchost.exe
+  pid=1320  svchost.exe
+  pid=1340  svchost.exe
+  pid=1396  MemCompression
+  pid=1444  svchost.exe
+  pid=1504  svchost.exe
+  pid=1512  svchost.exe
+  pid=1520  svchost.exe
+  pid=1528  svchost.exe
+  pid=1536  svchost.exe
+  pid=1668  svchost.exe
+  pid=1716  svchost.exe
+  pid=1728  svchost.exe
+  pid=1772  taskhostw.exe
+  pid=1780  svchost.exe
+  pid=1824  svchost.exe
+  pid=1848  svchost.exe
+  pid=1944  svchost.exe
+  pid=1992  svchost.exe
+  pid=2020  svchost.exe
+  pid=2032  svchost.exe
+  pid=416   svchost.exe
+  pid=656   svchost.exe
+  pid=620   svchost.exe
+  pid=1248  svchost.exe
+  pid=1596  svchost.exe
+  pid=2096  svchost.exe
+  pid=2140  spoolsv.exe
+  pid=2188  svchost.exe
+  pid=2224  svchost.exe
+  pid=2468  svchost.exe
+  pid=2476  svchost.exe
+  pid=2504  svchost.exe
+  pid=2512  svchost.exe
+  pid=2580  svchost.exe
+  pid=2588  svchost.exe
+  pid=2616  MsMpEng.exe
+  pid=2632  svchost.exe
+  pid=2788  svchost.exe
+  pid=2796  svchost.exe
+  pid=3172  svchost.exe
+  pid=3228  LogonUI.exe
+  pid=3496  NisSrv.exe
+  pid=3584  svchost.exe
+  pid=3660  sppsvc.exe
+  pid=3748  SppExtComObj.E
+  pid=3876  svchost.exe
+  pid=3976  sihost.exe
+  pid=3984  svchost.exe
+  pid=4028  svchost.exe
+  pid=4068  taskhostw.exe
+  pid=2080  taskhostw.exe
+  pid=2732  MicrosoftEdgeU
+  pid=672   taskhostw.exe
+  pid=716   svchost.exe
+  pid=3184  svchost.exe
+  pid=3060  ctfmon.exe
+  pid=652   svchost.exe
+  pid=1360  svchost.exe
+  pid=3800  slui.exe
+  pid=4024  slui.exe
+PROCS=82

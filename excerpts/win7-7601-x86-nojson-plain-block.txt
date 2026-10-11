@@ -1,0 +1,76 @@
+**The running Xen version is 4.21
+--found Xen
+Running Bareflank CPUID signature: 0 0 0 0
+LibVMI Version 0.15.0
+LibVMI Driver Mode 0
+**The running Xen version is 4.21
+--completed driver init.
+--got id from name (win7-7601-x86-test --> 371)
+**set image_type = win7-7601-x86-test
+**set vm_type HVM
+--xen: setup live mode
+**set allocated_ram_size = 10004c000, max_physical_address = 0x110080000
+**set pae = 1
+**set pse = 1
+**set lme = 0
+**PAE paging
+**sanity checking cr3 = 0x0000000000185000
+**set os_type to Windows.
+** vmi->page_mode in {VMI_PM_LEGACY, VMI_PM_PAE} => Trying FS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_get_x86 to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+**Attempting KdDebuggerDataBlock search methods
+**Trying find_kdbg_address_instant
+**Trying find_kdbg_address_faster
+--PEParse: magic is 0x10b
+--Found KdDebuggerDataBlock at PA 000000000277fc28
+**set KernBase VA=0x82655000
+LibVMI Suggestion: set win_ntoskrnl=0x2655000 in libvmi.conf for faster startup.
+LibVMI Suggestion: set win_kdbg=0x12ac28 in libvmi.conf for faster startup.
+LibVMI Suggestion: set win_kdvb=0x8277fc28 in libvmi.conf for faster startup.
+--PTEResolve: unable to get "_MMPTE_SOFTWARE::Protection" info
+--windows symbol lookup (PsActiveProcessHead)
+--got symbol from kdbg (PsActiveProcessHead --> 0x82797f18).
+--starting search from PsActiveProcessHead (0x000000008508c950) using kpgd (0x0000000000185000).
+--Found System process at 8508c898
+--Found System process physical address at 528c898
+**set kpgd (0x0000000000185000).
+**set init_task (0x000000008508c898).
+--kpgd method0 success
+**set pae = 1
+**set pse = 1
+**set lme = 0
+**PAE paging
+**sanity checking cr3 = 0x00000000eef7e2e0
+INIT OK winver=7 pm=3 addrwidth=4
+PsActiveProcessHead=0x82797f18
+  pid=4     System
+  pid=228   smss.exe
+  pid=300   csrss.exe
+  pid=348   wininit.exe
+  pid=360   csrss.exe
+  pid=404   services.exe
+  pid=412   lsass.exe
+  pid=420   lsm.exe
+  pid=516   svchost.exe
+  pid=592   svchost.exe
+  pid=648   svchost.exe
+  pid=680   svchost.exe
+  pid=704   svchost.exe
+  pid=812   svchost.exe
+  pid=900   svchost.exe
+  pid=996   winlogon.exe
+  pid=1104  spoolsv.exe
+  pid=1132  svchost.exe
+  pid=1696  taskhost.exe
+  pid=1776  dwm.exe
+  pid=1804  explorer.exe
+  pid=2024  regsvr32.exe
+  pid=1744  SearchIndexer.
+  pid=1964  SearchProtocol
+  pid=2016  SearchFilterHo
+PROCS=25

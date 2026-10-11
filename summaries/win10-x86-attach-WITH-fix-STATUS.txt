@@ -1,0 +1,43 @@
+2026-10-10 05:46:33 === win10-1507-x86-test offsets(tasks pid pname pdbase)=b8 b4 170 18
+2026-10-10 05:48:04 win10-1507-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x81458fb0
+2026-10-10 05:48:45 win10-1507-x86-test NOJSON: INIT OK winver=8 pm=3 addrwidth=4 procs=36 system=1 kdbg_pa= 
+2026-10-10 05:48:46 === win10-1511-x86-test offsets(tasks pid pname pdbase)=b8 b4 174 18
+2026-10-10 05:50:17 win10-1511-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x814756f0
+2026-10-10 05:50:58 win10-1511-x86-test NOJSON: INIT OK winver=8 pm=3 addrwidth=4 procs=36 system=1 kdbg_pa= 
+2026-10-10 05:50:58 === win10-1607-x86-test offsets(tasks pid pname pdbase)=b8 b4 174 18
+2026-10-10 05:52:30 win10-1607-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x81027a98
+2026-10-10 05:53:10 win10-1607-x86-test NOJSON: INIT OK winver=1 pm=3 addrwidth=4 procs=44 system=1 kdbg_pa= Unsupported Windows version
+2026-10-10 05:53:10 === win10-1703-x86-test offsets(tasks pid pname pdbase)=b8 b4 17c 18
+2026-10-10 05:54:42 win10-1703-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x80e01d60
+2026-10-10 05:55:24 win10-1703-x86-test NOJSON: INIT OK winver=1 pm=3 addrwidth=4 procs=73 system=1 kdbg_pa= Unsupported Windows version
+2026-10-10 05:55:25 === win10-1709-x86-test offsets(tasks pid pname pdbase)=b8 b4 17c 18
+2026-10-10 05:56:56 win10-1709-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x814b9f20
+2026-10-10 05:57:38 win10-1709-x86-test NOJSON: INIT OK winver=1 pm=3 addrwidth=4 procs=73 system=1 kdbg_pa= Unsupported Windows version
+2026-10-10 05:57:38 === win10-1803-x86-test offsets(tasks pid pname pdbase)=b8 b4 17c 18
+2026-10-10 05:59:09 win10-1803-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x81ae93e0
+2026-10-10 05:59:15 win10-1803-x86-test NOJSON: INIT OK winver=1 pm=3 addrwidth=4 procs=73 system=1 kdbg_pa= Unsupported Windows version
+2026-10-10 05:59:16 === win10-1809-x86-test offsets(tasks pid pname pdbase)=b8 b4 17c 18
+2026-10-10 06:00:47 win10-1809-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x8169b490
+2026-10-10 06:00:53 win10-1809-x86-test NOJSON: INIT OK winver=1 pm=3 addrwidth=4 procs=73 system=1 kdbg_pa= Unsupported Windows version
+2026-10-10 06:00:53 === win10-1903-x86-test offsets(tasks pid pname pdbase)=b8 b4 17c 18
+2026-10-10 06:02:25 win10-1903-x86-test JSON: JSON INIT OK winver=1 pm=3 addrwidth=4 PsActiveProcessHead=0x850ac3c0
+2026-10-10 06:02:31 win10-1903-x86-test NOJSON: INIT OK winver=1 pm=3 addrwidth=4 procs=73 system=1 kdbg_pa= Unsupported Windows version
+2026-10-10 06:02:32 === win10-1909-x86-test offsets(tasks pid pname pdbase)=b8 b4 17c 18
+2026-10-10 06:04:03 win10-1909-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x848ae460
+2026-10-10 06:04:09 win10-1909-x86-test NOJSON: INIT OK winver=1 pm=3 addrwidth=4 procs=68 system=1 kdbg_pa=000000000289e3d0 Unsupported Windows version
+2026-10-10 06:04:09 === win10-2004-x86-test offsets(tasks pid pname pdbase)=e8 e4 1ac 18
+2026-10-10 06:05:41 win10-2004-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x822c3e40
+2026-10-10 06:05:47 win10-2004-x86-test NOJSON: INIT OK winver=1 pm=3 addrwidth=4 procs=73 system=1 kdbg_pa= Unsupported Windows version
+2026-10-10 06:05:47 === win10-20H2-x86-test offsets(tasks pid pname pdbase)=e8 e4 1ac 18
+2026-10-10 06:07:19 win10-20H2-x86-test JSON: JSON INIT OK winver=1 pm=3 addrwidth=4 PsActiveProcessHead=0x82ab8e40
+2026-10-10 06:07:25 win10-20H2-x86-test NOJSON: INIT OK winver=1 pm=3 addrwidth=4 procs=73 system=1 kdbg_pa= Unsupported Windows version
+2026-10-10 06:07:26 === win10-21H1-x86-test offsets(tasks pid pname pdbase)=e8 e4 1ac 18
+2026-10-10 06:08:57 win10-21H1-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x82ab9f00
+2026-10-10 06:09:04 win10-21H1-x86-test NOJSON: INIT OK winver=1 pm=3 addrwidth=4 procs=73 system=1 kdbg_pa= Unsupported Windows version
+2026-10-10 06:09:04 === win10-21H2-x86-test offsets(tasks pid pname pdbase)=e8 e4 1ac 18
+2026-10-10 06:10:36 win10-21H2-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x840b9e10
+2026-10-10 06:10:42 win10-21H2-x86-test NOJSON: INIT OK winver=1 pm=3 addrwidth=4 procs=73 system=1 kdbg_pa= Unsupported Windows version
+2026-10-10 06:10:42 === win10-22H2-x86-test offsets(tasks pid pname pdbase)=e8 e4 1ac 18
+2026-10-10 06:12:14 win10-22H2-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x822bad40
+2026-10-10 06:12:20 win10-22H2-x86-test NOJSON: INIT OK winver=1 pm=3 addrwidth=4 procs=70 system=1 kdbg_pa= Unsupported Windows version
+2026-10-10 06:12:20 ALLDONE

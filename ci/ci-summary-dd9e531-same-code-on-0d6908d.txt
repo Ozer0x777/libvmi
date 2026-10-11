@@ -1,0 +1,11 @@
+astyle rc=0 0 builds JOB_OK
+whitespace rc=0 0 builds JOB_OK
+compile-gcc-autotools rc=0 13 builds JOB_OK
+compile-gcc-cmake rc=0 13 builds JOB_OK
+compile-clang-autotools rc=0 13 builds JOB_OK
+compile-clang-cmake rc=0 13 builds JOB_OK
+container-gcc rc=0 13 builds JOB_OK
+container-clang rc=0 13 builds JOB_OK
+scan-build rc=0 0 builds JOB_OK
+cognitive-complexity rc=0 0 builds JOB_OK
+ALLDONE

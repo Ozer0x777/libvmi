@@ -1,0 +1,269 @@
+**The running Xen version is 4.21
+--found Xen
+Running Bareflank CPUID signature: 0 0 0 0
+LibVMI Version 0.15.0
+LibVMI Driver Mode 0
+**The running Xen version is 4.21
+--completed driver init.
+--got id from name (win11-24h2-test --> 305)
+**set image_type = win11-24h2-test
+**set vm_type HVM
+--xen: setup live mode
+**set allocated_ram_size = 40004c000, max_physical_address = 0x410080000
+**set pae = 1
+**set pse = 1
+**set lme = 1
+**IA-32e paging
+**sanity checking cr3 = 0x0000000134446000
+**set os_type to Windows.
+--vCPU 0 is running user code, using the CR3 of vCPU 1
+** (vmi->page_mode == VMI_PM_IA32E) Entering KPCR register selection loop...
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=GS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying GS_BASE failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=SHADOW_GS.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying SHADOW_GS failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=MSR_SHADOW_GS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** driver_get_vcpureg(..) failed.
+** kpcr_get(..) failed.
+** Trying MSR_SHADOW_GS_BASE failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=FS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying FS_BASE failed.
+** KPCR register selection loop ended.
+**Attempting KdDebuggerDataBlock search methods
+**Trying find_kdbg_address_instant
+**Trying find_kdbg_address_faster
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x20b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x20b
+--KdDebuggerDataBlock is encoded (rot=52)
+--Found encoded KdDebuggerDataBlock at PA 0000000101201040
+--requested PA [0x1dca8c92000-0x1dca8c93000] is outside valid physical memory
+create_new_entry failed
+--init CR3 0x134446002 is stale, using the CR3 of vCPU 0 (0x1aa002)
+**set KernBase VA=0xfffff802c8600000
+LibVMI Suggestion: set win_ntoskrnl=0x100400000 in libvmi.conf for faster startup.
+LibVMI Suggestion: set win_kdbg=0xe01040 in libvmi.conf for faster startup.
+LibVMI Suggestion: set win_kdvb=0xfffff802c9401040 in libvmi.conf for faster startup.
+VMI_ERROR: Unsupported Windows version or incorrect configuration
+--PTEResolve: unable to get "_MMPTE_SOFTWARE::Protection" info
+--windows symbol lookup (PsActiveProcessHead)
+--got symbol from kdbg (PsActiveProcessHead --> 0xfffff802c9504e10).
+--starting search from PsActiveProcessHead (0xffffe609ee6b5218) using kpgd (0x00000000001aa002).
+--Found System process at ffffe609ee6b5040
+--Found System process physical address at 1108b5040
+**set kpgd (0x00000000001aa002).
+**set init_task (0xffffe609ee6b5040).
+--kpgd method0 success
+**set pae = 1
+**set pse = 1
+**set lme = 1
+**IA-32e paging
+**sanity checking cr3 = 0x00000000001aa000
+INIT OK winver=1 pm=4 addrwidth=8
+PsActiveProcessHead=0xfffff802c9504e10
+  pid=4     System
+  pid=228   Registry
+  pid=640   smss.exe
+  pid=816   csrss.exe
+  pid=888   wininit.exe
+  pid=896   csrss.exe
+  pid=960   services.exe
+  pid=980   lsass.exe
+  pid=736   svchost.exe
+  pid=720   fontdrvhost.ex
+  pid=1072  svchost.exe
+  pid=1116  svchost.exe
+  pid=1176  winlogon.exe
+  pid=1220  fontdrvhost.ex
+  pid=1348  svchost.exe
+  pid=1356  svchost.exe
+  pid=1364  svchost.exe
+  pid=1372  svchost.exe
+  pid=1392  svchost.exe
+  pid=1496  svchost.exe
+  pid=1568  svchost.exe
+  pid=1580  upfc.exe
+  pid=1648  svchost.exe
+  pid=1656  svchost.exe
+  pid=1664  svchost.exe
+  pid=1740  svchost.exe
+  pid=1776  svchost.exe
+  pid=1816  svchost.exe
+  pid=1860  svchost.exe
+  pid=1868  svchost.exe
+  pid=1876  svchost.exe
+  pid=1884  svchost.exe
+  pid=1892  svchost.exe
+  pid=2024  svchost.exe
+  pid=2036  dwm.exe
+  pid=1772  svchost.exe
+  pid=2064  svchost.exe
+  pid=2072  svchost.exe
+  pid=2128  MemCompression
+  pid=2200  svchost.exe
+  pid=2264  svchost.exe
+  pid=2296  svchost.exe
+  pid=2340  svchost.exe
+  pid=2348  svchost.exe
+  pid=2356  svchost.exe
+  pid=2544  svchost.exe
+  pid=2688  svchost.exe
+  pid=2720  svchost.exe
+  pid=2796  spoolsv.exe
+  pid=2852  svchost.exe
+  pid=2972  svchost.exe
+  pid=3024  svchost.exe
+  pid=1800  svchost.exe
+  pid=2616  svchost.exe
+  pid=2608  svchost.exe
+  pid=2888  svchost.exe
+  pid=3084  svchost.exe
+  pid=3092  svchost.exe
+  pid=3100  svchost.exe
+  pid=3108  svchost.exe
+  pid=3116  svchost.exe
+  pid=3324  MsMpEng.exe
+  pid=3464  dllhost.exe
+  pid=3556  svchost.exe
+  pid=3796  svchost.exe
+  pid=3872  taskhostw.exe
+  pid=968   svchost.exe
+  pid=4332  AggregatorHost
+  pid=4488  svchost.exe
+  pid=4928  NisSrv.exe
+  pid=5092  sihost.exe
+  pid=4400  svchost.exe
+  pid=3948  svchost.exe
+  pid=2936  svchost.exe
+  pid=4968  taskhostw.exe
+  pid=4900  MicrosoftEdgeU
+  pid=4668  taskhostw.exe
+  pid=5160  svchost.exe
+  pid=5296  svchost.exe
+  pid=5380  svchost.exe
+  pid=5444  sppsvc.exe
+  pid=5540  userinit.exe
+  pid=5576  ShellHost.exe
+  pid=5600  explorer.exe
+  pid=5700  SppExtComObj.E
+  pid=5848  svchost.exe
+  pid=5984  svchost.exe
+  pid=6060  svchost.exe
+  pid=4876  MpCmdRun.exe
+  pid=5140  conhost.exe
+  pid=4864  MpCmdRun.exe
+  pid=5660  conhost.exe
+  pid=5488  SearchHost.exe
+  pid=3584  StartMenuExper
+  pid=5424  Widgets.exe
+  pid=6308  RuntimeBroker.
+  pid=6356  RuntimeBroker.
+  pid=6384  svchost.exe
+  pid=6600  svchost.exe
+  pid=6780  svchost.exe
+  pid=6904  RuntimeBroker.
+  pid=7112  backgroundTask
+  pid=7136  backgroundTask
+  pid=6636  dllhost.exe
+  pid=7232  ctfmon.exe
+  pid=7444  mobsync.exe
+  pid=7540  RuntimeBroker.
+  pid=7572  RuntimeBroker.
+  pid=7756  backgroundTask
+  pid=7880  WaaSMedicAgent
+  pid=7888  conhost.exe
+  pid=7928  dllhost.exe
+  pid=8036  svchost.exe
+PROCS=113

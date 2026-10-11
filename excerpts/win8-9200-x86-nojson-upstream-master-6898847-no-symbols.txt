@@ -1,0 +1,72 @@
+**The running Xen version is 4.21
+--found Xen
+Running Bareflank CPUID signature: 0 0 0 0
+LibVMI Version 0.15.0
+LibVMI Driver Mode 0
+**The running Xen version is 4.21
+--completed driver init.
+--got id from name (win8-9200-x86-test --> 373)
+**set image_type = win8-9200-x86-test
+**set vm_type HVM
+--xen: setup live mode
+**set allocated_ram_size = 10004c000, max_physical_address = 0x110080000
+**set pae = 1
+**set pse = 0
+**set lme = 0
+**PAE paging
+**sanity checking cr3 = 0x0000000000185000
+**set os_type to Windows.
+** vmi->page_mode in {VMI_PM_LEGACY, VMI_PM_PAE} => Trying FS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_get_x86 to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+**Attempting KdDebuggerDataBlock search methods
+**Trying find_kdbg_address_instant
+**Trying find_kdbg_address_faster
+**find_ntoskrnl_physical_scan: 2MB-aligned scan
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+**Trying find_kdbg_address_fast
+--Found KdDebuggerDataBlock at PA 00000000e6c2c558
+**set KernBase VA=0x8165f000
+LibVMI Suggestion: set win_ntoskrnl=0xe6e5f000 in libvmi.conf for faster startup.
+LibVMI Suggestion: set win_kdbg=0xffffffffffdcd558 in libvmi.conf for faster startup.
+LibVMI Suggestion: set win_kdvb=0x8142c558 in libvmi.conf for faster startup.
+--PTEResolve: unable to get "_MMPTE_SOFTWARE::Protection" info
+--windows symbol lookup (PsActiveProcessHead)
+--kdbg lookup failed
+--trying kernel PE export table
+--PEParse: magic is 0x10b
+--PEParse: DLL base 0x000000008165f000. Export header [RVA] 0x00000000004ba000. Size 79050.
+--PEParse: Falling back to linear search for aon index
+--PEParse: failed to get aon index
+--kernel PE export table failed
+--failed to resolve PsActiveProcessHead
+--windows symbol lookup (PsInitialSystemProcess)
+--kdbg lookup failed
+--trying kernel PE export table
+--PEParse: magic is 0x10b
+--PEParse: DLL base 0x000000008165f000. Export header [RVA] 0x00000000004ba000. Size 79050.
+--got symbol from PE export table (PsInitialSystemProcess --> 0x00000000818740a4).
+--got PA to PsInitialSystemProcess (0x00000000ee28b900).
+**set kpgd (0x0000000000185000).
+**set init_task (0x00000000867dc040).
+--kpgd method1 success
+**set pae = 1
+**set pse = 0
+**set lme = 0
+**PAE paging
+**sanity checking cr3 = 0x0000000000185000
+INIT OK winver=8 pm=3 addrwidth=4
+--windows symbol lookup (PsActiveProcessHead)
+--kdbg lookup failed
+--trying kernel PE export table
+--PEParse: magic is 0x10b
+--PEParse: DLL base 0x000000008165f000. Export header [RVA] 0x00000000004ba000. Size 79050.
+--PEParse: Falling back to linear search for aon index
+--PEParse: failed to get aon index
+--kernel PE export table failed
+no PsActiveProcessHead

@@ -1,0 +1,28 @@
+== host
+DRAKVUF
+6.12.107+deb13-amd64
+nr_cpus                : 32
+cpu_mhz                : 2095.147
+total_memory           : 32672
+xen_version            : 4.21.0
+model name	: Intel(R) Xeon(R) CPU E5-2683 v4 @ 2.10GHz
+X99M GAMING D4/ARGB
+	Size: 16 GB
+	Part Number: HMA82GR7AFR8N-UH    
+	Configured Memory Speed: 2400 MT/s
+	Size: 16 GB
+	Part Number: HMA82GR7AFR8N-UH    
+	Configured Memory Speed: 2400 MT/s
+nvme0n1 MTFDKBA1T0TGD-1BK1AABGA 953.9G
+== guest cfg
+memory = 16384
+vcpus = 12
+cpus = "8-23"
+altp2m = "external"
+cpuid = "host,hypervisor=0"
+viridian = 0
+== libvmi
+a2d3af8 windows: fail fast when guest paging is disabled
+24be6ec Fix signature of a signal handler (#1122)
+== drakvuf
+b2f64d8 libusermode: retry the ntdll.dll VAD lookup a bounded number of times (#1882)

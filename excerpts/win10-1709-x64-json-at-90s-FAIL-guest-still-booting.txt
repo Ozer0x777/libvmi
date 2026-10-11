@@ -1,0 +1,98 @@
+**The running Xen version is 4.21
+--found Xen
+Running Bareflank CPUID signature: 0 0 0 0
+LibVMI Version 0.15.0
+LibVMI Driver Mode 0
+**The running Xen version is 4.21
+--completed driver init.
+--got id from name (win10-1709-test --> 292)
+**set image_type = win10-1709-test
+**set vm_type HVM
+--xen: setup live mode
+**set allocated_ram_size = 10004c000, max_physical_address = 0x110080000
+**set pae = 1
+**set pse = 1
+**set lme = 1
+**IA-32e paging
+**sanity checking cr3 = 0x00000000001aa000
+**set os_type to Windows.
+** (vmi->page_mode == VMI_PM_IA32E) Entering KPCR register selection loop...
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=GS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+Volatility IST: symbol 'KiInitialPCR' not found in symbols
+** Trying kpcr_find2
+Volatility IST: symbol 'KiSystemCall64Shadow' not found in symbols
+** Trying kpcr_find3
+**KernBase PA=0x10b68c000
+**KernBase VA=0xfffff802c5e8c000
+**init from JSON profile success
+--windows symbol lookup (NtBuildNumber)
+--got symbol from JSON profile (NtBuildNumber --> 0xfffff802c6154f08).
+--PEParse: magic is 0x20b
+Volatility profile lookup _MMPTE_SOFTWARE Protection: offset 0x0, start bit 5, end bit 10
+--PTEResolve: "_MMPTE_SOFTWARE::Protection" bitfield mask = 0x00000000000003e0
+Volatility profile lookup _MMPTE_SOFTWARE PageFileHigh: offset 0x0, start bit 32, end bit 64
+--PTEResolve: "_MMPTE_SOFTWARE::PageFileHigh" bitfield mask = 0xffffffff00000000
+Volatility profile lookup _MMPTE_PROTOTYPE ProtoAddress: offset 0x0, start bit 16, end bit 64
+--PTEResolve: "_MMPTE_PROTOTYPE::ProtoAddress" bitfield mask = 0xffffffffffff0000
+Volatility profile lookup _MMPTE_HARDWARE PageFrameNumber: offset 0x0, start bit 12, end bit 48
+Volatility profile lookup _MMPTE_TRANSITION PageFrameNumber: offset 0x0, start bit 12, end bit 48
+Volatility profile: _MMPTE_PROTOTYPE has no SwizzleBit member
+Volatility profile lookup _MMPTE_PROTOTYPE SwizzleBit: offset 0x0, start bit 12, end bit 48
+--windows symbol lookup (MiState)
+--got symbol from JSON profile (MiState --> 0xfffff802c620be80).
+Volatility IST profile: exploring anonymous/embedded struct AttributeChangeRequiresReZero (unsigned char) for offset for InvalidPteMask
+Volatility IST profile: no unsigned char found
+Volatility IST profile: exploring anonymous/embedded struct CacheFlushPromoteThreshold (unsigned long) for offset for InvalidPteMask
+Volatility IST profile: no unsigned long found
+Volatility IST profile: exploring anonymous/embedded struct ChannelShift (unsigned char) for offset for InvalidPteMask
+Volatility IST profile: no unsigned char found
+Volatility IST profile: exploring anonymous/embedded struct EnclaveRegions (_RTL_AVL_TREE) for offset for InvalidPteMask
+Volatility IST profile: exploring anonymous/embedded struct FirstLevelCacheSize (unsigned long) for offset for InvalidPteMask
+Volatility IST profile: no unsigned long found
+Volatility IST profile: exploring anonymous/embedded struct FlushCacheForAttributeChange (unsigned long) for offset for InvalidPteMask
+Volatility IST profile: no unsigned long found
+Volatility IST profile: exploring anonymous/embedded struct FlushCacheForPageAttributeChange (unsigned long) for offset for InvalidPteMask
+Volatility IST profile: no unsigned long found
+Volatility IST profile: exploring anonymous/embedded struct FlushTbForAttributeChange (unsigned long) for offset for InvalidPteMask
+Volatility IST profile: no unsigned long found
+Volatility IST profile: exploring anonymous/embedded struct FlushTbThreshold (unsigned long long) for offset for InvalidPteMask
+Volatility IST profile: no unsigned long long found
+Volatility IST profile: exploring anonymous/embedded struct HighestPossiblePhysicalPage (unsigned long long) for offset for InvalidPteMask
+Volatility IST profile: no unsigned long long found
+Volatility IST profile: exploring anonymous/embedded struct MediumPageColors (unsigned long) for offset for InvalidPteMask
+Volatility IST profile: no unsigned long found
+Volatility IST profile: exploring anonymous/embedded struct NodeMask (unsigned long) for offset for InvalidPteMask
+Volatility IST profile: no unsigned long found
+Volatility IST profile: exploring anonymous/embedded struct NodeShift (unsigned char) for offset for InvalidPteMask
+Volatility IST profile: no unsigned char found
+Volatility IST profile: exploring anonymous/embedded struct NumaLastRangeIndex (unsigned long) for offset for InvalidPteMask
+Volatility IST profile: no unsigned long found
+Volatility IST profile: exploring anonymous/embedded struct NumaTableCaptured (unsigned char) for offset for InvalidPteMask
+Volatility IST profile: no unsigned char found
+Volatility IST profile: exploring anonymous/embedded struct PhysicalAddressBits (unsigned long) for offset for InvalidPteMask
+Volatility IST profile: no unsigned long found
+Volatility IST profile: exploring anonymous/embedded struct PrimaryPfns (unsigned long long) for offset for InvalidPteMask
+Volatility IST profile: no unsigned long long found
+Volatility IST profile: exploring anonymous/embedded struct SecondLevelCacheSize (unsigned long) for offset for InvalidPteMask
+Volatility IST profile: no unsigned long found
+Volatility IST profile: exploring anonymous/embedded struct SecondaryColorMask (unsigned long) for offset for InvalidPteMask
+Volatility IST profile: no unsigned long found
+Volatility IST profile: exploring anonymous/embedded struct SecondaryColors (unsigned long) for offset for InvalidPteMask
+Volatility IST profile: no unsigned long found
+Volatility IST profile: exploring anonymous/embedded struct TotalPagesAllowed (unsigned long long) for offset for InvalidPteMask
+Volatility IST profile: no unsigned long long found
+Volatility IST profile: exploring anonymous/embedded struct VsmKernelPageCount (unsigned long long) for offset for InvalidPteMask
+Volatility IST profile: no unsigned long long found
+**Getting kernel page directory from JSON profile
+**Found PsInitialSystemProcess at 0xffffdf0e724c1040
+--failed to resolve PsActiveProcessHead
+--failed to read pointer for system process
+--got PA to PsInitialSystemProcess (0xffffdf0e724c1040).
+--requested PA [0xffffdf0e724c1000-0xffffdf0e724c2000] is outside valid physical memory
+create_new_entry failed
+--failed to resolve PD for System process
+VMI_ERROR: Failed to find kernel page directory.
+JSONINITFAIL

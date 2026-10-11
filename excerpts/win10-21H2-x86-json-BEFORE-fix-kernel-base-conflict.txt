@@ -1,0 +1,43 @@
+**The running Xen version is 4.21
+--found Xen
+Running Bareflank CPUID signature: 0 0 0 0
+LibVMI Version 0.15.0
+LibVMI Driver Mode 0
+**The running Xen version is 4.21
+--completed driver init.
+--got id from name (win10-21H2-x86-test --> 259)
+**set image_type = win10-21H2-x86-test
+**set vm_type HVM
+--xen: setup live mode
+**set allocated_ram_size = 10004c000, max_physical_address = 0x110080000
+**set pae = 1
+**set pse = 0
+**set lme = 0
+**PAE paging
+**sanity checking cr3 = 0x00000000001a8000
+**set os_type to Windows.
+** vmi->page_mode in {VMI_PM_LEGACY, VMI_PM_PAE} => Trying FS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_get_x86 to get KPCR.
+** Trying kpcr_find1
+Volatility IST: symbol 'KiInitialPCR' not found in symbols
+** Trying kpcr_find2
+Volatility IST: symbol 'KiSystemCall64Shadow' not found in symbols
+** Trying kpcr_find3
+Volatility IST: symbol 'KiDivideErrorFault' not found in symbols
+**KernBase PA=0x3513404
+**KernBase VA=0x83b13404
+**init from JSON profile success
+--windows symbol lookup (NtBuildNumber)
+--got symbol from JSON profile (NtBuildNumber --> 0x0000000083dc457c).
+Failed to find a known version of Windows, the JSON Profile may be incorrect for this VM or the version of Windows is not supported!
+**Attempting KdDebuggerDataBlock search methods
+**Trying find_kdbg_address_instant
+**Trying find_kdbg_address_faster
+**find_ntoskrnl_physical_scan: 2MB-aligned scan
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--Found KdDebuggerDataBlock at PA 00000000036ac830
+**set KernBase VA=0x83a00000
+VMI_ERROR: LibVMI found physical kernel base address 0x3400000 that conflicts with provided value from config file!
+JSONINITFAIL

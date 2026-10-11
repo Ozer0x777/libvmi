@@ -1,0 +1,106 @@
+2026-10-10 17:25:27 === win7-7600-x86-test iso=win7/Win7_7600_RTM_x86.iso unattend=win7-x86 mac=00:14:22:6f:73:11
+2026-10-10 17:25:28 win7-7600-x86-test install started
+2026-10-10 17:30:29 win7-7600-x86-test t=300s cpu=80.2s delta=12s img=948MB
+2026-10-10 17:35:29 win7-7600-x86-test t=600s cpu=114.7s delta=7s img=2685MB
+2026-10-10 17:40:29 win7-7600-x86-test t=900s cpu=148.8s delta=8s img=4160MB
+2026-10-10 17:44:29 win7-7600-x86-test idle after 1140s (img 4997MB)
+2026-10-10 17:44:35 win7-7600-x86-test snapshot after-install-cold created
+2026-10-10 17:47:11 win7-7600-x86-test BOOT screenshots taken
+2026-10-10 17:47:11 === win7-7600-x64-test iso=win7/Win7_7600_RTM_x64.iso unattend=win7-x64 mac=00:14:22:6f:73:12
+2026-10-10 17:47:12 win7-7600-x64-test install started
+2026-10-10 17:52:13 win7-7600-x64-test t=300s cpu=71.6s delta=8s img=1254MB
+2026-10-10 17:57:13 win7-7600-x64-test t=600s cpu=104.3s delta=6s img=3414MB
+2026-10-10 18:01:56 inst-78 stopped for debugging (win7-7600-x64 image removed)
+2026-10-10 18:11:54 restart with inst-78b.sh (disk-only boot after the first reboot); win7-7600-x86 image removed
+2026-10-10 18:11:54 === win7-7600-x86-test iso=win7/Win7_7600_RTM_x86.iso unattend=win7-x86 mac=00:14:22:6f:73:11
+2026-10-10 18:11:55 win7-7600-x86-test install started
+2026-10-10 18:16:56 win7-7600-x86-test t=300s cpu=79.9s delta=11s img=943MB
+2026-10-10 18:21:56 win7-7600-x86-test t=600s cpu=113.6s delta=7s img=2664MB
+2026-10-10 18:26:56 win7-7600-x86-test t=900s cpu=146.4s delta=9s img=4121MB
+2026-10-10 18:31:56 win7-7600-x86-test rebooted at 1200s (domid 329 -> 330): switching to disk-only boot
+2026-10-10 18:37:03 win7-7600-x86-test t=1500s cpu=14.4s delta=12s img=5034MB
+2026-10-10 18:42:03 win7-7600-x86-test t=1800s cpu=83.9s delta=31s img=5128MB
+2026-10-10 18:46:03 win7-7600-x86-test idle after 2040s (img 5131MB)
+2026-10-10 18:46:09 win7-7600-x86-test snapshot after-install-cold created
+2026-10-10 18:48:46 win7-7600-x86-test BOOT screenshots taken
+2026-10-10 18:48:46 === win7-7600-x64-test iso=win7/Win7_7600_RTM_x64.iso unattend=win7-x64 mac=00:14:22:6f:73:12
+2026-10-10 18:48:47 win7-7600-x64-test install started
+2026-10-10 18:53:47 win7-7600-x64-test t=300s cpu=71.1s delta=8s img=1250MB
+2026-10-10 18:58:47 win7-7600-x64-test t=600s cpu=104.2s delta=7s img=3436MB
+2026-10-10 19:03:47 win7-7600-x64-test t=900s cpu=134.0s delta=6s img=5331MB
+2026-10-10 19:08:48 win7-7600-x64-test t=1200s cpu=165.9s delta=5s img=6966MB
+2026-10-10 19:10:48 win7-7600-x64-test rebooted at 1320s (domid 334 -> 335): switching to disk-only boot
+2026-10-10 19:13:54 win7-7600-x64-test t=1500s cpu=78.8s delta=33s img=7101MB
+2026-10-10 19:18:54 win7-7600-x64-test t=1800s cpu=39.8s delta=6s img=7224MB
+2026-10-10 19:23:55 win7-7600-x64-test t=2100s cpu=90.5s delta=2s img=7230MB
+2026-10-10 19:24:55 win7-7600-x64-test idle after 2160s (img 7230MB)
+2026-10-10 19:25:00 win7-7600-x64-test snapshot after-install-cold created
+2026-10-10 19:27:37 win7-7600-x64-test BOOT screenshots taken
+2026-10-10 19:27:37 === win7-7601-x86-test iso=win7/Win7_7601_SP1_x86.iso unattend=win7-x86 mac=00:14:22:6f:73:13
+2026-10-10 19:27:38 win7-7601-x86-test install started
+2026-10-10 19:32:38 win7-7601-x86-test t=300s cpu=84.1s delta=12s img=976MB
+2026-10-10 19:37:39 win7-7601-x86-test t=600s cpu=118.9s delta=7s img=2738MB
+2026-10-10 19:42:39 win7-7601-x86-test t=900s cpu=152.8s delta=6s img=4279MB
+2026-10-10 19:46:39 win7-7601-x86-test rebooted at 1140s (domid 339 -> 340): switching to disk-only boot
+2026-10-10 19:47:45 win7-7601-x86-test t=1200s cpu=9.3s delta=9s img=5165MB
+2026-10-10 19:52:46 win7-7601-x86-test t=1500s cpu=23.3s delta=14s img=5191MB
+2026-10-10 19:57:46 win7-7601-x86-test t=1800s cpu=84.9s delta=3s img=5275MB
+2026-10-10 20:00:46 win7-7601-x86-test idle after 1980s (img 5275MB)
+2026-10-10 20:00:51 win7-7601-x86-test snapshot after-install-cold created
+2026-10-10 20:03:28 win7-7601-x86-test BOOT screenshots taken
+2026-10-10 20:03:28 === win7-7601-x64-test iso=win7/Win7_7601_SP1_x64.iso unattend=win7-x64 mac=00:14:22:6f:73:14
+2026-10-10 20:03:29 win7-7601-x64-test install started
+2026-10-10 20:08:30 win7-7601-x64-test t=300s cpu=74.2s delta=9s img=1356MB
+2026-10-10 20:13:30 win7-7601-x64-test t=600s cpu=104.7s delta=5s img=3471MB
+2026-10-10 20:18:30 win7-7601-x64-test t=900s cpu=136.8s delta=8s img=5419MB
+2026-10-10 20:23:30 win7-7601-x64-test t=1200s cpu=170.6s delta=7s img=6979MB
+2026-10-10 20:25:30 win7-7601-x64-test rebooted at 1320s (domid 344 -> 345): switching to disk-only boot
+2026-10-10 20:28:37 win7-7601-x64-test t=1500s cpu=54.0s delta=34s img=7317MB
+2026-10-10 20:33:37 win7-7601-x64-test t=1800s cpu=35.2s delta=7s img=7421MB
+2026-10-10 20:38:37 win7-7601-x64-test t=2100s cpu=86.5s delta=3s img=7429MB
+2026-10-10 20:40:38 win7-7601-x64-test idle after 2220s (img 7433MB)
+2026-10-10 20:40:43 win7-7601-x64-test snapshot after-install-cold created
+2026-10-10 20:43:20 win7-7601-x64-test BOOT screenshots taken
+2026-10-10 20:43:20 === win8-9200-x86-test iso=win8/Win8_9200_RTM_x86.iso unattend=win8-x86 mac=00:14:22:6f:73:15
+2026-10-10 20:43:21 win8-9200-x86-test install started
+2026-10-10 20:48:21 win8-9200-x86-test t=300s cpu=111.6s delta=21s img=4839MB
+2026-10-10 20:50:21 win8-9200-x86-test rebooted at 420s (domid 349 -> 350): switching to disk-only boot
+2026-10-10 20:53:28 win8-9200-x86-test t=600s cpu=10.8s delta=-35s img=5240MB
+2026-10-10 20:58:28 win8-9200-x86-test t=900s cpu=103.0s delta=8s img=5415MB
+2026-10-10 21:02:28 win8-9200-x86-test idle after 1140s (img 5480MB)
+2026-10-10 21:02:34 win8-9200-x86-test snapshot after-install-cold created
+2026-10-10 21:05:10 win8-9200-x86-test BOOT screenshots taken
+2026-10-10 21:05:10 === win8-9200-x64-test iso=win8/Win8_9200_RTM_x64.iso unattend=win8-x64 mac=00:14:22:6f:73:16
+2026-10-10 21:05:11 win8-9200-x64-test install started
+2026-10-10 21:10:12 win8-9200-x64-test t=300s cpu=103.9s delta=22s img=4774MB
+2026-10-10 21:14:12 win8-9200-x64-test rebooted at 540s (domid 354 -> 355): switching to disk-only boot
+2026-10-10 21:15:18 win8-9200-x64-test t=600s cpu=21.7s delta=21s img=7617MB
+2026-10-10 21:20:19 win8-9200-x64-test t=900s cpu=52.4s delta=30s img=7892MB
+2026-10-10 21:25:19 win8-9200-x64-test t=1200s cpu=111.9s delta=2s img=7956MB
+2026-10-10 21:27:19 win8-9200-x64-test idle after 1320s (img 7956MB)
+2026-10-10 21:27:24 win8-9200-x64-test snapshot after-install-cold created
+2026-10-10 21:30:01 win8-9200-x64-test BOOT screenshots taken
+2026-10-10 21:30:01 === win81-9600-x86-test iso=win8/Win81_9600_Update1_x86.iso unattend=win81-x86 mac=00:14:22:6f:73:17
+2026-10-10 21:30:02 win81-9600-x86-test install started
+2026-10-10 21:35:03 win81-9600-x86-test t=300s cpu=97.6s delta=20s img=4390MB
+2026-10-10 21:38:03 win81-9600-x86-test rebooted at 480s (domid 359 -> 360): switching to disk-only boot
+2026-10-10 21:40:09 win81-9600-x86-test t=600s cpu=45.4s delta=27s img=5586MB
+2026-10-10 21:45:09 win81-9600-x86-test t=900s cpu=46.4s delta=12s img=5818MB
+2026-10-10 21:50:10 win81-9600-x86-test t=1200s cpu=128.9s delta=1s img=5885MB
+2026-10-10 21:52:10 win81-9600-x86-test idle after 1320s (img 5885MB)
+2026-10-10 21:52:15 win81-9600-x86-test snapshot after-install-cold created
+2026-10-10 21:54:52 win81-9600-x86-test BOOT screenshots taken
+2026-10-10 21:54:52 === win81-9600-x64-test iso=win8/Win81_9600_Update1_x64.iso unattend=win81-x64 mac=00:14:22:6f:73:18
+2026-10-10 21:54:53 win81-9600-x64-test install started
+2026-10-10 21:59:53 win81-9600-x64-test t=300s cpu=88.8s delta=19s img=3895MB
+2026-10-10 22:04:54 win81-9600-x64-test t=600s cpu=151.2s delta=6s img=7835MB
+2026-10-10 22:05:54 win81-9600-x64-test rebooted at 660s (domid 364 -> 365): switching to disk-only boot
+2026-10-10 22:10:00 win81-9600-x64-test t=900s cpu=87.8s delta=7s img=8111MB
+2026-10-10 22:15:00 win81-9600-x64-test t=1200s cpu=67.2s delta=12s img=8173MB
+2026-10-10 22:20:01 win81-9600-x64-test t=1500s cpu=151.6s delta=18s img=8233MB
+2026-10-10 22:25:01 win81-9600-x64-test t=1800s cpu=248.0s delta=50s img=8443MB
+2026-10-10 22:30:01 win81-9600-x64-test t=2100s cpu=437.6s delta=1s img=8643MB
+2026-10-10 22:33:01 win81-9600-x64-test idle after 2280s (img 8643MB)
+2026-10-10 22:33:07 win81-9600-x64-test snapshot after-install-cold created
+2026-10-10 22:35:44 win81-9600-x64-test BOOT screenshots taken
+2026-10-10 22:35:44 ALLDONE

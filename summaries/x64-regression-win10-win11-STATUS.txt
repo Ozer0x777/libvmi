@@ -1,0 +1,61 @@
+2026-10-10 06:12:53 === win10-1507-test offsets=2f0 2e8 448 28
+2026-10-10 06:14:25 win10-1507-test JSON: JSON INIT OK winver=9 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff800f999d2e0 
+2026-10-10 06:15:12 win10-1507-test NOJSON: INIT OK winver=8 pm=4 addrwidth=8 head=0xfffff800f999d2e0 procs=37 system=1 encoded (rot=12)
+2026-10-10 06:15:12 === win10-1511-test offsets=2f0 2e8 450 28
+2026-10-10 06:16:43 win10-1511-test JSON: JSON INIT OK winver=9 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff801973531a0 
+2026-10-10 06:17:29 win10-1511-test NOJSON: INIT OK winver=8 pm=4 addrwidth=8 head=0xfffff801973531a0 procs=38 system=1 encoded (rot=1)
+2026-10-10 06:17:29 === win10-1607-test offsets=2f0 2e8 450 28
+2026-10-10 06:19:01 win10-1607-test JSON: JSON INIT OK winver=9 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff80081908490 
+2026-10-10 06:19:47 win10-1607-test NOJSON: INIT OK winver=1 pm=4 addrwidth=8 head=0xfffff80081908490 procs=45 system=1 encoded (rot=11)
+2026-10-10 06:19:47 === win10-1703-test offsets=2e8 2e0 450 28
+2026-10-10 06:21:19 win10-1703-test JSON: JSON INIT OK winver=9 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff803eb148000 
+2026-10-10 06:21:25 win10-1703-test NOJSON: INIT OK winver=1 pm=4 addrwidth=8 head=0xfffff803eb148000 procs=72 system=1 encoded (rot=13)
+2026-10-10 06:21:25 === win10-1709-test offsets=2e8 2e0 450 28
+2026-10-10 06:22:57 win10-1709-test JSON: JSONINITFAIL 
+2026-10-10 06:23:43 win10-1709-test NOJSON: INIT OK winver=1 pm=4 addrwidth=8 head=0xfffff802c61e6a20 procs=73 system=1 encoded (rot=33)
+2026-10-10 06:23:44 === win10-1803-test offsets=2e8 2e0 450 28
+2026-10-10 06:25:15 win10-1803-test JSON: JSON INIT OK winver=9 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff801563ce450 
+2026-10-10 06:25:21 win10-1803-test NOJSON: INIT OK winver=1 pm=4 addrwidth=8 head=0xfffff801563ce450 procs=73 system=1 encoded (rot=53)
+2026-10-10 06:25:21 === win10-1809-test offsets=2e8 2e0 450 28
+2026-10-10 06:26:53 win10-1809-test JSON: JSON INIT OK winver=9 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff80713c22680 
+2026-10-10 06:26:59 win10-1809-test NOJSON: INIT OK winver=1 pm=4 addrwidth=8 head=0xfffff80713c22680 procs=72 system=1 encoded (rot=12)
+2026-10-10 06:26:59 === win10-1903-test offsets=2f0 2e8 450 28
+2026-10-10 06:28:31 win10-1903-test JSON: JSON INIT OK winver=9 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff80377633920 
+2026-10-10 06:28:37 win10-1903-test NOJSON: INIT OK winver=1 pm=4 addrwidth=8 head=0xfffff80377633920 procs=73 system=1 encoded (rot=56)
+2026-10-10 06:28:37 === win10-1909-test offsets=2f0 2e8 450 28
+2026-10-10 06:30:08 win10-1909-test JSON: JSON INIT OK winver=9 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff80456233920 
+2026-10-10 06:30:14 win10-1909-test NOJSON: INIT OK winver=1 pm=4 addrwidth=8 head=0xfffff80456233920 procs=73 system=1 encoded (rot=63)
+2026-10-10 06:30:15 === win10-2004-test offsets=448 440 5a8 28
+2026-10-10 06:31:46 win10-2004-test JSON: JSON INIT OK winver=9 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff8063a81e0c0 
+2026-10-10 06:31:52 win10-2004-test NOJSON: INIT OK winver=1 pm=4 addrwidth=8 head=0xfffff8063a81e0c0 procs=73 system=1 encoded (rot=34)
+2026-10-10 06:31:53 === win10-20H2-test offsets=448 440 5a8 28
+2026-10-10 06:33:24 win10-20H2-test JSON: JSON INIT OK winver=9 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff8051b21e0c0 
+2026-10-10 06:33:30 win10-20H2-test NOJSON: INIT OK winver=1 pm=4 addrwidth=8 head=0xfffff8051b21e0c0 procs=73 system=1 encoded (rot=62)
+2026-10-10 06:33:31 === win10-21H1-test offsets=448 440 5a8 28
+2026-10-10 06:35:02 win10-21H1-test JSON: JSON INIT OK winver=9 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff8036b21e0c0 
+2026-10-10 06:35:08 win10-21H1-test NOJSON: INIT OK winver=1 pm=4 addrwidth=8 head=0xfffff8036b21e0c0 procs=73 system=1 encoded (rot=8)
+2026-10-10 06:35:09 === win10-21H2-test offsets=448 440 5a8 28
+2026-10-10 06:36:40 win10-21H2-test JSON: JSON INIT OK winver=9 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff8055681e0c0 
+2026-10-10 06:37:27 win10-21H2-test NOJSON: INIT OK winver=1 pm=4 addrwidth=8 head=0xfffff8055681e0c0 procs=72 system=1 encoded (rot=29)
+2026-10-10 06:37:27 === win10-22H2-test offsets=448 440 5a8 28
+2026-10-10 06:38:59 win10-22H2-test JSON: JSON INIT OK winver=9 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff80333c1e0c0 
+2026-10-10 06:39:05 win10-22H2-test NOJSON: INIT OK winver=1 pm=4 addrwidth=8 head=0xfffff80333c1e0c0 procs=73 system=1 encoded (rot=1)
+2026-10-10 06:39:05 === win11-21h2-test offsets=448 440 5a8 28
+2026-10-10 06:40:38 win11-21h2-test JSON: JSON INIT OK winver=9 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff8010a61bec0 
+2026-10-10 06:41:24 win11-21h2-test NOJSON: INIT OK winver=1 pm=4 addrwidth=8 head=0xfffff8010a61bec0 procs=73 system=1 encoded (rot=44)
+2026-10-10 06:41:24 === win11-22h2-test offsets=448 440 5a8 28
+2026-10-10 06:42:57 win11-22h2-test JSON: JSON INIT OK winver=9 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff80622a37dc0 
+2026-10-10 06:43:40 win11-22h2-test NOJSON: INIT OK winver=1 pm=4 addrwidth=8 head=0xfffff80622a37dc0 procs=73 system=1 encoded (rot=49)
+2026-10-10 06:43:40 === win11-23h2-test offsets=448 440 5a8 28
+2026-10-10 06:45:13 win11-23h2-test JSON: JSON INIT OK winver=9 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff80206a37f30 
+2026-10-10 06:45:58 win11-23h2-test NOJSON: INIT OK winver=1 pm=4 addrwidth=8 head=0xfffff80206a37f30 procs=73 system=1 encoded (rot=57)
+2026-10-10 06:45:58 === win11-24h2-test offsets=1d8 1d0 338 28
+2026-10-10 06:47:31 win11-24h2-test JSON: JSON INIT OK winver=9 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff802c9504e10 
+2026-10-10 06:48:17 win11-24h2-test NOJSON: INIT OK winver=1 pm=4 addrwidth=8 head=0xfffff802c9504e10 procs=72 system=1 encoded (rot=52)
+2026-10-10 06:48:18 === win11-25h2-test offsets=1d8 1d0 338 28
+2026-10-10 06:49:51 win11-25h2-test JSON: JSON INIT OK winver=9 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff804a29054d0 
+2026-10-10 06:50:36 win11-25h2-test NOJSON: INIT OK winver=1 pm=4 addrwidth=8 head=0xfffff804a29054d0 procs=73 system=1 encoded (rot=31)
+2026-10-10 06:50:37 === win11-26h1-test offsets=1d8 1d0 338 28
+2026-10-10 06:52:10 win11-26h1-test JSON: JSON INIT OK winver=9 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff80479f0a0a0 
+2026-10-10 06:52:55 win11-26h1-test NOJSON: INIT OK winver=1 pm=4 addrwidth=8 head=0xfffff80479f0a0a0 procs=73 system=1 encoded (rot=10)
+2026-10-10 06:52:55 ALLDONE

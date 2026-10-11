@@ -1,0 +1,5 @@
+2026-10-10 07:23:18 json: JSONINITFAIL
+2026-10-10 07:23:19 sysproc=0xffffdf0e724c1040 kernbase=0xfffff802c5e8c000 last paddr before failure=0x000000010c0c1068
+2026-10-10 07:23:19 slot PA=0x10c0c1068
+2026-10-10 07:23:59 nojson: INIT OK winver=1 pm=4 addrwidth=8 head=PsActiveProcessHead=0xfffff802c61e6a20 procs=97 
+2026-10-10 07:24:04 ALLDONE

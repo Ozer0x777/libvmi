@@ -1,0 +1,7 @@
+2026-10-10 07:07:59 run1 CR3-dbg: JSONINITFAIL --failed to resolve PsActiveProcessHead
+2026-10-10 07:09:36 run1 CR3-before: JSONINITFAIL --failed to resolve PsActiveProcessHead
+2026-10-10 07:11:13 run2 CR3-dbg: JSONINITFAIL --failed to resolve PsActiveProcessHead
+2026-10-10 07:12:50 run2 CR3-before: JSONINITFAIL --failed to resolve PsActiveProcessHead
+2026-10-10 07:14:27 run3 CR3-dbg: JSONINITFAIL --failed to resolve PsActiveProcessHead
+2026-10-10 07:16:04 run3 CR3-before: JSONINITFAIL --failed to resolve PsActiveProcessHead
+2026-10-10 07:16:09 ALLDONE

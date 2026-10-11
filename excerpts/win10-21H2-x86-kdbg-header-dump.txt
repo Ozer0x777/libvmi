@@ -1,0 +1,17 @@
+LibVMI Version 0.15.0
+LibVMI Driver Mode 0
+**The running Xen version is 4.21
+--completed driver init.
+--got id from name (win10-21H2-x86-test --> 259)
+**set image_type = win10-21H2-x86-test
+**set vm_type HVM
+--xen: setup live mode
+**set allocated_ram_size = 10004c000, max_physical_address = 0x110080000
+--Reading pfn 0x36ac
+--MEMORY cache set 0x36ac000
+--xen_get_memory_pfn success on pfn=0x36ac
+PA 0x36ac830 (64 bytes):
+  0000: 40 60 09 84 40 60 09 84 00 00 00 00 00 00 00 00
+  0010: 4b 44 42 47 80 03 00 00 00 00 a0 83 00 00 00 00
+  0020: 04 cd b7 83 00 00 00 00 00 00 00 00 00 00 00 00
+  0030: 00 00 00 00 18 00 01 00 14 b9 b7 83 00 00 00 00

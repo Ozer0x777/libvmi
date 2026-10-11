@@ -1,0 +1,10 @@
+2026-10-10 05:05:16 === win10-1507-x86-test stock offsets=b8 b4 170 18
+2026-10-10 05:06:48 win10-1507-x86-test STOCK JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x81c43fb0 
+2026-10-10 05:09:01 win10-1507-x86-test STOCK NOJSON: INIT OK winver=8 pm=3 addrwidth=4 procs=0 system=0 no PsActiveProcessHead
+2026-10-10 05:09:01 === win10-1607-x86-test stock offsets=b8 b4 174 18
+2026-10-10 05:10:33 win10-1607-x86-test STOCK JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x81287a98 
+2026-10-10 05:11:20 win10-1607-x86-test STOCK NOJSON: INIT OK winver=1 pm=3 addrwidth=4 procs=0 system=0 no PsActiveProcessHead
+2026-10-10 05:11:20 === win10-21H2-x86-test stock offsets=e8 e4 1ac 18
+2026-10-10 05:13:32 win10-21H2-x86-test STOCK JSON: JSONINITFAIL conflicts with provided value
+2026-10-10 05:14:18 win10-21H2-x86-test STOCK NOJSON: INIT OK winver=1 pm=3 addrwidth=4 procs=57 system=1 
+2026-10-10 05:14:18 ALLDONE

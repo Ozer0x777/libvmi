@@ -1,0 +1,2 @@
+VMI_ERROR: LibVMI found physical kernel base address 0x3600000 that conflicts with provided value from config file!
+JSONINITFAIL

@@ -1,0 +1,4 @@
+release                : 6.12.107+deb13-amd64
+nr_cpus                : 32
+total_memory           : 32672
+xen_version            : 4.21.0
