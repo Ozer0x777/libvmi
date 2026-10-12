@@ -1,0 +1,5 @@
+2026-10-11 12:38:55 boot1 FORCE=50: INITFAIL head= procs=0  forced_samples=50 finder=find_kdbg_address_fast t=1219288pfn
+2026-10-11 12:39:36 boot1 FORCE=5: INIT OK winver=8 pm=4 addrwidth=8 head=0xfffff803e3ea6c10 procs=34 using vCPU 0 (sample 5) forced_samples=5 finder=find_kdbg_address_faster t=1070092pfn
+2026-10-11 12:43:20 boot2 FORCE=50: INITFAIL head= procs=0  forced_samples=50 finder=find_kdbg_address_fast t=1217513pfn
+2026-10-11 12:44:01 boot2 FORCE=5: INIT OK winver=8 pm=4 addrwidth=8 head=0xfffff803f6504c10 procs=34 using vCPU 0 (sample 5) forced_samples=5 finder=find_kdbg_address_faster t=1070021pfn
+2026-10-11 12:44:07 ALLDONE

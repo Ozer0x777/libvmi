@@ -1,0 +1,1533 @@
+**The running Xen version is 4.21
+--found Xen
+Running Bareflank CPUID signature: 0 0 0 0
+LibVMI Version 0.15.0
+LibVMI Driver Mode 0
+**The running Xen version is 4.21
+--completed driver init.
+--got id from name (win81-9600-x86-test --> 495)
+**set image_type = win81-9600-x86-test
+**set vm_type HVM
+--xen: setup live mode
+**set allocated_ram_size = 10004c000, max_physical_address = 0x110080000
+**set pae = 1
+**set pse = 0
+**set lme = 0
+**PAE paging
+**sanity checking cr3 = 0x00000000001a8000
+**set os_type to Windows.
+** vmi->page_mode in {VMI_PM_LEGACY, VMI_PM_PAE} => Trying FS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_get_x86 to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+**Attempting KdDebuggerDataBlock search methods
+**Trying find_kdbg_address_instant
+**Trying find_kdbg_address_faster
+--PEParse: magic is 0x10b
+--requested PA [0x1ec9d0000-0x1ec9d1000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--requested PA [0x13ae3b000-0x13ae3c000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--requested PA [0x16f333000-0x16f334000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--requested PA [0x175481000-0x175482000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--requested PA [0x177909000-0x17790a000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--requested PA [0x11b2a6000-0x11b2a7000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--requested PA [0x11cad2000-0x11cad3000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--requested PA [0x125fb3000-0x125fb4000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--requested PA [0x125462000-0x125463000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--requested PA [0x125406000-0x125407000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--requested PA [0x125964000-0x125965000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--requested PA [0x1259a7000-0x1259a8000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--requested PA [0x12482d000-0x12482e000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--requested PA [0x118d2c000-0x118d2d000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--requested PA [0x121962000-0x121963000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--requested PA [0x12146f000-0x121470000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--requested PA [0x121278000-0x121279000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--requested PA [0x11c6c2000-0x11c6c3000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--requested PA [0x1109a5000-0x1109a6000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--requested PA [0x11cff8000-0x11cff9000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--requested PA [0x114288000-0x114289000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--requested PA [0x118275000-0x118276000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--requested PA [0x114a14000-0x114a15000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--requested PA [0x1138af000-0x1138b0000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--requested PA [0x116bcf000-0x116bd0000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--requested PA [0x1159ef000-0x1159f0000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--requested PA [0x115b86000-0x115b87000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--requested PA [0x1145b7000-0x1145b8000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--requested PA [0x112e84000-0x112e85000] is outside valid physical memory
+create_new_entry failed
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--PEParse: magic is 0x10b
+--Found KdDebuggerDataBlock at RVA 0x1e6690 of the kernel mapped at VA 0x81a1d000
+**set KernBase VA=0x81a1d000
+LibVMI Suggestion: set win_ntoskrnl=0xecc1d000 in libvmi.conf for faster startup.
+LibVMI Suggestion: set win_kdbg=0x1e6690 in libvmi.conf for faster startup.
+LibVMI Suggestion: set win_kdvb=0x81c03690 in libvmi.conf for faster startup.
+--PEParse: magic is 0x10b
+--KdDebuggerDataBlock size 0x360, kernel PE version 6.3
+--PTEResolve: unable to get "_MMPTE_SOFTWARE::Protection" info
+--windows symbol lookup (PsActiveProcessHead)
+--got symbol from kdbg (PsActiveProcessHead --> 0x81c13a58).
+--starting search from PsActiveProcessHead (0x0000000085a690f8) using kpgd (0x00000000001a8000).
+--Found System process at 85a69040
+--Found System process physical address at ee269040
+**set kpgd (0x00000000001a8000).
+**set init_task (0x0000000085a69040).
+--kpgd method0 success
+**set pae = 1
+**set pse = 0
+**set lme = 0
+**PAE paging
+**sanity checking cr3 = 0x00000000001a8000
+INIT OK winver=8 pm=3 addrwidth=4
+PsActiveProcessHead=0x81c13a58
+  pid=4     System
+  pid=248   smss.exe
+  pid=336   csrss.exe
+  pid=392   wininit.exe
+  pid=400   csrss.exe
+  pid=440   services.exe
+  pid=448   lsass.exe
+  pid=504   svchost.exe
+  pid=556   svchost.exe
+  pid=624   winlogon.exe
+  pid=688   dwm.exe
+  pid=732   svchost.exe
+  pid=760   svchost.exe
+  pid=784   svchost.exe
+  pid=836   svchost.exe
+  pid=924   svchost.exe
+  pid=1056  spoolsv.exe
+  pid=1084  svchost.exe
+  pid=1812  vds.exe
+  pid=1928  WmiPrvSE.exe
+  pid=232   SearchIndexer.
+  pid=1224  taskhostex.exe
+  pid=1308  SearchProtocol
+  pid=1640  SearchFilterHo
+  pid=1768  explorer.exe
+  pid=2104  svchost.exe
+  pid=2740  sppsvc.exe
+  pid=2876  taskhostex.exe
+PROCS=28

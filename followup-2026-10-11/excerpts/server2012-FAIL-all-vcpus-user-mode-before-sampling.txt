@@ -1,0 +1,59 @@
+**The running Xen version is 4.21
+--found Xen
+Running Bareflank CPUID signature: 0 0 0 0
+LibVMI Version 0.15.0
+LibVMI Driver Mode 0
+**The running Xen version is 4.21
+--completed driver init.
+--got id from name (winsrv-2012-test --> 427)
+**set image_type = winsrv-2012-test
+**set vm_type HVM
+--xen: setup live mode
+**set allocated_ram_size = 10004c000, max_physical_address = 0x110080000
+**set pae = 1
+**set pse = 1
+**set lme = 1
+**IA-32e paging
+**sanity checking cr3 = 0x000000003edb6000
+**set os_type to Windows.
+** (vmi->page_mode == VMI_PM_IA32E) Entering KPCR register selection loop...
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=GS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying GS_BASE failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=SHADOW_GS.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying SHADOW_GS failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=MSR_SHADOW_GS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** driver_get_vcpureg(..) failed.
+** kpcr_get(..) failed.
+** Trying MSR_SHADOW_GS_BASE failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=FS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying FS_BASE failed.
+** KPCR register selection loop ended.
+**Attempting KdDebuggerDataBlock search methods
+**Trying find_kdbg_address_instant
+**Trying find_kdbg_address_faster
+**find_ntoskrnl_physical_scan: 2MB-aligned scan
+**Trying find_kdbg_address_fast
+**Trying find_kdbg_address
+--Found KdDebuggerDataBlock at PA 0000000000000000
+**All KdDebuggerDataBlock search methods failed
+INITFAIL

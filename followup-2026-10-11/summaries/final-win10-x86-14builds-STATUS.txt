@@ -1,0 +1,43 @@
+2026-10-11 13:14:40 === win10-1507-x86-test offsets(tasks pid pname pdbase)=b8 b4 170 18
+2026-10-11 13:17:12 win10-1507-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x816b9fb0
+2026-10-11 13:17:54 win10-1507-x86-test NOJSON: INIT OK winver=9 pm=3 addrwidth=4 procs=40 system=1 kdbg_pa= 
+2026-10-11 13:17:54 === win10-1511-x86-test offsets(tasks pid pname pdbase)=b8 b4 174 18
+2026-10-11 13:20:25 win10-1511-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x8160c6f0
+2026-10-11 13:21:08 win10-1511-x86-test NOJSON: INIT OK winver=9 pm=3 addrwidth=4 procs=39 system=1 kdbg_pa= 
+2026-10-11 13:21:08 === win10-1607-x86-test offsets(tasks pid pname pdbase)=b8 b4 174 18
+2026-10-11 13:23:40 win10-1607-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x81883a98
+2026-10-11 13:24:23 win10-1607-x86-test NOJSON: INIT OK winver=9 pm=3 addrwidth=4 procs=43 system=1 kdbg_pa= 
+2026-10-11 13:24:23 === win10-1703-x86-test offsets(tasks pid pname pdbase)=b8 b4 17c 18
+2026-10-11 13:26:54 win10-1703-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x81200d60
+2026-10-11 13:27:36 win10-1703-x86-test NOJSON: INIT OK winver=9 pm=3 addrwidth=4 procs=74 system=1 kdbg_pa= 
+2026-10-11 13:27:36 === win10-1709-x86-test offsets(tasks pid pname pdbase)=b8 b4 17c 18
+2026-10-11 13:30:07 win10-1709-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x818c4f20
+2026-10-11 13:30:48 win10-1709-x86-test NOJSON: INIT OK winver=9 pm=3 addrwidth=4 procs=74 system=1 kdbg_pa= 
+2026-10-11 13:30:48 === win10-1803-x86-test offsets(tasks pid pname pdbase)=b8 b4 17c 18
+2026-10-11 13:33:19 win10-1803-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x814f23e0
+2026-10-11 13:33:25 win10-1803-x86-test NOJSON: INIT OK winver=9 pm=3 addrwidth=4 procs=74 system=1 kdbg_pa= 
+2026-10-11 13:33:26 === win10-1809-x86-test offsets(tasks pid pname pdbase)=b8 b4 17c 18
+2026-10-11 13:35:57 win10-1809-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x816a4490
+2026-10-11 13:36:03 win10-1809-x86-test NOJSON: INIT OK winver=9 pm=3 addrwidth=4 procs=73 system=1 kdbg_pa= 
+2026-10-11 13:36:03 === win10-1903-x86-test offsets(tasks pid pname pdbase)=b8 b4 17c 18
+2026-10-11 13:39:19 win10-1903-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x822ac3c0
+2026-10-11 13:39:25 win10-1903-x86-test NOJSON: INIT OK winver=9 pm=3 addrwidth=4 procs=74 system=1 kdbg_pa= 
+2026-10-11 13:39:26 === win10-1909-x86-test offsets(tasks pid pname pdbase)=b8 b4 17c 18
+2026-10-11 13:41:57 win10-1909-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x832ae460
+2026-10-11 13:42:03 win10-1909-x86-test NOJSON: INIT OK winver=9 pm=3 addrwidth=4 procs=74 system=1 kdbg_pa= 
+2026-10-11 13:42:03 === win10-2004-x86-test offsets(tasks pid pname pdbase)=e8 e4 1ac 18
+2026-10-11 13:44:35 win10-2004-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x836c3e40
+2026-10-11 13:44:41 win10-2004-x86-test NOJSON: INIT OK winver=9 pm=3 addrwidth=4 procs=75 system=1 kdbg_pa=00000000036b6830 
+2026-10-11 13:44:41 === win10-20H2-x86-test offsets(tasks pid pname pdbase)=e8 e4 1ac 18
+2026-10-11 13:47:13 win10-20H2-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x820b8e40
+2026-10-11 13:47:19 win10-20H2-x86-test NOJSON: INIT OK winver=9 pm=3 addrwidth=4 procs=73 system=1 kdbg_pa= 
+2026-10-11 13:47:19 === win10-21H1-x86-test offsets(tasks pid pname pdbase)=e8 e4 1ac 18
+2026-10-11 13:49:51 win10-21H1-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x83ab9f00
+2026-10-11 13:49:57 win10-21H1-x86-test NOJSON: INIT OK winver=9 pm=3 addrwidth=4 procs=74 system=1 kdbg_pa= 
+2026-10-11 13:49:57 === win10-21H2-x86-test offsets(tasks pid pname pdbase)=e8 e4 1ac 18
+2026-10-11 13:52:29 win10-21H2-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x856b9e10
+2026-10-11 13:52:35 win10-21H2-x86-test NOJSON: INIT OK winver=9 pm=3 addrwidth=4 procs=74 system=1 kdbg_pa= 
+2026-10-11 13:52:35 === win10-22H2-x86-test offsets(tasks pid pname pdbase)=e8 e4 1ac 18
+2026-10-11 13:55:07 win10-22H2-x86-test JSON: JSON INIT OK winver=9 pm=3 addrwidth=4 PsActiveProcessHead=0x82ebad40
+2026-10-11 13:55:13 win10-22H2-x86-test NOJSON: INIT OK winver=9 pm=3 addrwidth=4 procs=74 system=1 kdbg_pa= 
+2026-10-11 13:55:13 ALLDONE

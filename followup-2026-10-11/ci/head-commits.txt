@@ -1,0 +1,5 @@
+5ca2526226e2a66523f36083062708f1503d1ab3 windows: version from the kernel PE header on the KDBG path
+732d16b2150ba0a4f4aa82f464b1183639b36b40 windows: sample the vCPUs before giving up on the KPCR search
+fe57a67f7c33d23405e8cd4921d77fdccf54d61c windows: kernel base from the IDT under KVA shadowing
+a40600b581e76600b9bd03e030d98b46826cae83 windows: find the kernel on 32-bit guests too
+689884752e98c5ff09986d311514acda2df2fad9 windows: decode the encoded KdDebuggerDataBlock (#1127)

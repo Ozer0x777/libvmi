@@ -1,0 +1,10 @@
+2026-10-11 12:49:52 win10-1507-test: nojson INIT OK winver=9 procs=40 KdDebuggerDataBlock size 0x360, kernel PE version 10.0  | json winver=9
+2026-10-11 12:52:30 win10-22H2-test: nojson INIT OK winver=9 procs=111 KdDebuggerDataBlock size 0x380, kernel PE version 10.0  | json winver=9
+2026-10-11 12:55:45 win10-1607-x86-test: nojson INIT OK winver=9 procs=42 KdDebuggerDataBlock size 0x368, kernel PE version 10.0  | json winver=9
+2026-10-11 12:59:04 win11-24h2-test: nojson INIT OK winver=9 procs=111 KdDebuggerDataBlock size 0x3a0, kernel PE version 10.0  | json winver=9
+2026-10-11 13:02:22 win81-9600-x64-test: nojson INIT OK winver=8 procs=24 KdDebuggerDataBlock size 0x360, kernel PE version 6.3  | json winver=8
+2026-10-11 13:05:36 win8-9200-x86-test: nojson INIT OK winver=8 procs=26 KdDebuggerDataBlock size 0x360, kernel PE version 6.2  | json winver=8
+2026-10-11 13:08:13 win7-7601-x64-test: nojson INIT OK winver=7 procs=25   | json winver=7
+2026-10-11 13:11:33 winsrv-2016-test: nojson INIT OK winver=9 procs=42 KdDebuggerDataBlock size 0x368, kernel PE version 10.0  | json winver=9
+2026-10-11 13:14:10 winsrv-2008-test: nojson INIT OK winver=6 procs=17   | json winver=5
+2026-10-11 13:14:15 ALLDONE

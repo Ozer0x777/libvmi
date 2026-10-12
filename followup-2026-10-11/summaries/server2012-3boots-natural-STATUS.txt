@@ -1,0 +1,10 @@
+2026-10-11 12:24:26 boot1 vcpus: vcpu0 rip=0xfffff880029643a2 vcpu1 rip=0xfffff88001406720 
+2026-10-11 12:25:06 boot1 [CR3-v2] NOJSON: INIT OK winver=8 pm=4 addrwidth=8 head=0xfffff801886a8c10 procs=35  encoded (rot=22) finder=find_kdbg_address_faster
+2026-10-11 12:25:46 boot1 [CR3-dbg] NOJSON: INIT OK winver=8 pm=4 addrwidth=8 head=0xfffff801886a8c10 procs=34  encoded (rot=22) finder=find_kdbg_address_faster
+2026-10-11 12:29:02 boot2 vcpus: vcpu0 rip=0x7fcd7ea35ac vcpu1 rip=0x74110e9c 
+2026-10-11 12:29:42 boot2 [CR3-v2] NOJSON: INIT OK winver=8 pm=4 addrwidth=8 head=0xfffff802b64a0c10 procs=35  encoded (rot=47) finder=find_kdbg_address_faster
+2026-10-11 12:30:25 boot2 [CR3-dbg] NOJSON: INIT OK winver=8 pm=4 addrwidth=8 head=0xfffff802b64a0c10 procs=34  encoded (rot=47) finder=find_kdbg_address_faster
+2026-10-11 12:33:40 boot3 vcpus: vcpu0 rip=0x7393c6bc vcpu1 rip=0x7fac63cda8f 
+2026-10-11 12:34:20 boot3 [CR3-v2] NOJSON: INIT OK winver=8 pm=4 addrwidth=8 head=0xfffff800fcab2c10 procs=35  encoded (rot=5) finder=find_kdbg_address_faster
+2026-10-11 12:34:59 boot3 [CR3-dbg] NOJSON: INIT OK winver=8 pm=4 addrwidth=8 head=0xfffff800fcab2c10 procs=34  encoded (rot=5) finder=find_kdbg_address_faster
+2026-10-11 12:35:05 ALLDONE

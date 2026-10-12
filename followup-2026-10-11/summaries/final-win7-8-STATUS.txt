@@ -1,0 +1,41 @@
+2026-10-11 14:55:09 === win7-7600-x86-test
+2026-10-11 14:57:40 win7-7600-x86-test [master-now] JSON(win7-7600-x86-test-ntkrnlpa): JSON INIT OK winver=7 pm=3 addrwidth=4 PsActiveProcessHead=0x82779e98
+2026-10-11 14:57:44 win7-7600-x86-test [master-now] NOJSON(off=b8 b4 16c 18): INIT OK winver=7 pm=3 addrwidth=4 head=0x82779e98 procs=25 system=1   finder=find_kdbg_address_fast
+2026-10-11 14:57:44 win7-7600-x86-test [CR3-dbg] JSON(win7-7600-x86-test-ntkrnlpa): JSON INIT OK winver=7 pm=3 addrwidth=4 PsActiveProcessHead=0x82779e98
+2026-10-11 14:57:44 win7-7600-x86-test [CR3-dbg] NOJSON(off=b8 b4 16c 18): INIT OK winver=7 pm=3 addrwidth=4 head=0x82779e98 procs=25 system=1   finder=find_kdbg_address_faster
+2026-10-11 14:57:49 === win7-7600-x64-test
+2026-10-11 15:00:21 win7-7600-x64-test [master-now] JSON(win7-7600-x64-test): JSON INIT OK winver=7 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff8000281fb30
+2026-10-11 15:00:21 win7-7600-x64-test [master-now] NOJSON(off=188 180 2e0 28): INIT OK winver=7 pm=4 addrwidth=8 head=0xfffff8000281fb30 procs=25 system=1   finder=find_kdbg_address_faster
+2026-10-11 15:00:21 win7-7600-x64-test [CR3-dbg] JSON(win7-7600-x64-test): JSON INIT OK winver=7 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff8000281fb30
+2026-10-11 15:00:21 win7-7600-x64-test [CR3-dbg] NOJSON(off=188 180 2e0 28): INIT OK winver=7 pm=4 addrwidth=8 head=0xfffff8000281fb30 procs=25 system=1   finder=find_kdbg_address_faster
+2026-10-11 15:00:27 === win7-7601-x86-test
+2026-10-11 15:02:58 win7-7601-x86-test [master-now] JSON(win7-7601-x86-test-ntkrnlpa): JSON INIT OK winver=7 pm=3 addrwidth=4 PsActiveProcessHead=0x82753f18
+2026-10-11 15:03:02 win7-7601-x86-test [master-now] NOJSON(off=b8 b4 16c 18): INIT OK winver=7 pm=3 addrwidth=4 head=0x82753f18 procs=25 system=1   finder=find_kdbg_address_fast
+2026-10-11 15:03:02 win7-7601-x86-test [CR3-dbg] JSON(win7-7601-x86-test-ntkrnlpa): JSON INIT OK winver=7 pm=3 addrwidth=4 PsActiveProcessHead=0x82753f18
+2026-10-11 15:03:02 win7-7601-x86-test [CR3-dbg] NOJSON(off=b8 b4 16c 18): INIT OK winver=7 pm=3 addrwidth=4 head=0x82753f18 procs=25 system=1   finder=find_kdbg_address_faster
+2026-10-11 15:03:08 === win7-7601-x64-test
+2026-10-11 15:05:39 win7-7601-x64-test [master-now] JSON(win7-7601-x64-test): JSON INIT OK winver=7 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff8000288eb90
+2026-10-11 15:05:39 win7-7601-x64-test [master-now] NOJSON(off=188 180 2e0 28): INIT OK winver=7 pm=4 addrwidth=8 head=0xfffff8000288eb90 procs=25 system=1   finder=find_kdbg_address_faster
+2026-10-11 15:05:39 win7-7601-x64-test [CR3-dbg] JSON(win7-7601-x64-test): JSON INIT OK winver=7 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff8000288eb90
+2026-10-11 15:05:40 win7-7601-x64-test [CR3-dbg] NOJSON(off=188 180 2e0 28): INIT OK winver=7 pm=4 addrwidth=8 head=0xfffff8000288eb90 procs=25 system=1   finder=find_kdbg_address_faster
+2026-10-11 15:05:45 === win8-9200-x86-test
+2026-10-11 15:08:17 win8-9200-x86-test [master-now] JSON(win8-9200-x86-test): JSON INIT OK winver=8 pm=3 addrwidth=4 PsActiveProcessHead=0x80dffaa0
+2026-10-11 15:08:20 win8-9200-x86-test [master-now] NOJSON(off=b8 b4 170 18): INIT OK winver=8 pm=3 addrwidth=4 head=0x80dffaa0 procs=27 system=1   finder=find_kdbg_address_fast
+2026-10-11 15:08:20 win8-9200-x86-test [CR3-dbg] JSON(win8-9200-x86-test): JSON INIT OK winver=8 pm=3 addrwidth=4 PsActiveProcessHead=0x80dffaa0
+2026-10-11 15:08:57 win8-9200-x86-test [CR3-dbg] NOJSON(off=b8 b4 170 18): INIT OK winver=8 pm=3 addrwidth=4 head=0x80dffaa0 procs=26 system=1   finder=find_kdbg_address_faster
+2026-10-11 15:09:03 === win8-9200-x64-test
+2026-10-11 15:11:34 win8-9200-x64-test [master-now] JSON(win8-9200-x64-test): JSON INIT OK winver=8 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff8002891fc10
+2026-10-11 15:12:14 win8-9200-x64-test [master-now] NOJSON(off=2e8 2e0 438 28): INIT OK winver=8 pm=4 addrwidth=8 head=0xfffff8002891fc10 procs=26 system=1 encoded (rot=60)  finder=find_kdbg_address_faster
+2026-10-11 15:12:14 win8-9200-x64-test [CR3-dbg] JSON(win8-9200-x64-test): JSON INIT OK winver=8 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff8002891fc10
+2026-10-11 15:12:55 win8-9200-x64-test [CR3-dbg] NOJSON(off=2e8 2e0 438 28): INIT OK winver=8 pm=4 addrwidth=8 head=0xfffff8002891fc10 procs=27 system=1 encoded (rot=60)  finder=find_kdbg_address_faster
+2026-10-11 15:13:00 === win81-9600-x86-test
+2026-10-11 15:15:32 win81-9600-x86-test [master-now] JSON(win81-9600-x86-test): JSON INIT OK winver=8 pm=3 addrwidth=4 PsActiveProcessHead=0x81c13a58
+2026-10-11 15:15:34 win81-9600-x86-test [master-now] NOJSON(off=b8 b4 170 18): INIT OK winver=8 pm=3 addrwidth=4 head= procs=0 system=0   finder=find_kdbg_address_fast
+2026-10-11 15:15:35 win81-9600-x86-test [CR3-dbg] JSON(win81-9600-x86-test): JSON INIT OK winver=8 pm=3 addrwidth=4 PsActiveProcessHead=0x81c13a58
+2026-10-11 15:16:12 win81-9600-x86-test [CR3-dbg] NOJSON(off=b8 b4 170 18): INIT OK winver=8 pm=3 addrwidth=4 head=0x81c13a58 procs=28 system=1   finder=find_kdbg_address_faster
+2026-10-11 15:16:17 === win81-9600-x64-test
+2026-10-11 15:18:48 win81-9600-x64-test [master-now] JSON(win81-9600-x64-test): JSON INIT OK winver=8 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff802cdb34000
+2026-10-11 15:19:29 win81-9600-x64-test [master-now] NOJSON(off=2e8 2e0 438 28): INIT OK winver=8 pm=4 addrwidth=8 head=0xfffff802cdb34000 procs=24 system=1 encoded (rot=63)  finder=find_kdbg_address_faster
+2026-10-11 15:19:29 win81-9600-x64-test [CR3-dbg] JSON(win81-9600-x64-test): JSON INIT OK winver=8 pm=4 addrwidth=8 PsActiveProcessHead=0xfffff802cdb34000
+2026-10-11 15:20:12 win81-9600-x64-test [CR3-dbg] NOJSON(off=2e8 2e0 438 28): INIT OK winver=8 pm=4 addrwidth=8 head=0xfffff802cdb34000 procs=24 system=1 encoded (rot=63)  finder=find_kdbg_address_faster
+2026-10-11 15:20:17 ALLDONE

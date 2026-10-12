@@ -1,0 +1,113 @@
+**The running Xen version is 4.21
+--found Xen
+Running Bareflank CPUID signature: 0 0 0 0
+LibVMI Version 0.15.0
+LibVMI Driver Mode 0
+**The running Xen version is 4.21
+--completed driver init.
+--got id from name (winsrv-2012-test --> 444)
+**set image_type = winsrv-2012-test
+**set vm_type HVM
+--xen: setup live mode
+**set allocated_ram_size = 10004c000, max_physical_address = 0x110080000
+**set pae = 1
+**set pse = 1
+**set lme = 1
+**IA-32e paging
+**sanity checking cr3 = 0x00000000369e6000
+**set os_type to Windows.
+--vCPU 0 is running user code, using the CR3 of vCPU 1
+** (vmi->page_mode == VMI_PM_IA32E) Entering KPCR register selection loop...
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=GS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying GS_BASE failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=SHADOW_GS.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying SHADOW_GS failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=MSR_SHADOW_GS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** driver_get_vcpureg(..) failed.
+** kpcr_get(..) failed.
+** Trying MSR_SHADOW_GS_BASE failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=FS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying FS_BASE failed.
+** KPCR register selection loop ended.
+**Attempting KdDebuggerDataBlock search methods
+**Trying find_kdbg_address_instant
+**Trying find_kdbg_address_faster
+**FORCED: sample 0 treated as all vCPUs in user mode
+**FORCED: sample 1 treated as all vCPUs in user mode
+**FORCED: sample 2 treated as all vCPUs in user mode
+**FORCED: sample 3 treated as all vCPUs in user mode
+**FORCED: sample 4 treated as all vCPUs in user mode
+**FORCED: sample 5 treated as all vCPUs in user mode
+**FORCED: sample 6 treated as all vCPUs in user mode
+**FORCED: sample 7 treated as all vCPUs in user mode
+**FORCED: sample 8 treated as all vCPUs in user mode
+**FORCED: sample 9 treated as all vCPUs in user mode
+**FORCED: sample 10 treated as all vCPUs in user mode
+**FORCED: sample 11 treated as all vCPUs in user mode
+**FORCED: sample 12 treated as all vCPUs in user mode
+**FORCED: sample 13 treated as all vCPUs in user mode
+**FORCED: sample 14 treated as all vCPUs in user mode
+**FORCED: sample 15 treated as all vCPUs in user mode
+**FORCED: sample 16 treated as all vCPUs in user mode
+**FORCED: sample 17 treated as all vCPUs in user mode
+**FORCED: sample 18 treated as all vCPUs in user mode
+**FORCED: sample 19 treated as all vCPUs in user mode
+**FORCED: sample 20 treated as all vCPUs in user mode
+**FORCED: sample 21 treated as all vCPUs in user mode
+**FORCED: sample 22 treated as all vCPUs in user mode
+**FORCED: sample 23 treated as all vCPUs in user mode
+**FORCED: sample 24 treated as all vCPUs in user mode
+**FORCED: sample 25 treated as all vCPUs in user mode
+**FORCED: sample 26 treated as all vCPUs in user mode
+**FORCED: sample 27 treated as all vCPUs in user mode
+**FORCED: sample 28 treated as all vCPUs in user mode
+**FORCED: sample 29 treated as all vCPUs in user mode
+**FORCED: sample 30 treated as all vCPUs in user mode
+**FORCED: sample 31 treated as all vCPUs in user mode
+**FORCED: sample 32 treated as all vCPUs in user mode
+**FORCED: sample 33 treated as all vCPUs in user mode
+**FORCED: sample 34 treated as all vCPUs in user mode
+**FORCED: sample 35 treated as all vCPUs in user mode
+**FORCED: sample 36 treated as all vCPUs in user mode
+**FORCED: sample 37 treated as all vCPUs in user mode
+**FORCED: sample 38 treated as all vCPUs in user mode
+**FORCED: sample 39 treated as all vCPUs in user mode
+**FORCED: sample 40 treated as all vCPUs in user mode
+**FORCED: sample 41 treated as all vCPUs in user mode
+**FORCED: sample 42 treated as all vCPUs in user mode
+**FORCED: sample 43 treated as all vCPUs in user mode
+**FORCED: sample 44 treated as all vCPUs in user mode
+**FORCED: sample 45 treated as all vCPUs in user mode
+**FORCED: sample 46 treated as all vCPUs in user mode
+**FORCED: sample 47 treated as all vCPUs in user mode
+**FORCED: sample 48 treated as all vCPUs in user mode
+**FORCED: sample 49 treated as all vCPUs in user mode
+**find_ntoskrnl_physical_scan: 2MB-aligned scan
+--PEParse: magic is 0x20b
+--PEParse: magic is 0x10b
+--PEParse: Image data directory RVA is 0
+**Trying find_kdbg_address_fast
+**Trying find_kdbg_address
+--Found KdDebuggerDataBlock at PA 0000000000000000
+**All KdDebuggerDataBlock search methods failed
+INITFAIL

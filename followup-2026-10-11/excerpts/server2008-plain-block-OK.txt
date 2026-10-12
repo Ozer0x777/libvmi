@@ -1,0 +1,93 @@
+**The running Xen version is 4.21
+--found Xen
+Running Bareflank CPUID signature: 0 0 0 0
+LibVMI Version 0.15.0
+LibVMI Driver Mode 0
+**The running Xen version is 4.21
+--completed driver init.
+--got id from name (winsrv-2008-test --> 504)
+**set image_type = winsrv-2008-test
+**set vm_type HVM
+--xen: setup live mode
+**set allocated_ram_size = 10004c000, max_physical_address = 0x110080000
+**set pae = 1
+**set pse = 1
+**set lme = 1
+**IA-32e paging
+**sanity checking cr3 = 0x0000000000124000
+**set os_type to Windows.
+** (vmi->page_mode == VMI_PM_IA32E) Entering KPCR register selection loop...
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=GS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying GS_BASE failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=SHADOW_GS.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying SHADOW_GS failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=MSR_SHADOW_GS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** driver_get_vcpureg(..) failed.
+** kpcr_get(..) failed.
+** Trying MSR_SHADOW_GS_BASE failed.
+** (vmi->page_mode == VMI_PM_IA32E) => Using kpcr_register_to_use=FS_BASE.
+**Trying to init from JSON profile
+** Trying kpcr_register_to_use to get KPCR.
+** Trying kpcr_find1
+** Trying kpcr_find2
+** Trying kpcr_find3
+** Trying kpcr_find4
+** Trying FS_BASE failed.
+** KPCR register selection loop ended.
+**Attempting KdDebuggerDataBlock search methods
+**Trying find_kdbg_address_instant
+**Trying find_kdbg_address_faster
+--PEParse: magic is 0x20b
+--Found KdDebuggerDataBlock at PA 0000000001789f20
+**set KernBase VA=0xfffff80001618000
+LibVMI Suggestion: set win_ntoskrnl=0x1618000 in libvmi.conf for faster startup.
+LibVMI Suggestion: set win_kdbg=0x171f20 in libvmi.conf for faster startup.
+LibVMI Suggestion: set win_kdvb=0xfffff80001789f20 in libvmi.conf for faster startup.
+--PTEResolve: unable to get "_MMPTE_SOFTWARE::Protection" info
+--windows symbol lookup (PsActiveProcessHead)
+--got symbol from kdbg (PsActiveProcessHead --> 0xfffff800017bc440).
+--starting search from PsActiveProcessHead (0xfffffa8003378a38) using kpgd (0x0000000000124000).
+--Found System process at fffffa8003378950
+--Found System process physical address at 5978950
+**set kpgd (0x0000000000124000).
+**set init_task (0xfffffa8003378950).
+--kpgd method0 success
+**set pae = 1
+**set pse = 1
+**set lme = 1
+**IA-32e paging
+**sanity checking cr3 = 0x0000000000124000
+INIT OK winver=6 pm=4 addrwidth=8
+PsActiveProcessHead=0xfffff800017bc440
+  pid=4     System
+  pid=392   smss.exe
+  pid=456   csrss.exe
+  pid=496   wininit.exe
+  pid=508   csrss.exe
+  pid=540   winlogon.exe
+  pid=580   services.exe
+  pid=592   lsass.exe
+  pid=600   lsm.exe
+  pid=748   svchost.exe
+  pid=808   svchost.exe
+  pid=844   svchost.exe
+  pid=888   svchost.exe
+  pid=904   windeploy.exe
+  pid=928   svchost.exe
+  pid=952   audiodg.exe
+  pid=960   oobeldr.exe
+PROCS=17

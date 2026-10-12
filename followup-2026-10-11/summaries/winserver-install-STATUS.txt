@@ -1,0 +1,147 @@
+2026-10-11 04:47:22 === winsrv-2012r2-test iso=winsrv/WinServer2012R2_EVAL_x64.iso unattend=winsrv2012r2 mac=00:14:22:6f:74:11
+2026-10-11 04:47:23 winsrv-2012r2-test install started
+2026-10-11 04:52:23 winsrv-2012r2-test t=300s cpu=84.5s delta=12s img=3797MB
+2026-10-11 04:57:23 winsrv-2012r2-test t=600s cpu=144.0s delta=4s img=7690MB
+2026-10-11 04:58:24 winsrv-2012r2-test rebooted at 660s (domid 378 -> 379): switching to disk-only boot
+2026-10-11 05:02:30 winsrv-2012r2-test t=900s cpu=31.5s delta=2s img=7776MB
+2026-10-11 05:05:30 winsrv-2012r2-test idle after 1080s (img 7776MB)
+2026-10-11 05:05:36 winsrv-2012r2-test snapshot after-install-cold created
+2026-10-11 05:08:13 winsrv-2012r2-test BOOT screenshots taken
+2026-10-11 05:08:13 === winsrv-2016-test iso=winsrv/WinServer2016_EVAL_x64.iso unattend=winsrv mac=00:14:22:6f:74:12
+2026-10-11 05:08:14 winsrv-2016-test install started
+2026-10-11 05:13:14 winsrv-2016-test t=300s cpu=88.2s delta=11s img=3799MB
+2026-10-11 05:18:14 winsrv-2016-test t=600s cpu=133.9s delta=6s img=6108MB
+2026-10-11 05:23:14 winsrv-2016-test t=900s cpu=179.3s delta=9s img=8921MB
+2026-10-11 05:26:14 winsrv-2016-test rebooted at 1080s (domid 382 -> 383): switching to disk-only boot
+2026-10-11 05:28:21 winsrv-2016-test t=1200s cpu=50.4s delta=29s img=9351MB
+2026-10-11 05:33:21 winsrv-2016-test t=1500s cpu=131.7s delta=41s img=9505MB
+2026-10-11 05:38:22 winsrv-2016-test t=1800s cpu=164.5s delta=0s img=9527MB
+2026-10-11 05:38:22 winsrv-2016-test idle after 1800s (img 9527MB)
+2026-10-11 05:38:27 winsrv-2016-test snapshot after-install-cold created
+2026-10-11 05:41:04 winsrv-2016-test BOOT screenshots taken
+2026-10-11 05:41:04 === winsrv-2019-test iso=WinServer2019_EN_x64.iso unattend=winsrv mac=00:14:22:6f:74:13
+2026-10-11 05:41:05 winsrv-2019-test install started
+2026-10-11 05:46:05 winsrv-2019-test t=300s cpu=94.5s delta=23s img=1946MB
+2026-10-11 05:51:06 winsrv-2019-test t=600s cpu=156.3s delta=13s img=4538MB
+2026-10-11 05:56:06 winsrv-2019-test t=900s cpu=213.5s delta=10s img=6720MB
+2026-10-11 06:01:06 winsrv-2019-test t=1200s cpu=246.9s delta=4s img=8491MB
+2026-10-11 06:06:06 winsrv-2019-test rebooted at 1500s (domid 387 -> 388): switching to disk-only boot
+2026-10-11 06:11:13 winsrv-2019-test t=1800s cpu=67.3s delta=33s img=9281MB
+2026-10-11 06:16:13 winsrv-2019-test t=2100s cpu=242.7s delta=1s img=9369MB
+2026-10-11 06:18:13 winsrv-2019-test idle after 2220s (img 9369MB)
+2026-10-11 06:18:19 winsrv-2019-test snapshot after-install-cold created
+2026-10-11 06:20:56 winsrv-2019-test BOOT screenshots taken
+2026-10-11 06:20:56 === winsrv-2022-test iso=winsrv/WinServer2022_EVAL_x64.iso unattend=winsrv mac=00:14:22:6f:74:14
+2026-10-11 06:20:57 winsrv-2022-test install started
+2026-10-11 06:25:57 winsrv-2022-test t=300s cpu=97.1s delta=12s img=2554MB
+2026-10-11 06:30:57 winsrv-2022-test t=600s cpu=133.8s delta=4s img=4601MB
+2026-10-11 06:35:57 winsrv-2022-test t=900s cpu=181.9s delta=4s img=6532MB
+2026-10-11 06:40:58 winsrv-2022-test t=1200s cpu=213.9s delta=5s img=8035MB
+2026-10-11 06:45:58 winsrv-2022-test rebooted at 1500s (domid 392 -> 393): switching to disk-only boot
+2026-10-11 06:48:38 winsrv-2019-test: installed and at the desktop (checked by screenshot) but no domid change seen -> destroyed by hand to let the script snapshot it
+2026-10-11 06:51:05 winsrv-2022-test t=1800s cpu=0.5s delta=-94s img=8927MB
+2026-10-11 06:54:08 (the line above about 2019 is moot: it had already been snapshotted by the script)
+2026-10-11 06:56:05 winsrv-2022-test t=2100s cpu=189.7s delta=34s img=9197MB
+2026-10-11 07:01:05 winsrv-2022-test t=2400s cpu=209.5s delta=1s img=9268MB
+2026-10-11 07:01:05 winsrv-2022-test idle after 2400s (img 9268MB)
+2026-10-11 07:01:11 winsrv-2022-test snapshot after-install-cold created
+2026-10-11 07:03:48 winsrv-2022-test BOOT screenshots taken
+2026-10-11 07:03:48 === winsrv-2025-test iso=winsrv/WinServer2025_EVAL_x64.iso unattend=winsrv mac=00:14:22:6f:74:15
+2026-10-11 07:03:49 winsrv-2025-test install started
+2026-10-11 07:08:49 winsrv-2025-test t=300s cpu=128.8s delta=27s img=1853MB
+2026-10-11 07:13:49 winsrv-2025-test t=600s cpu=225.6s delta=17s img=4233MB
+2026-10-11 07:18:49 winsrv-2025-test t=900s cpu=321.5s delta=28s img=5948MB
+2026-10-11 07:23:50 winsrv-2025-test t=1200s cpu=383.6s delta=10s img=7686MB
+2026-10-11 07:28:50 winsrv-2025-test t=1500s cpu=455.2s delta=14s img=8970MB
+2026-10-11 07:33:50 winsrv-2025-test t=1800s cpu=529.1s delta=13s img=10376MB
+2026-10-11 07:38:50 winsrv-2025-test t=2100s cpu=600.5s delta=11s img=11769MB
+2026-10-11 07:43:51 winsrv-2025-test t=2400s cpu=734.5s delta=23s img=12137MB
+2026-10-11 07:48:51 winsrv-2025-test rebooted at 2700s (domid 397 -> 398): switching to disk-only boot
+2026-10-11 07:53:58 winsrv-2025-test t=3000s cpu=151.4s delta=30s img=13158MB
+2026-10-11 07:58:58 winsrv-2025-test t=3300s cpu=50.6s delta=30s img=13220MB
+2026-10-11 08:03:58 winsrv-2025-test t=3600s cpu=345.0s delta=12s img=13231MB
+2026-10-11 08:08:58 winsrv-2025-test t=3900s cpu=401.7s delta=11s img=13273MB
+2026-10-11 08:13:59 winsrv-2025-test t=4200s cpu=633.7s delta=36s img=13273MB
+2026-10-11 08:18:59 winsrv-2025-test t=4500s cpu=807.7s delta=11s img=13317MB
+2026-10-11 08:23:59 winsrv-2025-test t=4800s cpu=867.2s delta=11s img=13317MB
+2026-10-11 08:23:59 winsrv-2025-test TIMEOUT 80 min
+2026-10-11 08:24:05 winsrv-2025-test snapshot after-install-cold created
+2026-10-11 08:26:42 winsrv-2025-test BOOT screenshots taken
+2026-10-11 08:26:42 ALLDONE
+2026-10-11 08:27:09 retry winsrv-2012r2-test with autounattend-winsrv2012r2adm (first attempt failed: CryptoSysPrep_Specialize 0x5)
+2026-10-11 08:27:09 === winsrv-2012r2-test iso=winsrv/WinServer2012R2_EVAL_x64.iso unattend=winsrv2012r2adm mac=00:14:22:6f:74:11
+2026-10-11 08:27:10 winsrv-2012r2-test install started
+2026-10-11 08:32:10 winsrv-2012r2-test t=300s cpu=81.9s delta=11s img=3821MB
+2026-10-11 08:37:11 winsrv-2012r2-test t=600s cpu=139.3s delta=4s img=7689MB
+2026-10-11 08:38:11 winsrv-2012r2-test rebooted at 660s (domid 402 -> 403): switching to disk-only boot
+2026-10-11 08:42:17 winsrv-2012r2-test t=900s cpu=18.6s delta=2s img=7705MB
+2026-10-11 08:45:17 winsrv-2012r2-test idle after 1080s (img 7705MB)
+2026-10-11 08:45:23 winsrv-2012r2-test snapshot after-install-cold created
+2026-10-11 08:48:00 winsrv-2012r2-test BOOT screenshots taken
+2026-10-11 08:48:00 ALLDONE
+2026-10-11 08:48:18 === winsrv-2008r2-test iso=winsrv/WinServer2008R2_SP1_x64.iso unattend=winsrv2008r2adm mac=00:14:22:6f:74:16
+2026-10-11 08:48:19 winsrv-2008r2-test install started
+2026-10-11 08:53:19 winsrv-2008r2-test t=300s cpu=72.3s delta=7s img=1378MB
+2026-10-11 08:58:19 winsrv-2008r2-test t=600s cpu=103.3s delta=6s img=3468MB
+2026-10-11 09:03:20 winsrv-2008r2-test t=900s cpu=127.6s delta=5s img=5458MB
+2026-10-11 09:08:20 winsrv-2008r2-test t=1200s cpu=160.1s delta=2s img=6952MB
+2026-10-11 09:09:20 winsrv-2008r2-test rebooted at 1260s (domid 406 -> 407): switching to disk-only boot
+2026-10-11 09:13:26 winsrv-2008r2-test t=1500s cpu=4.9s delta=-52s img=7008MB
+2026-10-11 09:18:27 winsrv-2008r2-test t=1800s cpu=29.7s delta=0s img=7016MB
+2026-10-11 09:23:27 winsrv-2008r2-test t=2100s cpu=78.7s delta=0s img=7025MB
+2026-10-11 09:24:27 winsrv-2008r2-test idle after 2160s (img 7025MB)
+2026-10-11 09:24:32 winsrv-2008r2-test snapshot after-install-cold created
+2026-10-11 09:27:09 winsrv-2008r2-test BOOT screenshots taken
+2026-10-11 09:27:09 === winsrv-2012-test iso=winsrv/WinServer2012_RTM_x64.iso unattend=winsrv2012adm mac=00:14:22:6f:74:17
+2026-10-11 09:27:10 winsrv-2012-test install started
+2026-10-11 09:32:10 winsrv-2012-test t=300s cpu=93.7s delta=18s img=4499MB
+2026-10-11 09:36:11 winsrv-2012-test rebooted at 540s (domid 411 -> 412): switching to disk-only boot
+2026-10-11 09:37:17 winsrv-2012-test t=600s cpu=20.1s delta=20s img=8112MB
+2026-10-11 09:42:17 winsrv-2012-test t=900s cpu=49.8s delta=13s img=8325MB
+2026-10-11 09:46:17 winsrv-2012-test idle after 1140s (img 8325MB)
+2026-10-11 09:46:23 winsrv-2012-test snapshot after-install-cold created
+2026-10-11 09:49:00 winsrv-2012-test BOOT screenshots taken
+2026-10-11 09:49:00 ALLDONE
+2026-10-11 09:49:00 === winsrv-2008-test iso=winsrv/WinServer2008_SP2_x64.iso unattend=winsrv2008adm mac=00:14:22:6f:74:18
+2026-10-11 09:49:01 winsrv-2008-test install started
+2026-10-11 09:54:01 winsrv-2008-test t=300s cpu=64.7s delta=8s img=1274MB
+2026-10-11 09:59:01 winsrv-2008-test t=600s cpu=96.7s delta=6s img=3413MB
+2026-10-11 10:04:01 winsrv-2008-test t=900s cpu=130.7s delta=9s img=5280MB
+2026-10-11 10:09:02 winsrv-2008-test t=1200s cpu=157.7s delta=6s img=7221MB
+2026-10-11 10:14:02 winsrv-2008-test rebooted at 1500s (domid 416 -> 417): switching to disk-only boot
+2026-10-11 10:19:08 winsrv-2008-test t=1800s cpu=4.8s delta=-89s img=8247MB
+2026-10-11 10:24:09 winsrv-2008-test t=2100s cpu=18.8s delta=0s img=8247MB
+2026-10-11 10:24:09 winsrv-2008-test idle after 2100s (img 8247MB)
+2026-10-11 10:24:14 winsrv-2008-test snapshot after-install-cold created
+2026-10-11 10:26:51 winsrv-2008-test BOOT screenshots taken
+2026-10-11 10:26:51 ALLDONE
+2026-10-11 10:57:09 retry #3 winsrv-2012r2-test with inst-srv2.sh (attempt 2 was interrupted by the reboot switch during specialize)
+2026-10-11 10:57:09 === winsrv-2012r2-test iso=winsrv/WinServer2012R2_EVAL_x64.iso unattend=winsrv2012r2adm mac=00:14:22:6f:74:11
+2026-10-11 10:57:10 winsrv-2012r2-test install started
+2026-10-11 11:02:10 winsrv-2012r2-test t=300s cpu=80.2s delta=11s img=3768MB
+2026-10-11 11:07:10 winsrv-2012r2-test t=600s cpu=135.3s delta=4s img=7694MB
+2026-10-11 11:09:40 winsrv-2012r2-test rebooted at 660s (domid -> 430) and is busy (cpu +11.6s/30s): not touched
+2026-10-11 11:12:10 winsrv-2012r2-test rebooted at 720s (domid -> 431) and is busy (cpu +28.4s/30s): not touched
+2026-10-11 11:15:10 winsrv-2012r2-test t=900s cpu=289.7s delta=48s img=8009MB
+2026-10-11 11:20:11 winsrv-2012r2-test t=1200s cpu=555.6s delta=53s img=8269MB
+2026-10-11 11:25:11 winsrv-2012r2-test t=1500s cpu=803.0s delta=51s img=8303MB
+2026-10-11 11:30:11 winsrv-2012r2-test t=1800s cpu=824.2s delta=1s img=8304MB
+2026-10-11 11:30:11 winsrv-2012r2-test idle after 1800s (img 8304MB)
+2026-10-11 11:30:17 winsrv-2012r2-test snapshot after-install-cold created
+2026-10-11 11:32:54 winsrv-2012r2-test BOOT screenshots taken
+2026-10-11 11:32:54 ALLDONE
+2026-10-11 11:37:23 retry #2 winsrv-2008-test with inst-srv2.sh (attempt 1: 'could not complete the installation')
+2026-10-11 11:37:23 === winsrv-2008-test iso=winsrv/WinServer2008_SP2_x64.iso unattend=winsrv2008adm mac=00:14:22:6f:74:18
+2026-10-11 11:37:24 winsrv-2008-test install started
+2026-10-11 11:42:24 winsrv-2008-test t=300s cpu=64.2s delta=8s img=1249MB
+2026-10-11 11:47:24 winsrv-2008-test t=600s cpu=96.0s delta=6s img=3383MB
+2026-10-11 11:52:25 winsrv-2008-test t=900s cpu=129.2s delta=9s img=5249MB
+2026-10-11 11:57:25 winsrv-2008-test t=1200s cpu=156.4s delta=6s img=7157MB
+2026-10-11 12:03:55 winsrv-2008-test rebooted at 1500s (domid -> 435) and is idle (cpu +1.9s/30s): restarting from the disk only
+2026-10-11 12:09:32 winsrv-2008-test rebooted at 1740s (domid -> 437) and is idle (cpu +.4s/30s): restarting from the disk only
+2026-10-11 12:10:38 winsrv-2008-test t=1800s cpu=34.6s delta=34s img=8248MB
+2026-10-11 12:15:38 winsrv-2008-test t=2100s cpu=46.4s delta=1s img=8248MB
+2026-10-11 12:15:38 winsrv-2008-test idle after 2100s (img 8248MB)
+2026-10-11 12:15:44 winsrv-2008-test snapshot after-install-cold created
+2026-10-11 12:18:21 winsrv-2008-test BOOT screenshots taken
+2026-10-11 12:18:21 ALLDONE
